@@ -1,4 +1,4 @@
-baseURL: "http://inwardmovement.fr/"
+baseURL: "https://inwardmovement.netlify.com/"
 languageCode: "en-us"
 title: "Inward Movement"
 disableLiveReload: true
