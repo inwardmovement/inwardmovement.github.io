@@ -1,0 +1,37 @@
+<aside class="sidebar">
+  <nav aria-label="Poems pagination">
+    <ul class="pagination">
+      {{- if eq .File.BaseFileName "_index" -}}
+        {{- range first 1 .Data.Pages.ByDate -}}
+          <div style="height: 38px;"><li class="page-item"><a class="page-link" href="{{ .Permalink }}">commencer la lecture</a></li></div>
+        {{- end -}}
+      {{- else -}}
+        {{- $currentPage := . -}}
+        {{- range where .Site.Pages.ByDate "Params.recueil" .Params.recueil -}}
+          {{- if eq .URL $currentPage.URL -}}
+            <li class="page-item{{if not .PrevInSection}} disabled noselect{{ end }}"><a class="page-link" href="{{if .PrevInSection}}{{.PrevInSection.Permalink}}{{end}}">précédent</a></li>
+            <li class="page-item{{if not .NextInSection}} disabled noselect{{ end }}"><a class="page-link" href="{{if .NextInSection}}{{.NextInSection.Permalink}}{{end}}">suivant</a></li>
+            {{- end -}}
+        {{- end -}}
+      {{- end }}
+    </ul>
+  </nav>
+  <nav class="card" aria-label="Poems navigation">
+    <div class="card-header">
+      <ul>
+        {{- $currentPage := . }}
+        {{- if eq .File.BaseFileName "_index" -}}
+          {{- range .Data.Pages.ByDate -}}
+          {{- $isCurrent := eq .URL $currentPage.URL -}}
+            <li><a{{ if $isCurrent }} class="current"{{ end }} href="{{ .Permalink }}">{{ .Title }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a></li>
+          {{- end -}}
+        {{- else -}}
+          {{- range where .Site.Pages.ByDate "Params.recueil" .Params.recueil -}}
+          {{- $isCurrent := eq .URL $currentPage.URL }}
+            <li><a{{ if $isCurrent }} class="current"{{ end }} href="{{ .Permalink }}">{{ .Title }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a></li>
+          {{- end -}}
+        {{- end }}
+      </ul>
+    </div>
+  </nav>
+</aside>

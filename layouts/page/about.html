@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <main class="container">
+    <article>
+      <h2>{{ .Title }}</h2><br>
+        {{ .Content -}}
+        {{ partial "modal-donation" . }}
+    </article>
+  </main>
+{{ end }}

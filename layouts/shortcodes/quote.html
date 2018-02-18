@@ -1,0 +1,4 @@
+<blockquote class="blockquote">
+  {{ .Inner }}
+  {{ with .Get 0 }}<footer class="blockquote-footer">{{ . }}</footer><style>blockquote p:last-of-type {margin-bottom: 1.25rem;}</style>{{ end }}
+</blockquote>

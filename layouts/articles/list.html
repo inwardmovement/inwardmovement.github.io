@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <main class="container">
+    <article>
+      <h2>{{ .Title }}</h2><br><hr>
+        <p>en</p>
+        <ul>
+          {{ range where .Data.Pages.ByDate.Reverse "Params.lang" "en" -}}
+            <li><a href="{{ .Permalink }}">{{.Title}}</a></li>
+          {{ end -}}
+        </ul>
+        <br><hr>
+        <p>fr</p>
+        <ul>
+          {{ range where .Data.Pages.ByDate.Reverse "Params.lang" "fr" -}}
+            <li><a href="{{ .Permalink }}">{{.Title}}</a></li>
+          {{ end -}}
+        </ul>
+    </article>
+  </main>
+{{ end }}

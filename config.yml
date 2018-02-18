@@ -1,0 +1,58 @@
+baseURL: "http://inwardmovement.fr/"
+languageCode: "en-us"
+title: "Inward Movement"
+disableLiveReload: true
+disableFastRender: true
+metaDataFormat: "yaml"
+rssLimit: 10
+disableKinds: ["taxonomy", "taxonomyTerm"]
+enableRobotsTXT: true
+params:
+  description: "Writer, developer, activist"
+  author: "Victor Massé"
+author:
+  name: "Victor Massé"
+blackfriday:
+  smartypantsQuotesNBSP: true
+  extensions:
+    - hardLineBreak
+menu:
+  mainleft:
+      - Name: "Poems"
+        URL: "/poems/"
+        Identifier: "poems"
+        weight: 1
+      - Name: "Articles"
+        URL: "/articles/"
+        Identifier: "articles"
+        weight: 2
+      - Name: "Activism"
+        URL: "/activism/"
+        Identifier: "activism"
+        weight: 3
+  mainright:
+      - Name: "About"
+        URL: "/about/"
+        Identifier: "about"
+        weight: 1
+  recueils:
+      - Name: "Fleurs persistantes"
+        URL: "/poems/fleurspersistantes/"
+        Identifier: "fleurspersistantes"
+        weight: 1
+      - Name: "SuperEro"
+        URL: "/poems/superero/"
+        Identifier: "superero"
+        weight: 2
+      - Name: "Poudre à rêver"
+        URL: "/poems/poudrearever/"
+        Identifier: "poudrearever"
+        weight: 3
+      - Name: "Méditations"
+        URL: "/poems/meditations/"
+        Identifier: "meditations"
+        weight: 4
+      - Name: "Poèmes"
+        URL: "/poems/poemes/"
+        Identifier: "poemes"
+        weight: 5
