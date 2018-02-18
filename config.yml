@@ -3,7 +3,7 @@ languageCode: "en-us"
 title: "Inward Movement"
 disableLiveReload: true
 disableFastRender: true
-metaDataFormat: "yaml"
+metaDataFormat: yaml
 rssLimit: 10
 disableKinds: ["taxonomy", "taxonomyTerm"]
 enableRobotsTXT: true
