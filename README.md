@@ -4,7 +4,7 @@
 
 Backend: [Hugo](https://gohugo.io/)  
 Frontend: [Bootstrap](http://getbootstrap.com/)  
-Hosting: [Netlify](https://www.netlify.com/)  
+Hosting: [GitHub](https://pages.github.com/)  
 
 [RSS](https://inwardmovement.github.io/index.xml)  
 
