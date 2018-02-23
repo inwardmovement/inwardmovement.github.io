@@ -7,7 +7,12 @@
     </div>
   </div>
 </nav>
-<script src="{{ .Site.BaseURL }}js/jquery.js"></script>
-<script src="{{ .Site.BaseURL }}js/popper.js"></script>
-<script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/style.js"></script>
+
+{{ if not .Site.BuildDrafts }}
+  <script src="{{ .Site.BaseURL }}main.js"></script>
+{{ else }}
+  <script src="{{ .Site.BaseURL }}js/jquery.js"></script>
+  <script src="{{ .Site.BaseURL }}js/popper.js"></script>
+  <script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script>
+  <script src="{{ .Site.BaseURL }}js/style.js"></script>
+{{ end }}

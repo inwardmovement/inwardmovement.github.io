@@ -5,10 +5,9 @@ disableLiveReload: true
 disableFastRender: true
 metaDataFormat: yaml
 rssLimit: 10
-# googleAnalytics: ""
 enableRobotsTXT: true
 disableKinds: ["taxonomy", "taxonomyTerm"]
-ignoreFiles: ["static//css//.*.css$", "static//js//.*.js$"]
+# ignoreFiles: ["static//css//.*.css$", "static//js//.*.js$"]
 params:
   description: "Writer, developer, activist"
   author: "Victor Massé"
