@@ -11,4 +11,4 @@ Hosting: [GitHub](https://pages.github.com/)
 ---
 
 à faire :  
-- toc à partir de h3 quand choix possible ([voir](https://gohugo.io/content-management/toc/))
+- toc à partir de h3 quand choix possible ([voir](https://gohugo.io/content-management/toc/))  
