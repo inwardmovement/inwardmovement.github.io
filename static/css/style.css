@@ -304,10 +304,11 @@ blockquote {
 
 .blockquote-footer {
   font-style: normal;
+  margin-top: 1.25rem;
 }
 
 blockquote p:last-of-type {
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
 }
 
 /************************************************************

@@ -1,0 +1,26 @@
+{
+  "name": "inwardmovement.github.io",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inwardmovement/inwardmovement.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inwardmovement/inwardmovement.github.io/issues"
+  },
+  "homepage": "https://github.com/inwardmovement/inwardmovement.github.io",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}

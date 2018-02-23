@@ -4,6 +4,8 @@
 
 Backend: [Hugo](https://gohugo.io/)  
 Frontend: [Bootstrap](http://getbootstrap.com/)  
+Tasks automation: [Gulp](https://gulpjs.com/)  
+Build and deploy: [Travis CI](https://travis-ci.org)  
 Hosting: [GitHub](https://pages.github.com/)  
 
 [RSS](https://inwardmovement.github.io/index.xml)  

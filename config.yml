@@ -1,12 +1,14 @@
-baseURL: "https://inwardmovement.netlify.com/"
+baseURL: "https://inwardmovement.github.io/"
 languageCode: "en-us"
 title: "Inward Movement"
 disableLiveReload: true
 disableFastRender: true
 metaDataFormat: yaml
 rssLimit: 10
-disableKinds: ["taxonomy", "taxonomyTerm"]
+# googleAnalytics: ""
 enableRobotsTXT: true
+disableKinds: ["taxonomy", "taxonomyTerm"]
+ignoreFiles: ["static//css//.*.css$", "static//js//.*.js$"]
 params:
   description: "Writer, developer, activist"
   author: "Victor Massé"
