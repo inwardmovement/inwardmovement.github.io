@@ -1,9 +1,9 @@
 var gulp    = require('gulp'),
     concat  = require('gulp-concat'),
-    minify  = require('gulp-clean-css'),
     uglify  = require('gulp-uglify'),
     exec    = require('child_process').exec,
     del     = require('del');
+let minify  = require('gulp-clean-css');
 
 gulp.task('default', [ 'clean1', 'css', 'js', 'hugo', 'clean2' ]);
 
