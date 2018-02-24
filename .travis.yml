@@ -1,7 +1,10 @@
 language: node_js
 node_js:
   - "lts/*"
+go:
+  - master
 install:
+  - go get -t github.com/gohugoio/hugo
   - npm install
 before_script:
   - npm install -g gulp-cli
