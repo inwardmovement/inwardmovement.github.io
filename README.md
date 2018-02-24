@@ -7,13 +7,15 @@
 Backend: [Hugo](https://gohugo.io/)  
 Frontend: [Bootstrap](http://getbootstrap.com/)  
 Hosting: [GitHub](https://pages.github.com/)  
-Tasks automation: [Gulp](https://gulpjs.com/)  
+Package manager: [npm](https://www.npmjs.com/)  
+Task automation: [Gulp](https://gulpjs.com/)  
 Build and deploy: [Travis CI](https://travis-ci.org)  
 
 [RSS](https://inwardmovement.github.io/index.xml)  
 
 ---
 
+Install Hugo, npm and Gulp, then:  
 1. `npm install` to install dependencies
 2. `hugo server -D` to serve locally using development assets
 
