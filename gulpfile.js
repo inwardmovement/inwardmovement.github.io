@@ -1,10 +1,9 @@
-var gulp        = require('gulp'),
-    concat      = require('gulp-concat'),
-    minify      = require('gulp-clean-css'),
-    sourcemaps  = require('gulp-sourcemaps'),
-    uglify      = require('gulp-uglify'),
-    exec        = require('child_process').exec,
-    del         = require('del');
+var gulp    = require('gulp'),
+    concat  = require('gulp-concat'),
+    minify  = require('gulp-clean-css'),
+    uglify  = require('gulp-uglify'),
+    exec    = require('child_process').exec,
+    del     = require('del');
 
 gulp.task('default', [ 'clean1', 'css', 'js', 'hugo', 'clean2' ]);
 
@@ -15,9 +14,7 @@ gulp.task('clean1', function(){
 gulp.task('css', function(){
   return gulp.src('static/css/*.css')
     .pipe(concat('main.css'))
-    .pipe(sourcemaps.init())
     .pipe(minify())
-    .pipe(sourcemaps.write())
     .pipe(gulp.dest('static'))
 });
 
