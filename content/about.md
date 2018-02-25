@@ -27,3 +27,8 @@ You can {{< support-me >}}
 
 You can write me at
 `victor.dhamma@gmail.com`
+<br>
+
+---
+
+[RSS](https://inwardmovement.github.io/index.xml) · [Instagram](https://www.instagram.com/inwardmovement/) · [LinkedIn](https://www.linkedin.com/in/inwardmovement/)
