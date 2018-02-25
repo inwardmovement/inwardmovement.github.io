@@ -8,11 +8,9 @@
   </div>
 </nav>
 
-{{ if not .Site.BuildDrafts }}
-  <script src="{{ "main.js" | relURL }}"></script>
-{{ else }}
+
   <script src="{{ "js/jquery.js" | relURL }}"></script>
   <script src="{{ "js/popper.js" | relURL }}"></script>
   <script src="{{ "js/bootstrap.min.js" | relURL }}"></script>
   <script src="{{ "js/style.js" | relURL }}"></script>
-{{ end }}
+

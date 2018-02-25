@@ -36,8 +36,6 @@ gulp.task('hugo', ['clean1', 'css', 'js'], function (fetch) {
 gulp.task('clean2', ['hugo'], function () {
   return del([
       'static/main.css',
-      'static/main.js',
-      'public/css',
-      'public/js'
+      'static/main.js'
   ]);
 });
