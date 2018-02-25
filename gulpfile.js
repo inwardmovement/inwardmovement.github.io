@@ -20,8 +20,8 @@ gulp.task('css', function(){
 
 gulp.task('js', function(){
   return gulp.src('static/js/*.js')
-    .pipe(uglify())
     .pipe(concat('main.js'))
+    .pipe(uglify())
     .pipe(gulp.dest('static'))
 });
 
