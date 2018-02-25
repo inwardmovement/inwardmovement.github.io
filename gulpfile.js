@@ -22,7 +22,7 @@ gulp.task('js', function(){
   return gulp.src([
     'static/js/jquery.js',
     'static/js/popper.js',
-    'static/js/bootstrap.min.js',
+    'static/js/bootstrap.js',
     'static/js/style.js'
     ])
     .pipe(concat('main.js'))
