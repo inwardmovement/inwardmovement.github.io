@@ -20,8 +20,8 @@ gulp.task('css', function(){
 
 gulp.task('js', function(){
   return gulp.src('static/js/*.js')
-    .pipe(concat('main.js'))
     .pipe(uglify())
+    .pipe(concat('main.js'))
     .pipe(gulp.dest('static'))
 });
 
@@ -36,6 +36,8 @@ gulp.task('hugo', ['clean1', 'css', 'js'], function (fetch) {
 gulp.task('clean2', ['hugo'], function () {
   return del([
       'static/main.css',
-      'static/main.js'
+      'static/main.js',
+      'public/css',
+      'public/js'
   ]);
 });
