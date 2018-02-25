@@ -5,12 +5,12 @@
 <meta name="author" content="{{ .Site.Params.author }}">
 {{ .Hugo.Generator }}
 {{ if not .Site.BuildDrafts }}
-  <script src="{{ .Site.BaseURL }}main.css"></script>
+  <script src="{{ "main.css" | relURL }}"></script>
 {{ else }}
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css">
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
+  <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 {{ end }}
-<link rel="icon" href="{{ .Site.BaseURL }}img/avatar.png">
+<link rel="icon" href="{{ "img/avatar.png" | relURL }}">
 {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />

@@ -1,7 +1,7 @@
 {{ define "main" }}
   {{ partial "nav-recueils" . }}
   <main class="container">
-    <div class="recueils-subtext text-center text-muted ca"><img src="{{ .Site.BaseURL }}img/arrow.png" alt="arrow"> choisis un recueil</div>
+    <div class="recueils-subtext text-center text-muted ca"><img src="{{ "img/arrow.png" | relURL }}" alt="arrow"> choisis un recueil</div>
     {{ .Content -}}
   </main>
 {{ end }}
