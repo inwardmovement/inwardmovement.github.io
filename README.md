@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/inwardmovement/inwardmovement.github.io.svg?branch=source)](https://travis-ci.org/inwardmovement/inwardmovement.github.io)  
+[![Build Status](https://travis-ci.org/inwardmovement/inwardmovement.github.io.svg?branch=source)](https://travis-ci.org/inwardmovement/inwardmovement.github.io) [![w3c](https://img.shields.io/badge/w3c-valid-brightgreen.svg)](https://validator.w3.org/check?uri=https://inwardmovement.github.io/)  
 
 (migrating to Hugo/GitHub, work in progress)  
 
