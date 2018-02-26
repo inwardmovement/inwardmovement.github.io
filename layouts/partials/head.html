@@ -1,9 +1,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="preload" href="{{ .Site.BaseURL }}img/arrow.png" as="image">
+{{ .Hugo.Generator }}
+<!-- <meta name="environment" content="$HUGO_ENV">
+<meta name="commit" content="$TRAVIS_COMMIT"> -->
+<link rel="preload" href="{{ "mimg/arrow.png" | relURL }}" as="image">
 <meta name="description" content="{{ .Site.Title }}: {{ .Site.Params.description }}.">
 <meta name="author" content="{{ .Site.Params.author }}">
-{{ .Hugo.Generator }}
 {{ if not .Site.BuildDrafts }}
   <link rel="stylesheet" href="{{ "main.css" | relURL }}">
 {{ else }}
