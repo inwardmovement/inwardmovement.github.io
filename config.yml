@@ -3,7 +3,6 @@ languageCode: "en-us"
 title: "Inward Movement"
 disableLiveReload: true
 disableFastRender: true
-enableGitInfo: true
 metaDataFormat: yaml
 rssLimit: 10
 enableRobotsTXT: true
