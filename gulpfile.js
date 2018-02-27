@@ -42,6 +42,7 @@ gulp.task('clean2', ['hugo'], function () {
   return del([
       'static/main.css',
       'static/main.js',
+      'public/img',
       'public/css',
       'public/js'
   ]);
