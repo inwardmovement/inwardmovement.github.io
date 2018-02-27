@@ -20,7 +20,7 @@ deploy:
   on:
     branch: source
 env:
-  - HUGO_ENV=production
+  - PRODUCTION=true
 cache:
   directories:
     - "node_modules"
