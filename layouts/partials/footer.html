@@ -8,7 +8,7 @@
   </div>
 </nav>
 
-{{ if not .Site.BuildDrafts }}
+{{ if eq (getenv "HUGO_ENV") "production" }}
   <script src="{{ "main.js" | relURL }}"></script>
 {{ else }}
   <script src="{{ "js/jquery.js" | relURL }}"></script>
