@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 {{ .Hugo.Generator }}
-<meta name="environment" content="$HUGO_ENV">
+<meta name="environment" content="{{ getenv "HUGO_ENV" }}">
 <meta name="commit" content="$TRAVIS_COMMIT">
 <meta name="description" content="{{ .Site.Title }}: {{ .Site.Params.description }}.">
 <meta name="author" content="{{ .Site.Params.author }}">
