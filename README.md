@@ -1,18 +1,11 @@
 [![Build status](https://travis-ci.org/inwardmovement/inwardmovement.github.io.svg?branch=source)](https://travis-ci.org/inwardmovement/inwardmovement.github.io)
 [![W3C validator status](https://img.shields.io/badge/W3C-check-blue.svg)](https://validator.w3.org/check?uri=https://inwardmovement.github.io/)  
 
-(migrating to Hugo/GitHub, work in progress)  
-
----
+(migrating content)  
 
 Backend: [Hugo](https://gohugo.io/)  
 Frontend: [Bootstrap](http://getbootstrap.com/)  
 Hosting: [GitHub](https://pages.github.com/)  
-
----
-
-todo:
-- use environment variables to detect production environment rather than `{{ if not .Site.BuildDrafts }}` + `hugo server -D` ([see](https://discourse.gohugo.io/t/distinguish-production-from-development/2855/6?u=inwardmovement))
 
 ---
 

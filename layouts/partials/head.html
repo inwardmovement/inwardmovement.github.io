@@ -1,5 +1,5 @@
 {{ with (getenv "PRODUCTION") }}
-  <meta name="commit" content="{{ substr (getenv "TRAVIS_COMMIT") 0 7 }}">
+  <meta name="version" content="{{ substr (getenv "TRAVIS_COMMIT") 0 7 }}">
 {{ end }}
 {{ .Hugo.Generator }}
 <meta charset="utf-8">

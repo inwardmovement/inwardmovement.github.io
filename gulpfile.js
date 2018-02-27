@@ -5,9 +5,9 @@ var gulp    = require('gulp'),
     exec    = require('child_process').exec,
     del     = require('del');
 
-gulp.task('default', [ 'clean1', 'css', 'js', 'hugo', 'clean2' ]);
+gulp.task('default', [ 'reset', 'css', 'js', 'hugo', 'clean' ]);
 
-gulp.task('clean1', function(){
+gulp.task('reset', function(){
     return del('public/**/*');
 });
 
@@ -30,7 +30,7 @@ gulp.task('js', function(){
     .pipe(gulp.dest('static'))
 });
 
-gulp.task('hugo', ['clean1', 'css', 'js'], function (fetch) {
+gulp.task('hugo', ['reset', 'css', 'js'], function (fetch) {
   return exec('hugo', function (err, stdout, stderr) {
     console.log(stdout);
     console.log(stderr);
@@ -38,7 +38,7 @@ gulp.task('hugo', ['clean1', 'css', 'js'], function (fetch) {
   });
 })
 
-gulp.task('clean2', ['hugo'], function () {
+gulp.task('clean', ['hugo'], function () {
   return del([
       'static/main.css',
       'static/main.js',
