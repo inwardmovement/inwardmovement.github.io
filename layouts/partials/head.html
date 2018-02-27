@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 {{ .Hugo.Generator }}
 <meta name="context" content="{{ with (getenv "HUGO_ENV") }}{{ . }}{{ else }}development{{ end }}">
-<meta name="commit" content="$TRAVIS_COMMIT">
+<meta name="version" content="{{ with (getenv "TRAVIS_COMMIT") }}{{ . }}{{ else }}unknown{{ end }}">
 <meta name="description" content="{{ .Site.Title }}: {{ .Site.Params.description }}.">
 <meta name="author" content="{{ .Site.Params.author }}">
 {{ if not .Site.BuildDrafts }}
