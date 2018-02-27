@@ -1,7 +1,8 @@
 ---
 title: test loop
 recueil: superero
-date: 2018-02-13
+lang: fr
+date: 2018-02-13T00:00:00
 ---
 
 se1

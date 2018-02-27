@@ -1,6 +1,6 @@
 ---
 title: test article 2
-lang: en
+lang: fr
 ---
 
 caca2
