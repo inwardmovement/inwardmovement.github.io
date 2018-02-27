@@ -19,6 +19,8 @@ deploy:
   github-token: $GITHUB_TOKEN
   on:
     branch: source
+env:
+  - HUGO_ENV=production
 cache:
   directories:
     - "node_modules"
