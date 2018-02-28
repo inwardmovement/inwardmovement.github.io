@@ -1,7 +1,7 @@
-{{ with (getenv "PRODUCTION") -}}
+{{- with (getenv "PRODUCTION") -}}
   <meta name="version" content="{{ substr (getenv "TRAVIS_COMMIT") 0 7 }}">
 {{- end }}
-{{ .Hugo.Generator -}}
+{{- .Hugo.Generator -}}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="{{ .Site.Title }}: {{ .Site.Params.description }}.">
@@ -25,5 +25,5 @@
 
     gtag('config', 'UA-114704921-1');
   </script>
-{{ end }}
+{{- end }}
 <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ if .IsHome }} | {{ .Site.Params.description }}{{ end }}</title>
