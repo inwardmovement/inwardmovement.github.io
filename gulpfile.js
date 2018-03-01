@@ -2,10 +2,11 @@ var gulp    = require('gulp'),
     concat  = require('gulp-concat'),
     minify  = require('gulp-clean-css'),
     uglify  = require('gulp-uglify'),
+    beautify  = require('gulp-html-beautify'),
     exec    = require('child_process').exec,
     del     = require('del');
 
-gulp.task('default', [ 'reset', 'css', 'js', 'hugo', 'clean' ]);
+gulp.task('default', [ 'reset', 'css', 'js', 'hugo', 'html', 'clean' ]);
 
 gulp.task('reset', function(){
     return del('public/**/*');
@@ -38,7 +39,20 @@ gulp.task('hugo', ['reset', 'css', 'js'], function (fetch) {
   });
 })
 
-gulp.task('clean', ['hugo'], function () {
+gulp.task('html', ['hugo'], function() {
+  var options = {
+      "useConfig": false,
+      "indent_with_tabs": true,
+      "preserve_newlines": false,
+      "indent_char": " ",
+      "indentSize": 1
+  };
+  gulp.src('public/**/*.html')
+    .pipe(beautify(options))
+    .pipe(gulp.dest('public'))
+});
+
+gulp.task('clean', ['html'], function () {
   return del([
       'static/main.css',
       'static/main.js',
