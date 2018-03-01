@@ -4,11 +4,15 @@
 html {
   position: relative;
   min-height: 100%;
-  overflow-y: scroll;
+  overflow-y: scroll !important;
 }
 
 body {
   cursor: default;
+}
+
+body.modal-open {
+  padding-right: 0 !important;
 }
 
 a:focus, a:hover {
@@ -72,6 +76,10 @@ p ~ h3, p ~ h4, p ~ h5, p ~ h6 {
 .recueils-subtext img {
   width: 30px;
   padding-bottom: 10px;
+}
+
+#modalDonation {
+  padding-right: 0 !important;
 }
 
 /************************************************************
@@ -160,6 +168,10 @@ main.container.article {
 
 .nav-recueils ul li.active a {
   color: #6c757d;
+}
+
+.navbar-toggler {
+  margin-right: 0 !important;
 }
 
 /************************************************************
