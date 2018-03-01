@@ -1,3 +1,6 @@
+{{- with (getenv "PRODUCTION") }}
+  <meta name="version" content="{{ substr (getenv "TRAVIS_COMMIT") 0 7 }}">
+{{- end }}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 {{ .Hugo.Generator -}}
