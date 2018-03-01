@@ -6,7 +6,7 @@
       </div>
     </div>
   </div>
-  {{- with (getenv "PRODUCTION") -}}
+  {{- with (getenv "PRODUCTION") }}
     <code class="version text-muted d-none d-xl-block">{{ substr (getenv "TRAVIS_COMMIT") 0 7 }} </code>
   {{- end }}
 </nav>
