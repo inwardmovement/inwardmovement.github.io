@@ -1,8 +1,9 @@
 <nav class="navbar navbar-expand navbar-light bg-light nav-footer" aria-label="Footer navigation">
+  <code class="version text-muted d-none d-xl-block"> {{ substr (getenv "TRAVIS_COMMIT") 0 7 }} / <span id="repo-version"></span></code>
 
-  {{- with (getenv "PRODUCTION") -}}
+  <!-- {{- with (getenv "PRODUCTION") -}}
     <code class="version text-muted d-none d-xl-block"> <span id="travis-version">{{ substr (getenv "TRAVIS_COMMIT") 0 7 }} / </span><span id="repo-version"></span></code>
-  {{- end }}
+  {{- end }} -->
   <div class="container">
     <div class="collapse navbar-collapse">
       <div class="navbar-nav mx-auto">
