@@ -1,7 +1,4 @@
 <nav class="navbar navbar-expand navbar-light bg-light nav-footer" aria-label="Footer navigation">
-  {{- with (getenv "PRODUCTION") -}}
-    <code class="version text-muted d-none d-xl-block"> {{ substr (getenv "TRAVIS_COMMIT") 0 7 }}</code>
-  {{- end }}
   <div class="container">
     <div class="collapse navbar-collapse">
       <div class="navbar-nav mx-auto">
@@ -9,6 +6,9 @@
       </div>
     </div>
   </div>
+  {{- with (getenv "PRODUCTION") -}}
+    <code class="version text-muted d-none d-xl-block">{{ substr (getenv "TRAVIS_COMMIT") 0 7 }} </code>
+  {{- end }}
 </nav>
 
 {{- with (getenv "PRODUCTION") }}

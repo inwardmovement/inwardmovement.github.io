@@ -85,7 +85,7 @@ p ~ h3, p ~ h4, p ~ h5, p ~ h6 {
 .version {
   position: absolute;
   bottom: 0;
-  left: 0;
+  right: 0;
 }
 
 /************************************************************
