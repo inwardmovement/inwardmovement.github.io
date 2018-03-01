@@ -42,10 +42,9 @@ gulp.task('hugo', ['reset', 'css', 'js'], function (fetch) {
 gulp.task('html', ['hugo'], function() {
   var options = {
       "useConfig": false,
-      "indent_with_tabs": true,
       "preserve_newlines": false,
       "indent_char": " ",
-      "indentSize": 1
+      "indentSize": 2
   };
   gulp.src('public/**/*.html')
     .pipe(beautify(options))
