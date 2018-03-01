@@ -1,6 +1,7 @@
 <nav class="navbar navbar-expand navbar-light bg-light nav-footer" aria-label="Footer navigation">
+
   {{- with (getenv "PRODUCTION") -}}
-    <code class="version text-muted d-none d-xl-block"> {{ substr (getenv "TRAVIS_COMMIT") 0 7 }}</code>
+    <code class="version text-muted d-none d-xl-block"> <span id="travis-version">{{ substr (getenv "TRAVIS_COMMIT") 0 7 }} / </span><span id="repo-version"></span></code>
   {{- end }}
   <div class="container">
     <div class="collapse navbar-collapse">
@@ -17,5 +18,5 @@
   <script src="{{ "js/jquery.js" | relURL }}"></script>
   <script src="{{ "js/popper.js" | relURL }}"></script>
   <script src="{{ "js/bootstrap.js" | relURL }}"></script>
-  <script src="{{ "js/style.js" | relURL }}"></script>
+  <script src="{{ "js/app.js" | relURL }}"></script>
 {{ end -}}
