@@ -44,7 +44,7 @@ gulp.task('html', ['hugo'], function() {
       "useConfig": false,
       "preserve_newlines": false,
       "indent_char": " ",
-      "indentSize": 2
+      "indentSize": 1
   };
   gulp.src('public/**/*.html')
     .pipe(beautify(options))
