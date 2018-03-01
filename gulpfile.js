@@ -3,6 +3,7 @@ var gulp      = require('gulp'),
     minify    = require('gulp-clean-css'),
     uglify    = require('gulp-uglify'),
     beautify  = require('gulp-html-prettify'),
+    trim      = require('gulp-remove-empty-lines'),
     exec      = require('child_process').exec,
     del       = require('del');
 
@@ -42,6 +43,7 @@ gulp.task('hugo', ['reset', 'css', 'js'], function (fetch) {
 gulp.task('html', ['hugo'], function() {
   return gulp.src('public/**/*.html')
     .pipe(beautify({indent_char: ' ', indent_size: 2}))
+    .pipe(trim())
     .pipe(gulp.dest('public'))
 });
 
