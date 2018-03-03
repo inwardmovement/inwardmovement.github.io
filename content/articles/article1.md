@@ -1,5 +1,5 @@
 ---
-title: test article
+title: Test article blablablabla blbabl
 lang: fr
 ---
 

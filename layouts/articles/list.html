@@ -1,16 +1,9 @@
 {{ define "main" }}
   <main class="container">
     <article>
-      <h2>{{ .Title }}</h2><br><hr><br>
-        <em>translation to come</em>
+      <h2>{{ .Title }}</h2><br>
         <ul>
-          {{ range where .Data.Pages.ByDate.Reverse "Params.lang" "en" -}}
-            <li><a href="{{ .Permalink }}">{{.Title}}</a></li>
-          {{ end -}}
-        </ul>
-        <br><hr><br>
-        <ul>
-          {{ range where .Data.Pages.ByDate.Reverse "Params.lang" "fr" -}}
+          {{ range .Data.Pages.ByDate.Reverse -}}
             <li><a href="{{ .Permalink }}">{{.Title}}</a></li>
           {{ end -}}
         </ul>
