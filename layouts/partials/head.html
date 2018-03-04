@@ -1,4 +1,4 @@
-{{- with (getenv "PRODUCTION") }}
+{{- with (getenv "TRAVIS") }}
   <meta name="version" content="{{ substr (getenv "TRAVIS_COMMIT") 0 7 }}">
 {{- end }}
 {{ .Hugo.Generator -}}
