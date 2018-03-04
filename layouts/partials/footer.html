@@ -8,7 +8,7 @@
   </div>
 </nav>
 
-{{- with (getenv "PRODUCTION") }}
+{{- with (getenv "CI") }}
   <script src="{{ "main.js" | relURL }}"></script>
 {{ else }}
   <script src="{{ "js/jquery.js" | relURL }}"></script>
@@ -16,4 +16,3 @@
   <script src="{{ "js/bootstrap.js" | relURL }}"></script>
   <script src="{{ "js/app.js" | relURL }}"></script>
 {{ end -}}
-
