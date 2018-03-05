@@ -12,5 +12,4 @@ Hosting: [GitHub](https://pages.github.com/)
 ---
 
 waiting for Hugo update:  
-- exclude `h1` and `h2` from tables of content ([issue](https://github.com/gohugoio/hugo/issues/1778))
-- ignore `static/css`, `static/js` and `static/img` on build ([issue](https://github.com/gohugoio/hugo/issues/1559#issuecomment-368063562))
+- ignore `static/css` and `static/js` on build ([issue](https://github.com/gohugoio/hugo/issues/1559#issuecomment-368063562))

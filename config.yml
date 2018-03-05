@@ -1,5 +1,5 @@
 baseURL: "https://inwardmovement.github.io/"
-languageCode: "fr"
+languageCode: "en"
 title: "Inward Movement"
 disableLiveReload: true
 # disableFastRender: true
@@ -17,6 +17,7 @@ blackfriday:
   angledQuotes: true
   extensions:
     - hardLineBreak
+footnoteReturnLinkContents: "↑"
 menu:
   mainleft:
       - Name: "Poems"
@@ -27,10 +28,14 @@ menu:
         URL: "/articles/"
         Identifier: "articles"
         weight: 2
+      - Name: "Blog"
+        URL: "/blog/"
+        Identifier: "blog"
+        weight: 3
       - Name: "Activism"
         URL: "/activism/"
         Identifier: "activism"
-        weight: 3
+        weight: 5
   mainright:
       - Name: "About"
         URL: "/about/"
