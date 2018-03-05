@@ -53,8 +53,14 @@ gulp.task('html', ['hugo'], function() {
 
 gulp.task('replace', ['html'], function() {
   return gulp.src('public/**/*.html')
-    .pipe(replace('&laquo;', '&laquo; '))
-    .pipe(replace('&raquo;', ' &raquo;'))
+    .pipe(replace('&laquo;', '&laquo;&#8239;'))
+    .pipe(replace('&raquo;', '&#8239;&raquo;'))
+    .pipe(replace(' :', '&#8239;:'))
+    .pipe(replace(' ;', '&#8239;;'))
+    .pipe(replace(' !', '&#8239;!'))
+    .pipe(replace(' ?', '&#8239;?'))
+    .pipe(replace('%', '&#8239;%'))
+    .pipe(replace('€', '&#8239;€'))
     .pipe(gulp.dest('public'))
 });
 

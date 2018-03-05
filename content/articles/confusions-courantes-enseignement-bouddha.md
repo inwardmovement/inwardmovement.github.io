@@ -17,16 +17,16 @@ Les bouddhismes sont différents systèmes de normes et de valeurs plus ou moins
 On y trouve souvent des éléments qui ne figurent pas dans l'enseignement, et il y manque souvent des éléments qui sont présents dans l'enseignement.
 
 ### Démarche
-Lors de désaccords sur l'aspect théorique de l'enseignement du Bouddha, rappelons-nous que sa doctrine invite à investiguer soi-même la réalité (par une technique de méditation précise) afin de la comprendre en profondeur par notre propre expérience.
+Lors de désaccords sur l'interprétation de l'enseignement du Bouddha, rappelons que sa doctrine invite à investiguer soi-même la réalité (par une technique de méditation précise) afin de la comprendre en profondeur par notre propre expérience.
 
 Inutile de se focaliser sur les désaccords d'interprétation, mieux vaut s'en tenir à ce qui nous semble le plus pertinent selon notre propre observation de la réalité : c'est cela qu'il faut débattre et c'est là que nous avons à y gagner.
 
 ### Confusions
 De traductions parfois imprécises du canon pāli peuvent émerger certaines confusions.
 
-Par exemple le terme *upekkhā* est souvent traduit par « détachement » ou « indifférence », termes fortement connotés et ambigus, alors qu'il désigne précisément l'*équanimité* : la capacité à garder un esprit calme et équilibré en toutes circonstances. Dire que le Bouddha « prône le détachement » est une caricature qui mène à confusion.
+Par exemple le terme *upekkhā* est souvent traduit par "détachement" ou "indifférence, termes fortement connotés et ambigus, alors qu'il désigne précisément l'*équanimité* : la capacité à garder un esprit calme et équilibré en toutes circonstances. Dire que le Bouddha "prône le détachement" est une caricature qui mène à confusion.
 
-Le terme *taṇhā* est souvent traduit par « désir » ou « envie », mots extrêmement vagues, alors qu'il signifie *soif* et désigne trois formes d'avidité : attachement aux plaisirs des sens, désir de ce qui n'est pas et aversion pour ce qui est. Dire que d'après le Bouddha « il ne faut rien désirer » est également une caricature qui mène à confusion.
+Le terme *taṇhā* est souvent traduit par "désir" ou "envie", mots extrêmement vagues, alors qu'il signifie *soif* et désigne trois formes d'avidité : attachement aux plaisirs des sens, désir de ce qui n'est pas et aversion pour ce qui est. Dire que d'après le Bouddha "il ne faut rien désirer" est également une caricature qui mène à confusion.
 
 Il est important de se référer au sens des mots pālis pour comprendre l'enseignement.
 
