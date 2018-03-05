@@ -450,7 +450,7 @@ Copyright 2015 Google Inc. All Rights Reserved.
 
 "Dancing Script"
 Copyright 2016 The Dancing Script Project Authors (impallari@gmail.com),
-with Reserved Font Name 'Dancing Script’.
+with Reserved Font Name 'Dancing Script'.
 
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide

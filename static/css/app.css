@@ -9,6 +9,7 @@ html {
 
 body {
   cursor: default;
+  font-size: 1.06rem;
 }
 
 body.modal-open {
@@ -125,12 +126,17 @@ main.container.article {
   padding-right: 0px;
 }
 
+.navbar-collapse {
+  font-size: 1rem;
+}
+
 .navbar-toggler {
   margin-right: 0 !important;
 }
 
 .nav-recueils {
   margin-bottom: 56px;
+  font-size: 1rem;
 }
 
 .nav-recueils .breadcrumb {
@@ -202,16 +208,28 @@ p ~ h3, p ~ h4, p ~ h5, p ~ h6 {
   margin-top: 2.5rem;
 }
 
+.article h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.article h3 {
+  font-weight: 300;
+}
+
 .article h4 {
   padding-left: 2rem;
+  font-weight: 300;
 }
 
 .article h5 {
   padding-left: 4rem;
+  font-weight: 300;
 }
 
 .article h6 {
   padding-left: 6rem;
+  font-weight: 300;
 }
 
 /************************************************************
@@ -221,6 +239,7 @@ p ~ h3, p ~ h4, p ~ h5, p ~ h6 {
   border: 1px solid #a2a9b1;
   background-color: #f8f9fa;
   margin-top: 1rem;
+  margin-bottom: 1rem;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: -20px;
@@ -277,9 +296,9 @@ article p {
   }
 }
 
-@media (min-width: 650px) {
+@media (min-width: 705px) {
   article {
-    max-width: 600px;
+    max-width: 655px;
   }
 }
 
