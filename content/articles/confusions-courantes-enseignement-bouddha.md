@@ -5,7 +5,7 @@ lang: fr
 ---
 
 ### Le Dhamma
-L'enseignement du Bouddha est appelé « Dhamma », qui signifie en pāli *loi de la Nature*.
+L'enseignement du Bouddha est appelé "Dhamma", qui signifie en pāli *loi de la Nature*.
 
 Le Dhamma est l'ensemble de ce qu'a découvert et enseigné le Bouddha.
 

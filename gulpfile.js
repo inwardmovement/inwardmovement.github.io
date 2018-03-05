@@ -1,5 +1,6 @@
 var gulp      = require('gulp'),
     concat    = require('gulp-concat'),
+    replace   = require('gulp-replace'),
     minify    = require('gulp-clean-css'),
     uglify    = require('gulp-uglify'),
     beautify  = require('gulp-html-prettify'),
@@ -7,7 +8,7 @@ var gulp      = require('gulp'),
     exec      = require('child_process').exec,
     del       = require('del');
 
-gulp.task('default', [ 'reset', 'css', 'js', 'hugo', 'html', 'clean' ]);
+gulp.task('default', [ 'reset', 'css', 'js', 'hugo', 'html', 'replace', 'clean' ]);
 
 gulp.task('reset', function(){
     return del('public/**/*');
@@ -50,7 +51,14 @@ gulp.task('html', ['hugo'], function() {
     .pipe(gulp.dest('public'))
 });
 
-gulp.task('clean', ['html'], function () {
+gulp.task('replace', ['html'], function() {
+  return gulp.src('public/**/*.html')
+    .pipe(replace('&laquo;', '&laquo; '))
+    .pipe(replace('&raquo;', ' &raquo;'))
+    .pipe(gulp.dest('public'))
+});
+
+gulp.task('clean', ['replace'], function () {
   return del([
       'static/main.css',
       'static/main.js',
