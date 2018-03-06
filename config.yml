@@ -17,6 +17,7 @@ blackfriday:
   angledQuotes: true
   extensions:
     - hardLineBreak
+    - noEmptyLineBeforeBlock
 footnoteReturnLinkContents: "↑"
 menu:
   mainleft:

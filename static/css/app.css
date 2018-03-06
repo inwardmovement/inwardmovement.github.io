@@ -9,7 +9,6 @@ html {
 
 body {
   cursor: default;
-  font-size: 1.06rem;
 }
 
 body.modal-open {
@@ -24,6 +23,10 @@ b, strong {
     font-weight: 600;
 }
 
+dl, ol, ul {
+    margin-bottom: 1.25rem;
+}
+
 .noselect {
   -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -35,6 +38,31 @@ b, strong {
 
 #modalDonation {
   padding-right: 0 !important;
+}
+
+li br:last-of-type {
+  display: none;
+}
+
+p ~ dl {
+  margin-top: -1.25rem;
+}
+
+dl {
+  padding-left: 2rem;
+}
+
+dl br:last-of-type {
+  display: none;
+}
+
+dt {
+  font-weight: initial;
+  font-style: italic;
+}
+
+dd {
+  margin-bottom: 1.25rem;
 }
 
 .footnotes {
@@ -139,17 +167,12 @@ main.container.article {
   padding-right: 0px;
 }
 
-.navbar-collapse {
-  font-size: 1rem;
-}
-
 .navbar-toggler {
   margin-right: 0 !important;
 }
 
 .nav-recueils {
   margin-bottom: 56px;
-  font-size: 1rem;
 }
 
 .nav-recueils .breadcrumb {
@@ -240,13 +263,22 @@ article h2 {
   font-size: 1.06rem;
 }
 
+article h3 {
+  font-size: 1.06rem;
+  font-style: italic;
+}
+
 :target {
-  animation: highlight 10s ease;
+  animation: highlight 5s cubic-bezier(1,0,.65,-0.15);
 }
 
 @keyframes highlight {
   0% { background-color: #fcf8e3; }
   100% { background-color: inherit; }
+}
+
+.footnote-ref {
+  background-color: inherit !important;
 }
 
 /************************************************************
@@ -314,8 +346,14 @@ article p {
   }
 }
 
-@media (min-width: 705px) {
+@media (min-width: 650px) {
   article {
+    max-width: 600px;
+  }
+}
+
+@media (min-width: 705px) {
+  .article article {
     max-width: 655px;
   }
 }
@@ -328,6 +366,10 @@ article p {
   article.home {
     padding-top: 100px;
   }
+}
+
+.article {
+  font-size: 1.06rem;
 }
 
 /************************************************************
