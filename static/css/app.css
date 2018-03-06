@@ -270,6 +270,14 @@ article h1:first-child {
   font-weight: initial;
 }
 
+.grid-poems h1 {
+  margin-bottom: 1rem;
+}
+
+.grid-poems h1.ds {
+  margin-bottom: .5rem;
+}
+
 .article h1:first-child {
   text-align: center;
 }
