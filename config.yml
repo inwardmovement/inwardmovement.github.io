@@ -29,14 +29,10 @@ menu:
         URL: "/articles/"
         Identifier: "articles"
         weight: 2
-      - Name: "Blog"
-        URL: "/blog/"
-        Identifier: "blog"
-        weight: 3
       - Name: "Activism"
         URL: "/activism/"
         Identifier: "activism"
-        weight: 5
+        weight: 3
   mainright:
       - Name: "About"
         URL: "/about/"

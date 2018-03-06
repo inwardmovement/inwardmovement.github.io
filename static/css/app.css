@@ -87,6 +87,7 @@ dd {
     position: fixed;
     bottom: .5rem;
     right: .5rem;
+    z-index: 99;
 }
 
 /************************************************************
@@ -283,8 +284,8 @@ article h3 {
   font-style: italic;
 }
 
-:target {
-  animation: highlight 5s cubic-bezier(1,0,.65,-0.15);
+/*:target {
+  animation: highlight 2s ease;
 }
 
 @keyframes highlight {
@@ -294,7 +295,7 @@ article h3 {
 
 .footnote-ref {
   background-color: inherit !important;
-}
+}*/
 
 /************************************************************
  TOC

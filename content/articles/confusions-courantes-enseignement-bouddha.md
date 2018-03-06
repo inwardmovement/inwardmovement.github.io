@@ -11,7 +11,7 @@ L'enseignement du Bouddha est appelé "Dhamma", qui signifie en pāli *loi de la
 
 Le Dhamma est l'ensemble de ce qu'a découvert et enseigné le Bouddha.
 
-Sa doctrine est une explication des mécanismes de la souffrance et du bonheur véritable ainsi qu'une discipline du corps et de l'esprit menant à la cessation de la souffrance.
+Sa doctrine est une explication des mécanismes de la souffrance et du bonheur véritable, ainsi qu'une discipline du corps et de l'esprit menant à la cessation de la souffrance.
 
 # Les bouddhismes
 Les bouddhismes sont différents systèmes de normes et de valeurs plus ou moins inspirés de l'enseignement du Bouddha.
@@ -33,14 +33,14 @@ Le terme *taṇhā* est souvent traduit par "désir" ou "envie", mots extrêmeme
 Il est important de se référer au sens des mots pālis pour comprendre l'enseignement.
 
 # Croyances
-Le Bouddha a toujours invité à ne pas croire aveuglément son enseignement mais à le vérifier soi-même par la pratique.
+Le Bouddha a toujours invité à ne pas croire aveuglément son enseignement, mais à le vérifier soi-même par la pratique.
 
 Il préconise le doute aussi longtemps qu'il y a incompréhension.
 
 C'est pourquoi il n'y a pas de *dogmes* dans la doctrine du Bouddha.
 
 # Théorie et pratique
-L'enseignement du Bouddha comprend une part théorique et une part pratique. La compréhension de la théorie peut aider, mais pratiquer ce qu'il a enseigné suffit à faire avancer sur le chemin de l'allègement de la souffrance et fait en soi émerger la compréhension de la théorie ; son enseignement théorique est né de sa propre pratique, de ce qu'il a découvert et expérimenté.
+L'enseignement du Bouddha comprend une part théorique et une part pratique. La compréhension de la théorie peut aider, mais pratiquer ce qu'il a enseigné suffit à avancer sur le chemin de l'allègement de la souffrance et fait en soi émerger la compréhension ; son enseignement est né de sa propre pratique, de ce qu'il a découvert et expérimenté.
 
 # Vipassana
 La technique de méditation enseignée par le Bouddha peut être apprise et pratiquée lors de séminaires sur le Dhamma dans les centres de [méditation Vipassana](https://www.dhamma.org/fr).

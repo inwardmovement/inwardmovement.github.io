@@ -15,7 +15,7 @@ Dans la relation amoureuse particulièrement, le conditionnement culturel peut c
 
 - d'autre part une pression est exercée par la culture dominante incitant à la relation conjugale exclusive longue à visée familiale et reproductive[^1], de ce fait on va d'office imaginer que cette forme de la relation amoureuse est celle qui nous conviendra, et que c'est également le cas pour le partenaire qui nous envoie des signaux amoureux : si tel n'est pas le cas une fois la relation amoureuse commencée, cela peut être source de souffrance.
 
-C'est pourquoi il est nécessaire d'apporter un soin particulier aux modalités de toute relation interpersonnelle, en particulier dans sa déclinaison amoureuse. Il s'agit de veiller à ce que les modes d'action de la relation favorisent la satisfaction des besoins, de la manière la plus juste possible.
+C'est pourquoi il est nécessaire d'apporter un soin particulier aux modalités d'une relation, en particulier dans sa déclinaison amoureuse. Il s'agit de veiller à ce que les modes d'action de la relation favorisent la satisfaction des besoins, de la manière la plus juste possible.
 
 Pour cela on propose une méthode simple : la relation centrée sur les besoins.
 
@@ -57,7 +57,7 @@ Exclusivité
 : Un besoin est dit "exclusif" si l'action ou la non action qu'il requiert pour être satisfait n'implique pas la participation de la personne qui a le besoin.
 
 Priorité
-: Un besoin est dit "prioritaire" si selon la méthode il est plus légitime comparément au besoin contraire.
+: Un besoin est dit "prioritaire" quand sa satisfaction devrait être privilégiée à celle du besoin contraire.
 
 ### a) Priorisation par négociation libre
 En cas de conflit doux en souplesse égale, l'enjeu est tout au plus une petite insatisfaction pour l'un des partenaires. Une simple discussion permettra de résoudre le conflit où l'un consentira à la satisfaction du besoin de l'autre.
