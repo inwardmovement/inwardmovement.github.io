@@ -63,7 +63,7 @@ Priorité
 En cas de conflit doux en souplesse égale, l'enjeu est tout au plus une petite insatisfaction pour l'un des partenaires. Une simple discussion permettra de résoudre le conflit où l'un consentira à la satisfaction du besoin de l'autre.
 
 ### b) Priorisation par souplesse
-En cas de conflit en souplesse inégale, le besoin non négociable est prioritaire car il générera probablement plus de souffrance s'il n'est pas satisfait que le besoin souple.
+En cas de conflit en souplesse inégale, le besoin non négociable est prioritaire car il génèrera probablement plus de souffrance s'il n'est pas satisfait que le besoin souple.
 
 ### c) Priorisation passive
 En cas de conflit dur, le besoin passif est prioritaire sauf s'il est exclusif, auquel cas le besoin actif est prioritaire.
