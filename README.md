@@ -11,4 +11,4 @@ Hosting: [GitHub](https://pages.github.com/)
 
 French orthography and typography according to:  
 - [Rectifications orthographiques du français en 1990 (PDF)](http://www.academie-francaise.fr/sites/academie-francaise.fr/files/rectifications_1990.pdf)  
-- [L'espace insécable (Wikipédia)](https://fr.wikipedia.org/wiki/Espace_ins%C3%A9cable#En_France)  
+- [Recommandations du code typographique français (Wikipédia)](https://fr.wikipedia.org/wiki/Espace_ins%C3%A9cable#En_France)  
