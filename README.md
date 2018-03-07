@@ -11,5 +11,6 @@ Hosting: [GitHub](https://pages.github.com/)
 
 ---
 
-waiting for Hugo update:  
-- ignore `static/css` and `static/js` on build ([issue](https://github.com/gohugoio/hugo/issues/1559#issuecomment-368063562))
+French orthography and typography according to:
+[Rectifications orthographiques du français en 1990](http://www.academie-francaise.fr/sites/academie-francaise.fr/files/rectifications_1990.pdf)  
+[L'espace insécable en France](https://fr.wikipedia.org/wiki/Espace_ins%C3%A9cable#En_France)  

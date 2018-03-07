@@ -17,7 +17,7 @@ Mais si je me sens bien c’est parc’ que tu es là.
 C’est surtout l’inconnu qui m’attire comme ça,
 Cette part d’illusion que je me fais de toi,
 Qui n’attend qu’une chose et me torture des fois,
-T’apprendre et te connaître au doux son de ta voix.
+T’apprendre et te connaitre au doux son de ta voix.
 
 Une fleur, je la cueille et en respire l’odeur,
 Elle m’enivre, m’emprisonne dans toutes ses ardeurs.

@@ -6,7 +6,7 @@ lang: fr
 ---
 
 Ainsi que la rosée
-Si fraîche le matin
+Si fraiche le matin
 Qui nous glace les doigts
 Et nous chauffe le cœur
 En offrant à la vue

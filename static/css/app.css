@@ -90,6 +90,13 @@ dd {
     z-index: 99;
 }
 
+@media (min-width: 768px) {
+  #topBtn {
+      bottom: 5rem;
+      right: 3rem;
+  }
+}
+
 /************************************************************
  CONTAINER
 ************************************************************/
@@ -340,6 +347,14 @@ article h3 {
   list-style-type: none;
 }
 
+#TableOfContents a {
+  color: #0645ad;
+}
+
+#TableOfContents a:hover {
+  text-decoration: underline;
+}
+
 /************************************************************
  ARTICLE
 ************************************************************/
@@ -370,13 +385,13 @@ article p {
   }
 }
 
-@media (min-width: 650px) {
+@media (min-width: 768px) {
   article {
     max-width: 600px;
   }
 }
 
-@media (min-width: 705px) {
+@media (min-width: 768px) {
   .article article {
     max-width: 655px;
   }

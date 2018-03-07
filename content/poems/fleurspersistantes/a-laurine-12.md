@@ -75,7 +75,7 @@ Te parler gentiment
 Car tu me demandas
 D'être non hésitant.
 
-Apparaît mon combat
+Apparait mon combat
 Seulement quand tu es là.
 Volonté gagnera,
 Ainsi me sauvera.

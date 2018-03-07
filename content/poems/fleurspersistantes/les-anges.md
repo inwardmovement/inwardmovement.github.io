@@ -11,7 +11,7 @@ En rêve j'embrasse leur pied
 Et me retrouve alors figé
 
 Leur pureté m'est d'une douceur
-Qu'elles-mêmes ne peuvent y goûter
+Qu'elles-mêmes ne peuvent y gouter
 
 L'illusion nourrit mon ardeur
 Si bien que je suis à leurs pieds

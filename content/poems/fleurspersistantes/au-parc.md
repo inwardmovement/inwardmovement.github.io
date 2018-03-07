@@ -8,7 +8,7 @@ lang: fr
 Beauté de l'expérience de la simplicité
 Que nous offrent les filles, mignonnes spontanées
 
-La fraîcheur les habite et fait éclore nos cœurs
+La fraicheur les habite et fait éclore nos cœurs
 Elles sont nos soleils, nos univers, nos fleurs
 
 Quelle belle pensée de les voir allongées

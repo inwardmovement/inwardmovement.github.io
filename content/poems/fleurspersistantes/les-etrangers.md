@@ -16,6 +16,6 @@ Dans un esprit de flatterie
 On s'en retournera giflé
 
 L'étrangère qui passe là
-Plaît à l'étranger qui voyage
+Plait à l'étranger qui voyage
 Mais même si cela l'enrage
 C'est en secret qu'il rêvera

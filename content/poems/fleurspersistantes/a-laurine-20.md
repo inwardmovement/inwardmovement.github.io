@@ -18,7 +18,7 @@ Volé au temps, lui qui n'aurait plus aucun sens.
 Comment expliques-tu ce sentiment de feu ?
 Peux-tu imaginer un cœur d'homme innocent
 Confronté à la vue d'un Ange ? C'est excitant.
-Mais c'est brûlant. C'est ainsi qu'on est amoureux.
+Mais c'est brulant. C'est ainsi qu'on est amoureux.
 
 Pourquoi la foudre n'atteint pas deux cœurs d'un coup ?
 Les fous entre eux partageraient la même ronde.
@@ -33,7 +33,7 @@ Par ces fleurs mignonnes si nombreuses aimées.
 Ils sont fous et ils sont tous souffrants les poètes
 Qui se sentent attirés par ces belles fillettes
 Et finissent par fuir ces petits anges de braises
-Qui nous brûlent le cœur quand on les voit à l'aise.
+Qui nous brulent le cœur quand on les voit à l'aise.
 
 Ces corps brillent aux yeux des sentiments boiteux
 Qui nous mènent sous terre, nous enferment en eux
@@ -46,7 +46,7 @@ Qui nous font un instant basculer au néant
 Et qu'on croit seules sources de toutes les joies.
 
 Et pourtant ce ne sont que pensées en un sens
-Car l'aimée nous aime pas et ne nous connaît pas
+Car l'aimée nous aime pas et ne nous connait pas
 Et nous laisse rêver et prendre un peu d'avance
 Mais déjà beaucoup trop pour qu'on reste en état.
 
@@ -67,8 +67,8 @@ Et trouver le répit des sentiments plus clairs.
 
 Analysant l'esprit, cherchant à être heureux
 Sans être dépendant des passantes de l'ère,
-La maxime du sage apparaît à mes yeux :
-Maîtrise la perception pour ne plus manquer d'air.
+La maxime du sage apparait à mes yeux :
+Maitrise la perception pour ne plus manquer d'air.
 
 Mignonne Laurine à présent je dois choisir,
 Il est temps de quitter mon état de martyr

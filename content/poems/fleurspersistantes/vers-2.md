@@ -37,6 +37,6 @@ Ce que le nôtre veut savoir
 *
 
 On voit des couleurs
-Qui brûlent les yeux
+Qui brulent les yeux
 
 On lui dit l'amour

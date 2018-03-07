@@ -17,7 +17,7 @@ J'espère que tu apprécies de lire mon ardeur,
 
 Je veux dire : que ce soit plus rêve que cauchemar,
 Puisque toute idée que je vis en toi est bonne,
-Et si malaise transparaît oublie-le car :
+Et si malaise transparait oublie-le car :
 Finalement ce n'est qu'un hymne à ta personne.
 
 Mon dernier mot est celui d'un petit adieu

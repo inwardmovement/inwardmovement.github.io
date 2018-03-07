@@ -31,7 +31,7 @@ En ton sein que je désire tant
 Être autrement que mots d'amant.
 
 Que réservè-je à la prochaine
-Si j'ai pour toi tout déchaîné ?
+Si j'ai pour toi tout déchainé ?
 On verra si je suis le même
 Ou un poète desséché.
 

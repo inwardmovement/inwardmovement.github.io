@@ -11,7 +11,7 @@ De ta manie
 Que j'apprécie
 
 Ton geste et ton esprit se concentrent à la tâche
-Tu es toute immergée dans le discours du maître
+Tu es toute immergée dans le discours du maitre
 
 Je pense : "elle est belle"
 

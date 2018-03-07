@@ -11,7 +11,7 @@ Je t'ai dans mon esprit
 L'étranger camarade
 T'aime bizarrement
 
-Si je pouvais goûter
+Si je pouvais gouter
 À ton corps attirant
 
 Si je pouvais passer

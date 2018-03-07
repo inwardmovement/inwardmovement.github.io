@@ -8,7 +8,7 @@ lang: fr
 Vous les filles doutez, parfois inconsciemment,
 De n'être pas dignes des plus belles amantes.
 Que vous sachiez cela : vous êtes attirantes,
-Bien plus que vous l'imaginez sûrement !
+Bien plus que vous ne l'imaginez surement !
 
 Le moindre de votre être est le plus beau cadeau
 Qu'on aime à imaginer sans lever le voile,

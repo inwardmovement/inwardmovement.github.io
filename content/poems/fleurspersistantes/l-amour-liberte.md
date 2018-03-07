@@ -27,7 +27,7 @@ D'apprendre à les cacher ?
 
 Est-il en notre monde
 Une idée si cruelle ?
-Larmes brûlantes inondent
+Larmes brulantes inondent
 Mon cœur qui sent l'appel :
 
 Réalité rebelle
@@ -35,9 +35,9 @@ M'invite à regarder
 Cette loi éternelle,
 Notre nature innée :
 
-De moi je suis le maître
+De moi je suis le maitre
 En moi le seul poison.
-C'est contre tout paraître
+C'est contre tout paraitre
 Mais là est la raison.
 
 Un jour je choisirai

@@ -48,12 +48,12 @@ Et tu sais qu'aujourd'hui est un nouveau réveil.
 Nous faisons tous partie, quand même, de la nature,
 Alors nous sommes soumis à cette force, bien sûr,
 Qui parfois nous embrasse et aussi nous torture.
-Certes elle fait ce qu'elle veut, pourtant ça nous rend mûrs.
+Certes elle fait ce qu'elle veut, pourtant ça nous rend murs.
 
 Mais toujours pointe à l'aube un rayon de soleil
 Et tu sais qu'aujourd'hui est un nouveau réveil.
 
-On a pourtant la chance d'être maître de son âme,
+On a pourtant la chance d'être maitre de son âme,
 D'être aussi le refuge le plus digne de confiance
 Pour faire face au déluge et même sécher nos larmes.
 On peut bien être heureux même si le cœur balance !

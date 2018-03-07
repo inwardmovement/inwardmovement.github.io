@@ -10,7 +10,7 @@ Le soleil nous arrose et l'herbe nous caresse
 Et se balade en douce à l'ombre du soleil
 Mollets et pieds à nu : j'aime cette allégresse
 
-Elle aime se détendre à la fraîcheur du parc
+Elle aime se détendre à la fraicheur du parc
 Et moi la contempler dans sa marche légère
 Même sans dire mot je vois son caractère
 Elle me touche au cœur et si j'avais un arc…

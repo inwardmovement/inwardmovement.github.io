@@ -23,7 +23,7 @@ Tant de fois sans répit réveiller mon envie.
 Et alors mon esprit sans savoir tu saisis,
 Et l'emmena voler comme tu sais si bien, oui,
 Me montrer des lieux et des temps interdits
-Qui me maintiendront sûrement et longtemps en vie.
+Qui me maintiendront surement et longtemps en vie.
 
 Mais en vrai mon corps vit (c'était une rêverie)
 Car je porte l'espoir d'une nouvelle vie,

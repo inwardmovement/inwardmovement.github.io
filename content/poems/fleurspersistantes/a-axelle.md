@@ -12,7 +12,7 @@ Et c'est ainsi que l'on peut se sentir heureux.
 
 L'amour que je nourris à ton égard n'est pas
 Cet amas de souffrances qui un jour tua,
-Mais une incandescence légère si fraîche
+Mais une incandescence légère si fraiche
 Que l'Archer de l'amour gronde ses propres flèches :
 
 "Que vous arrive-t-il à vous mes chères sœurs ?

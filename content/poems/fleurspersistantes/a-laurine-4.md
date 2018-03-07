@@ -8,7 +8,7 @@ lang: fr
 Une fois j'ai vu ton pied, nu, hors de son soulier,
 Comme une vision de rêve embrumée de merveille
 Et pourtant si réelle que j'ai cru effleurer
-Sa senteur et son goût de mes sens en éveil.
+Sa senteur et son gout de mes sens en éveil.
 
 Je crois l'avoir léché par la langue de l'esprit
 Et aussi embrassé de mon cœur étourdit

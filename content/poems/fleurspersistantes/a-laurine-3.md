@@ -42,7 +42,7 @@ Comme s'il n'y avait rien à gagner.
 
 Je vois enfin la société
 Moins comme ennemie que comme alliée
-Qui pourra sûrement m'aider
+Qui pourra surement m'aider
 À me soigner et m'élever.
 
 Nature a fait ce qu'il fallait
