@@ -6,6 +6,6 @@ lang: fr
 ---
 
 ces lignes de code
-brillent dans l’opacité
+brillent dans l'opacité
 
 toi seul est sensible à leur éclat

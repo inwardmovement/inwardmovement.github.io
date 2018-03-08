@@ -5,9 +5,9 @@ recueil: poemes
 lang: fr
 ---
 
-*pour accompagner une peinture d’un ami*
+*pour accompagner une peinture d'un ami*
 
-on regarde un fragment de ce qu’elle a à nous dire
+on regarde un fragment de ce qu'elle a à nous dire
 la nature aux cent voix qui nous tourne la tête
 et on ose une brèche au-delà de ce monde
 

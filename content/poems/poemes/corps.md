@@ -8,11 +8,11 @@ lang: fr
 toujours le premier geste
 connaitre les sensations
 
-le reste n’est que sans fond
+le reste n'est que sans fond
 méandres cérébraux
 
-le corps s’apaise
-quand l’œil s’y pose
+le corps s'apaise
+quand l'œil s'y pose
 
 *
 
@@ -21,4 +21,4 @@ et le corps brille
 
 le corps parle
 
-et c’est notre frontière avec nous-même
+et c'est notre frontière avec nous-même

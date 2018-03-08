@@ -5,34 +5,34 @@ recueil: poemes
 lang: fr
 ---
 
-et il trouva la porte vers l’infini
+et il trouva la porte vers l'infini
 
-c’est l’illustre equanimus
-cultivé jusqu’à ses branches luxuriantes
+c'est l'illustre equanimus
+cultivé jusqu'à ses branches luxuriantes
 
 que la sagesse rend plus jeune
 
 *
 
-et c’est la brèche à tout instant
+et c'est la brèche à tout instant
 
-on veille à l’égalité d’âme
+on veille à l'égalité d'âme
 comme un ermite sur son feu
 
 sans chasser le sourire
 
 *
 
-ce n’est jamais la chute incontrôlée
+ce n'est jamais la chute incontrôlée
 
-et l’on traverse tout bucher
-l’âme en paix
+et l'on traverse tout bucher
+l'âme en paix
 
 les yeux dans les yeux
 
 *
 
-on porte vers l’infini
+on porte vers l'infini
 
 on porte sur le vide
 

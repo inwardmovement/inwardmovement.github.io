@@ -8,9 +8,9 @@ lang: fr
 parfois
 je me quitte
 
-pour le plaisir de m’absenter
+pour le plaisir de m'absenter
 
-d’être hors de moi
+d'être hors de moi
 dans plus riche et plus vaste
 
 et puis

@@ -27,10 +27,10 @@ toi tu te perds entre les racines et les ailes
 
 *
 
-tu ne fais que regarder à l’intérieur
-mais c’est un puits dont on ne voit le fond
+tu ne fais que regarder à l'intérieur
+mais c'est un puits dont on ne voit le fond
 
-tu ne t’es habitué qu’à l’obscurité
+tu ne t'es habitué qu'à l'obscurité
 mais la profondeur te surprendra toujours
 
 *

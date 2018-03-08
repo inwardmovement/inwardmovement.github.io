@@ -7,7 +7,7 @@ lang: fr
 
 sur ta barque
 
-tu t’entraines à ne pas devenir fou
+tu t'entraines à ne pas devenir fou
 ou plus que tu ne l'es
 
 mais quel est ce havre où tu vogue

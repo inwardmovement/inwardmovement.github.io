@@ -13,9 +13,9 @@ et de ne pas leur dire
 
 *
 
-j’opte pour la passion du moment
-et l’oubli
+j'opte pour la passion du moment
+et l'oubli
 
-jusqu’à la prochaine et jusqu’à l’audace
+jusqu'à la prochaine et jusqu'à l'audace
 
-de m’exposer
+de m'exposer

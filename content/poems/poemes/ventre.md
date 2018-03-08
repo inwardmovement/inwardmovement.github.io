@@ -12,8 +12,8 @@ et dit
 je suis bien
 
 porte-moi dans ton ventre comme un enfant
-et jusqu’à la prochaine tempête
+et jusqu'à la prochaine tempête
 
-où tu seras droit comme le mât d’un bateau
+où tu seras droit comme le mât d'un bateau
 
 sur les vagues déchainées

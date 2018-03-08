@@ -11,4 +11,4 @@ comme on les sème au vent
 ils sont partout
 et me torturent
 
-comme autant d’on s’aime refoulés
+comme autant d'on s'aime refoulés

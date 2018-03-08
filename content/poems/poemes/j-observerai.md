@@ -1,27 +1,27 @@
 ---
-title: j’observerai
+title: j'observerai
 date: 2015-02-03
 recueil: poemes
 lang: fr
 ---
 
-j’observerai jusqu’à l’infini
-l’ensemble des liens qui me sont confiés
+j'observerai jusqu'à l'infini
+l'ensemble des liens qui me sont confiés
 
-seul j’irai sur ma tour d’ivoire
-purifier l’esprit
+seul j'irai sur ma tour d'ivoire
+purifier l'esprit
 
-avec l’œil de feu
+avec l'œil de feu
 
 *
 
-vagues d’aversions et vagues d’avidités
+vagues d'aversions et vagues d'avidités
 tu es le Moïse qui tranche les eaux
 
-et maintient l’équilibre
+et maintient l'équilibre
 en pleine tempête
 
-armé de l’Equanimus
+armé de l'Equanimus
 
 *
 
@@ -31,6 +31,6 @@ et tout se passe dans ton antre
 sous tes seuls yeux de feu
 ronds ouverts
 
-seul j’irai sur ma tour d’ivoire
+seul j'irai sur ma tour d'ivoire
 
 traverser les eaux
