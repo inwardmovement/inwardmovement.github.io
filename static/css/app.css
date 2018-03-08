@@ -233,6 +233,16 @@ main.container.article {
   justify-content: center;
 }
 
+.pagination {
+  margin-top: 10px;
+}
+
+@media (min-width: 768px) {
+    .pagination {
+      margin-top: 0;
+    }
+  }
+
 .sidebar nav  {
   display: grid;
 }
