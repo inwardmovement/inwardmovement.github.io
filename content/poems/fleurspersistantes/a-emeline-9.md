@@ -13,11 +13,11 @@ Mollets et pieds à nu : j'aime cette allégresse
 Elle aime se détendre à la fraicheur du parc
 Et moi la contempler dans sa marche légère
 Même sans dire mot je vois son caractère
-Elle me touche au cœur et si j'avais un arc…
+Elle me touche au cœur et si j'avais un arc...
 
 Si un jour elle s'allonge et dort à mes côtés
 Je lui préparerai un parterre de fleurs
-Et même si jamais encore je n’ai osé,
+Et même si jamais encore je n'ai osé,
 J'embrasserai soudain au milieu des odeurs
 
 Son pied sur un tapis de violentes couleurs

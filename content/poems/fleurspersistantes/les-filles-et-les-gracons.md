@@ -22,10 +22,10 @@ Déjà qu'on en bave de ce que vous montrez !
 
 Pas étonnant que vous nous traitiez d'animaux :
 On sent à des kilomètres vos airs charmants.
-On est sensible, et puis c'est tout… c'est amusant.
+On est sensible, et puis c'est tout... c'est amusant.
 Si ça vous agace : une gifle et deux trois mots.
 
 Alors on vous fera l'éloge de votre âme :
 Vous serez surprises d'être par nous flattées
 Si fidèlement que c'est votre intimité
-Qu'on aura dénudée: encore giflés… Ces dames !
+Qu'on aura dénudée: encore giflés... Ces dames !

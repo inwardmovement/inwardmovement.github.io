@@ -24,7 +24,7 @@ Et tu sais qu'aujourd'hui est un nouveau réveil.
 Trop vite on perd une part de soi, cri silencieux,
 On pleure la vie, larmes de sang, cœur épineux,
 On cherche pourquoi on a mérité ce sale jeu
-Et à quoi bon y jouer à deux… piège amoureux.
+Et à quoi bon y jouer à deux... piège amoureux.
 
 Mais toujours pointe à l'aube un rayon de soleil
 Et tu sais qu'aujourd'hui est un nouveau réveil.

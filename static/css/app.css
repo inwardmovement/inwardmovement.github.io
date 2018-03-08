@@ -145,7 +145,7 @@ main.container.article {
 
 @media (min-width: 768px) {
   .grid-poems {
-    grid-template: "aside article" / 280px 1fr;
+    grid-template: "aside article" / 260px 1fr;
   }
 
   .grid-apps {
@@ -347,13 +347,13 @@ article h3 {
   list-style-type: none;
 }
 
-#TableOfContents a {
+/*#TableOfContents a {
   color: #0645ad;
 }
 
 #TableOfContents a:hover {
   text-decoration: underline;
-}
+}*/
 
 /************************************************************
  ARTICLE

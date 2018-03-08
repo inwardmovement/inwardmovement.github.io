@@ -54,8 +54,8 @@ gulp.task('html', ['hugo'], function() {
     .pipe(replace(' ;', '&#8239;;'))
     .pipe(replace(' !', '&#8239;!'))
     .pipe(replace(' ?', '&#8239;?'))
-    .pipe(replace('%', '&#8239;%'))
-    .pipe(replace('€', '&#8239;€'))
+    .pipe(replace(' %', '&#8239;%'))
+    .pipe(replace(' €', '&#8239;€'))
     .pipe(gulp.dest('public'))
 });
 
