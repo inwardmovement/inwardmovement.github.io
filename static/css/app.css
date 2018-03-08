@@ -145,7 +145,7 @@ main.container.article {
 
 @media (min-width: 768px) {
   .grid-poems {
-    grid-template: "aside article" / 260px 1fr;
+    grid-template: "aside article" / 300px 1fr;
   }
 
   .grid-apps {
