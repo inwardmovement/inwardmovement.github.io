@@ -1,7 +1,7 @@
 ---
 title: SuperEro
 layout: superero
-recueil: superero
+printrecueil: superero
 print: poems
 weight: 2
 ---

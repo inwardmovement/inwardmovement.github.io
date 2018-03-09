@@ -1,7 +1,7 @@
 ---
 title: Méditations
 layout: meditations
-recueil: meditations
+printrecueil: meditations
 print: poems
 weight: 4
 ---

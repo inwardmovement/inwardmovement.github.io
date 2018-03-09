@@ -1,7 +1,7 @@
 ---
 title: Fleurs persistantes
 layout: fleurspersistantes
-recueil: fleurspersistantes
+printrecueil: fleurspersistantes
 print: poems
 weight: 1
 ---

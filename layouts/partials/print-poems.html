@@ -1,4 +1,4 @@
-{{ range where .Site.Pages.ByDate "Params.recueil" .Params.recueil }}
+{{ range where .Site.Pages.ByDate "Params.recueil" .Params.printrecueil }}
   <h3>{{.Title}}</h3>
   <div class="pb">
   {{ .Content }}

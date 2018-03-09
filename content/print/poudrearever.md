@@ -1,7 +1,7 @@
 ---
 title: Poudre à rêver
 layout: poudrearever
-recueil: poudrearever
+printrecueil: poudrearever
 print: poems
 weight: 3
 ---

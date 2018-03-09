@@ -1,7 +1,7 @@
 ---
 title: Poèmes
 layout: poemes
-recueil: poemes
+printrecueil: poemes
 print: poems
 weight: 5
 ---
