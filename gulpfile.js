@@ -70,23 +70,22 @@ gulp.task('clean', ['html'], function () {
   ]);
 });
 
-// gulp.task('pdfreset', function(){
-//     return del('prepdf');
-// });
+gulp.task('printreset', function(){
+    return del(['preprint', 'print']);
+});
 
-// gulp.task('prepdf', ['default', 'pdfreset'], function(){
-//   return gulp.src('public/pdf/**/index.html')
-//   // .pipe(pandoc({
-//   //       from: 'html',
-//   //       to: 'markdown',
-//   //       ext: '.md'
-//   //     }))
-//   // .pipe(del('public'))
-//   .pipe(gulp.dest('prepdf'))
-// });
+gulp.task('preprint', ['default', 'printreset'], function(){
+  return gulp.src('public/print/**/index.html')
+  // .pipe(pandoc({
+  //       from: 'html',
+  //       to: '',
+  //       ext: ''
+  //     }))
+  .pipe(gulp.dest('preprint'))
+});
 
-// gulp.task('pdf', function(){
-//   return gulp.src('prepdf')
+// gulp.task('print', function(){
+//   return gulp.src('preprint')
 
-//   .pipe(gulp.dest('pdf'))
+//   .pipe(gulp.dest('print'))
 // });
