@@ -1,24 +1,32 @@
 <!DOCTYPE html>
-<div class="pb">
-  <h1 class="ds">Méditations</h1>
-  <p>Écrits entre 2013 et 2014. Poèmes introspectifs et amoureux.</p>
-  <blockquote class="blockquote">
-    <p>Un jour<br>
-    mon esquif s'est disloqué<br>
-    et force m'a été<br>
-    de lâcher prise<br>
-    de consentir à disparaitre</p>
+<head>
+  {{- partial "head" . -}}
+</head>
+<body>
 
-    <p>Alors des courants<br>
-    m'ont poussé  porté<br>
-    puis déposé sur une plage</p>
+  <div class="pb">
+    <h1 class="ds">Méditations</h1>
+    <p>Écrits entre 2013 et 2014. Poèmes introspectifs et amoureux.</p>
+    <blockquote class="blockquote">
+      <p>Un jour<br>
+      mon esquif s'est disloqué<br>
+      et force m'a été<br>
+      de lâcher prise<br>
+      de consentir à disparaitre</p>
 
-    <p>Une lumière d'aurore<br>
-    inondait l'oasis<br>
-    où j'allais maintenant<br>
-    vivre</p>
-    <footer class="blockquote-footer">— Charles Juliet</footer>
-  </blockquote>
-</div>
+      <p>Alors des courants<br>
+      m'ont poussé  porté<br>
+      puis déposé sur une plage</p>
 
-{{ partial "print-poems" . }}
+      <p>Une lumière d'aurore<br>
+      inondait l'oasis<br>
+      où j'allais maintenant<br>
+      vivre</p>
+      <footer class="blockquote-footer">Charles Juliet</footer>
+    </blockquote>
+  </div>
+
+  {{ partial "print-poems" . }}
+
+</body>
+</html>

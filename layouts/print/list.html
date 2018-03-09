@@ -1,6 +1,9 @@
 {{ define "main" }}
   <main class="container">
     <article>
+      <div class="alert alert-light text-center" role="alert">
+        {{ .Content }}
+      </div><br>
       <h1>Poems:</h1><br>
       <ul>
         {{ range where .Data.Pages.ByWeight "Params.print" "poems" }}

@@ -1,13 +1,21 @@
 <!DOCTYPE html>
-<div class="pb">
-  <h1 class="ds">SuperEro</h1>
-  <p>Écrits entre 2011 et 2012. Poèmes amoureux et érotiques.</p>
-  <blockquote class="blockquote">
-    <p>Il suffit d'avancer pour vivre<br>
-    D'aller droit devant soi<br>
-    Vers tout ce que l'on aime</p>
-    <footer class="blockquote-footer">— Paul Éluard</footer>
-  </blockquote>
-</div>
+<head>
+  {{- partial "head" . -}}
+</head>
+<body>
+
+  <div class="pb">
+    <h1 class="ds">SuperEro</h1>
+    <p>Écrits entre 2011 et 2012. Poèmes amoureux et érotiques.</p>
+    <blockquote class="blockquote">
+      <p>Il suffit d'avancer pour vivre<br>
+      D'aller droit devant soi<br>
+      Vers tout ce que l'on aime</p>
+      <footer class="blockquote-footer">Paul Éluard</footer>
+    </blockquote>
+  </div>
 
 {{ partial "print-poems" . }}
+
+</body>
+</html>

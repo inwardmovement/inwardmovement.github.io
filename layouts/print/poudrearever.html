@@ -1,10 +1,19 @@
-<div class="pb">
-  <h1 class="ds">Poudre à rêver</h1>
-  <p>Écrits entre 2012 et 2013. Poèmes introspectifs et amoureux.</p>
-  <blockquote class="blockquote">
-    <p>Vois-tu tourner les planètes derrière tes yeux ?</p>
-    <footer class="blockquote-footer">— Zéno Bianu</footer>
-  </blockquote>
-</div>
+<!DOCTYPE html>
+<head>
+  {{- partial "head" . -}}
+</head>
+<body>
+
+  <div class="pb">
+    <h1 class="ds">Poudre à rêver</h1>
+    <p>Écrits entre 2012 et 2013. Poèmes introspectifs et amoureux.</p>
+    <blockquote class="blockquote">
+      <p>Vois-tu tourner les planètes derrière tes yeux ?</p>
+      <footer class="blockquote-footer">Zéno Bianu</footer>
+    </blockquote>
+  </div>
 
 {{ partial "print-poems" . }}
+
+</body>
+</html>
