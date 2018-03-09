@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <main class="container">
+    <article>
+      <h1>Poems:</h1><br>
+      <ul>
+        {{ range where .Data.Pages.ByWeight "Params.print" "poems" }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </article>
+  </main>
+{{ end }}

@@ -17,4 +17,4 @@ You can write me at
 
 ---
 
-[RSS](https://inwardmovement.github.io/index.xml) · [Instagram](https://www.instagram.com/inwardmovement/) · [LinkedIn](https://www.linkedin.com/in/inwardmovement/)
+[RSS](https://inwardmovement.github.io/index.xml) · [Print](https://inwardmovement.github.io/print) · [Instagram](https://www.instagram.com/inwardmovement/) · [LinkedIn](https://www.linkedin.com/in/inwardmovement/)
