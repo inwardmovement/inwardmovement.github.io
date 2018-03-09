@@ -1,5 +1,5 @@
 {{ range where .Site.Pages.ByDate "Params.recueil" .Params.printrecueil }}
-  <h4>{{.Title}}</h4>
+  <h4>{{.Title}}</h4><br>
   <div class="pb">
   {{ .Content }}
   </div><br>
@@ -25,5 +25,16 @@
   blockquote {
     border-top: none;
     border-bottom: none;
+    border-right: none;
   }
+
+  @page {
+    margin-right: 2cm;
+    margin-left: 4cm;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+  }
+
+
+
 </style>
