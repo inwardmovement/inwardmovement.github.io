@@ -19,8 +19,6 @@ deploy:
   github-token: $GITHUB_TOKEN
   on:
     branch: source
-env:
-  - PRODUCTION=true
 cache:
   directories:
     - node_modules
