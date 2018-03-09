@@ -6,7 +6,8 @@ var gulp      = require('gulp'),
     beautify  = require('gulp-html-prettify'),
     trim      = require('gulp-remove-empty-lines'),
     exec      = require('child_process').exec,
-    del       = require('del');
+    del       = require('del'),
+    pandoc    = require('gulp-pandoc');
 
 gulp.task('default', [ 'reset', 'css', 'js', 'hugo', 'html', 'clean' ]);
 
@@ -68,3 +69,24 @@ gulp.task('clean', ['html'], function () {
       'public/js'
   ]);
 });
+
+// gulp.task('pdfreset', function(){
+//     return del('prepdf');
+// });
+
+// gulp.task('prepdf', ['default', 'pdfreset'], function(){
+//   return gulp.src('public/pdf/**/index.html')
+//   // .pipe(pandoc({
+//   //       from: 'html',
+//   //       to: 'markdown',
+//   //       ext: '.md'
+//   //     }))
+//   // .pipe(del('public'))
+//   .pipe(gulp.dest('prepdf'))
+// });
+
+// gulp.task('pdf', function(){
+//   return gulp.src('prepdf')
+
+//   .pipe(gulp.dest('pdf'))
+// });
