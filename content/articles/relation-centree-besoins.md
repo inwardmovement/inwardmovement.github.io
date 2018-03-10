@@ -7,7 +7,7 @@ lang: fr
 {{< toc >}}
 
 # Introduction
-Dans une relation interpersonnelle, l'interdépendance peut faire émerger des conflits de besoins : une des personnes a un besoin <math><mi>x</mi></math> et l'autre a le besoin contraire.
+Dans une relation interpersonnelle, l'interdépendance peut faire émerger des conflits de besoins : une des personnes a un besoin <math><mi>x</mi></math> et l'autre a le besoin contraire.
 
 Dans la relation amoureuse particulièrement, le conditionnement culturel peut compromettre l'épanouissement :
 
