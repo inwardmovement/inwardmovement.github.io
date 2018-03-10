@@ -14,7 +14,7 @@ script: gulp
 deploy:
   provider: pages
   edge:
-      branch: v1.8.47
+      branch: pages-ivar-set
   local-dir: public
   target-branch: master
   skip-cleanup: true
