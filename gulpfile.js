@@ -6,8 +6,7 @@ var gulp      = require('gulp'),
     beautify  = require('gulp-html-prettify'),
     trim      = require('gulp-remove-empty-lines'),
     exec      = require('child_process').exec,
-    del       = require('del'),
-    pandoc    = require('gulp-pandoc');
+    del       = require('del');
 
 gulp.task('default', [ 'reset', 'css', 'js', 'hugo', 'html', 'clean' ]);
 
@@ -69,23 +68,3 @@ gulp.task('clean', ['html'], function () {
       'public/js'
   ]);
 });
-
-gulp.task('printreset', function(){
-    return del(['preprint', 'print']);
-});
-
-gulp.task('preprint', ['default', 'printreset'], function(){
-  return gulp.src('public/print/**/index.html')
-  // .pipe(pandoc({
-  //       from: 'html',
-  //       to: '',
-  //       ext: ''
-  //     }))
-  .pipe(gulp.dest('preprint'))
-});
-
-// gulp.task('print', function(){
-//   return gulp.src('preprint')
-
-//   .pipe(gulp.dest('print'))
-// });

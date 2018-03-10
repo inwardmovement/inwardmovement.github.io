@@ -137,8 +137,8 @@ main.container.article {
 .grid-poems {
   display: grid;
   grid-template:
-    "article"
-    "aside";
+    "content"
+    "sidebar";
 }
 
 .grid-apps {
@@ -149,7 +149,7 @@ main.container.article {
 
 @media (min-width: 768px) {
   .grid-poems {
-    grid-template: "aside article" / 300px 1fr;
+    grid-template: "sidebar content" / 300px 1fr;
   }
 
   .grid-apps {
@@ -229,7 +229,7 @@ main.container.article {
  SIDEBAR
 ************************************************************/
 .sidebar {
-  grid-area: aside;
+  grid-area: sidebar;
   margin-top: 5px;
 }
 
@@ -389,7 +389,7 @@ article h5 {
  ARTICLE
 ************************************************************/
 article {
-  grid-area: article;
+  grid-area: content;
   max-width: 100%;
   margin-right: auto;
   margin-left: auto;

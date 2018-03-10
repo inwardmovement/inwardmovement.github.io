@@ -1,7 +1,15 @@
 ---
 title: SuperEro
-layout: superero
-printrecueil: superero
+layout: poems
 print: poems
+printrecueil: superero
 weight: 2
 ---
+
+Écrits entre 2011 et 2012. Poèmes amoureux et érotiques.
+
+{{% quote "Paul Éluard" %}}
+  Il suffit d'avancer pour vivre
+  D'aller droit devant soi
+  Vers tout ce que l'on aime
+{{% /quote %}}
