@@ -1,4 +1,3 @@
 ---
 title: Articles
-lang: fr
 ---

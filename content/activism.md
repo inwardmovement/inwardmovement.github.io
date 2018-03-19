@@ -7,6 +7,5 @@ I am strongly involved in the [Algosphere Alliance](http://algosphere.org), a ne
 I am involved as being
 
 - an early ally
-- a most active member of Communication Council
-- a most active member of Webteam
+- a most active member of Communication Council and Webteam from 2014 to 2018
 - a co-administrator of Algosphere Agency
