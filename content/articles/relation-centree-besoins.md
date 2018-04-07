@@ -13,7 +13,7 @@ Dans la relation amoureuse particulièrement, le conditionnement culturel peut c
 
 - d'une part nous ne sommes pas conditionnés culturellement à cultiver l'hygiène de notre esprit, de ce fait nous sommes plus exposés à éprouver les émotions destructrices découlant d'habitudes mentales néfastes (attachement démesuré, jalousie, frustration, déception, possessivité, etc.) ;
 
-- d'autre part une pression est exercée par la culture dominante incitant à la relation conjugale exclusive longue à visée familiale et reproductive[^1], de ce fait on va d'office imaginer que cette forme de la relation amoureuse est celle qui nous conviendra, et que c'est également le cas pour le partenaire qui nous envoie des signaux amoureux : si tel n'est pas le cas une fois la relation amoureuse commencée, cela peut être source de souffrance.
+- d'autre part une pression est exercée par la culture dominante incitant à la relation conjugale exclusive longue à visée familiale et reproductive, de ce fait on va d'office imaginer que cette forme de la relation amoureuse est celle qui nous conviendra, et que c'est également le cas pour le partenaire qui nous envoie des signaux amoureux : si tel n'est pas le cas une fois la relation amoureuse commencée, cela peut être source de souffrance.
 
 C'est pourquoi il est nécessaire d'apporter un soin particulier aux modalités d'une relation, en particulier dans sa déclinaison amoureuse. Il s'agit de veiller à ce que les modes d'action de la relation favorisent la satisfaction des besoins, de la manière la plus juste possible.
 
@@ -75,5 +75,3 @@ On considère :
 
 # Tableau récapitulatif
 {{< slides "https://docs.google.com/presentation/d/e/2PACX-1vTad9DgSUaus6U76WbfOTFNcQ4XuK5cvWwNwBLoiLGf9h3BIW1R5QBpok3EfdYKakp7XU5Ujxxt5soT/embed" >}}
-
-[^1]: *Sex at Dawn, The Prehistoric Origins of Modern Sexuality*, Ryan Christopher, Jetha Cacilda, 2010
