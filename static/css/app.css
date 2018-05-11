@@ -134,27 +134,57 @@ main.container.article {
 /************************************************************
  GRID
 ************************************************************/
-.grid-poems {
-  display: grid;
-  grid-template:
-    "content"
-    "sidebar";
+/* IE fix > */
+.sidebar {
+  float: left;
 }
 
-.grid-apps {
-  display: grid;
-  grid-gap: 3rem;
-  grid-template-rows: repeat(auto-fill, auto);
+ .grid-poems article {
+  float: right;
 }
 
 @media (min-width: 768px) {
+  .sidebar {
+    float: left;
+  }
+
+   .grid-poems article {
+    float: left;
+  }
+}
+
+@supports not (display: grid) {
+  .sidebar, .grid-poems article {
+    margin-bottom: 100px;
+  }
+}
+/* < IE fix */
+
+@supports (display: grid) {
   .grid-poems {
-    grid-template: "sidebar content" / 300px 1fr;
+    display: grid;
+    grid-template:
+      "content"
+      "sidebar";
   }
 
   .grid-apps {
-    grid-template-columns: repeat(auto-fill, 300px);
-    max-width: 1140px;
+    display: grid;
+    grid-gap: 3rem;
+    grid-template-rows: repeat(auto-fill, auto);
+  }
+}
+
+@media (min-width: 768px) {
+  @supports (display: grid) {
+    .grid-poems {
+      grid-template: "sidebar content" / 300px 1fr;
+    }
+
+    .grid-apps {
+      grid-template-columns: repeat(auto-fill, 300px);
+      max-width: 1140px;
+    }
   }
 }
 
