@@ -1,6 +1,6 @@
 ---
 title: rêve
-date: 2018-05-14
+date: 2018-05-14T00:00:01
 recueil: poemes
 lang: fr
 ---
