@@ -1,6 +1,6 @@
 {{- with (getenv "CI") }}
   <meta name="version" content="{{ substr (getenv "TRAVIS_COMMIT") 0 7 }}">
-  <meta name="changelog" content="{{ substr (getenv "TRAVIS_COMMIT_MESSAGE") }}">
+  <meta name="changelog" content="{{ getenv "TRAVIS_COMMIT_MESSAGE" }}">
 {{- end }}
 {{ .Hugo.Generator -}}
 <meta name="author" content="{{ .Site.Params.author }}">
