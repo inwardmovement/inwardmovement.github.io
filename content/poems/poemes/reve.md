@@ -20,17 +20,17 @@ elle est dans nos rêves
 on l'aperçoit du bout des doigts
 l'ectoplasmie nous colle aux yeux
 
- c'est un fantôme
+c'est un fantôme
 
- *
+*
 
- elle a déjà les mains liées
- par son bonheur
+elle a déjà les mains liées
+par son bonheur
 
- on s'est entrainé à l'aimer
- on l'aime encore
+on s'est entrainé à l'aimer
+on l'aime encore
 
- elle nous fera encore rêver
- bien qu'on est mort
+elle nous fera encore rêver
+bien qu'on est mort
 
- il ne reste plus que le rêve
+il ne reste plus que le rêve
