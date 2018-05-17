@@ -55,7 +55,7 @@ menu:
         URL: "/poems/meditations/"
         Identifier: "meditations"
         weight: 4
-      - Name: "Poèmes"
-        URL: "/poems/poemes/"
-        Identifier: "poemes"
+      - Name: "Érosphère"
+        URL: "/poems/erosphere/"
+        Identifier: "erosphere"
         weight: 5
