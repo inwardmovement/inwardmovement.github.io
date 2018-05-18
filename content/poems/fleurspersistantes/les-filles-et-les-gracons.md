@@ -28,4 +28,4 @@ Si ça vous agace : une gifle et deux trois mots.
 Alors on vous fera l'éloge de votre âme :
 Vous serez surprises d'être par nous flattées
 Si fidèlement que c'est votre intimité
-Qu'on aura dénudée: encore giflés... Ces dames !
+Qu'on aura dénudée : encore giflés... Ces dames !
