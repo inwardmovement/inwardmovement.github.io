@@ -2,8 +2,6 @@
 title: About
 ---
 
-I'm Victor Massé from Lyon, France. Writer and musician.
-
 You can write me at
 `victor.dhamma@gmail.com`
 
