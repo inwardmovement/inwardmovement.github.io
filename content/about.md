@@ -1,9 +1,8 @@
 ---
 title: About
-layout: about
 ---
 
-I'm Victor Massé from Lyon, France. Writer, musician, activist.
+I'm Victor Massé from Lyon, France. Writer and musician.
 
 You can write me at
 `victor.dhamma@gmail.com`
