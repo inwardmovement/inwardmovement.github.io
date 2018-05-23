@@ -9,7 +9,7 @@ enableRobotsTXT: true
 disableKinds: ["taxonomy", "taxonomyTerm"]
 # ignoreFiles: ["static//css//.*.css$", "static//js//.*.js$"]
 params:
-  description: "Writer, developer, activist"
+  description: "Writer, musician, activist"
   author: "Victor Massé"
 author:
   name: "Victor Massé"
