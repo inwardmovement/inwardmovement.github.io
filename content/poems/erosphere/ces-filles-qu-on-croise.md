@@ -6,7 +6,6 @@ lang: fr
 ---
 
 ces filles qu'on croise
-
 et qui nous disent
 bonjour du regard
 j'irais bien dormir chez vous
