@@ -5,7 +5,7 @@ recueil: erosphere
 lang: fr
 ---
 
-*à Ambre*
+*à Maitresse*
 
 je suis donné
 et j'espère pour toujours

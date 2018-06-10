@@ -5,7 +5,7 @@ recueil: erosphere
 lang: fr
 ---
 
-*à Ambre*
+*à Maitresse*
 
 on se perd
 on rend les armes et se fait prisonnier
