@@ -5,7 +5,7 @@ recueil: erosphere
 lang: fr
 ---
 
-*à Maitresse*
+*à Ambre*
 
 lui il voudrait lui dire je t'aime
 légèrement — comme on dit un je t'aime

@@ -5,7 +5,7 @@ recueil: erosphere
 lang: fr
 ---
 
-*à Maitresse*
+*à Ambre*
 
 sous perfusion
 le sang coule sur mon bras
