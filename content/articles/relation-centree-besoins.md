@@ -24,7 +24,7 @@ La méthode consiste à cultiver un état d'esprit particulier,
 
 ## A) envers nous-même
 - Suivre nos besoins :
-Il est essentiel de sentir de quoi l'on a besoin dans une relation avec une personne, et d'essayer de satisfaire ce besoin. Un besoin non satisfait compromet notre bien-être, et par voie de conséquence celui de notre partenaire.
+Il est essentiel de sentir de quoi l'on a besoin dans une relation avec une personne[^1], et d'essayer de satisfaire ces besoins. Un besoin non satisfait compromet notre bien-être, et par voie de conséquence celui de notre partenaire.
 Il va de soi qu'un besoin peut évoluer.
 
 - Communiquer :
@@ -75,3 +75,5 @@ On considère :
 
 # Tableau récapitulatif
 {{< slides "https://docs.google.com/presentation/d/e/2PACX-1vTad9DgSUaus6U76WbfOTFNcQ4XuK5cvWwNwBLoiLGf9h3BIW1R5QBpok3EfdYKakp7XU5Ujxxt5soT/embed" >}}
+
+[^1]: à titre d'exemple de formalisation des besoins, voici ceux de l'auteur : "quand je suis amoureux j'aime bien me consacrer pleinement à la personne, j'ai une certaine pulsion d'exclusivité, je trouve que c'est plus intense comme ça, tout prend une dimension plus délicieuse. Mais c'est une pulsion d'"exclusivité souple", c'est-à-dire qu'il peut y avoir des libertés de temps en temps si besoin ; et c'est une pulsion unilatérale, je n'ai pas d'exigence envers la personne, je ne demande pas son exclusivité, j'aime me dire qu'elle reste libre, qu'elle fait ce qu'elle veut avec qui elle veut, comme ça elle peut vraiment satisfaire ses besoins au mieux. Cela me permet notamment de me sentir libre, libre de ne pas avoir à stresser, à douter d'elle, libre de ne pas être jaloux, libre de me sentir bien, dans l'acceptation de tout, libre d'aimer sa liberté, de me consacrer pleinement à la personne en toute souplesse avec une marge de liberté en profitant au mieux des "deux mondes" (sérénité personnelle), et de laisser l'amour et le plaisir se répandre naturellement dans le monde (position philosophique/éthique qui m'est chère). Disons qu'en amour je suis "exclusif souple unilatéral".
