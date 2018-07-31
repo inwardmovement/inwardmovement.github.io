@@ -6,6 +6,7 @@ lang: fr
 ---
 
 *à Emma*
+(à la manière de Guillevic)
 
 Suppose
 
