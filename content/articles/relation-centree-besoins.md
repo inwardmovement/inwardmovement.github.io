@@ -68,7 +68,7 @@ En cas de conflit en souplesse inégale, le besoin non négociable est prioritai
 ### c) Priorisation passive
 En cas de conflit dur, le besoin passif est prioritaire sauf s'il est exclusif, auquel cas le besoin actif est prioritaire.
 
-On considère :
+En effet on considère :
 - qu'un besoin passif est généralement plus légitime car il n'implique pas d'agir en contrariété avec ses besoins ;
 
 - mais qu'un besoin actif est plus légitime comparément à un besoin passif exclusif.
