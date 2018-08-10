@@ -1,5 +1,5 @@
 ---
-title: Cocktail vénitien
+title: cocktail vénitien
 date: 2018-08-10
 recueil: erosphere
 lang: fr
