@@ -6,3 +6,7 @@
 Backend: [Hugo](https://gohugo.io/)  
 Frontend: [Bootstrap](http://getbootstrap.com/)  
 Hosting: [GitHub](https://pages.github.com/)  
+
+---
+
+Articles' dates are only used to order them, they are not relevant in themselves.
