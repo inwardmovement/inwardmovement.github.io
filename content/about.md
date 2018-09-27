@@ -3,8 +3,8 @@ title: About
 ---
 
 My main centers of interest are:
+- strategy, ethics and organization
 - art and creation
-- ethics and organization
 - mind training and critical thinking
 
 You can write me at:
