@@ -55,4 +55,4 @@ ce qui est affirmé sans preuve peut être nier sans preuve (euclide)
 une affirmation extraordinaire requiert des preuves plus qu'ordinaires (carl sagan)
 la nécessité des axiomes : ce qu'on admet pour vrai (= conforme à la réalité) sans le démontrer
 le "vraisemblable jusqu'à preuve du contraire" avec principe de parcimonie
-
+méthodes statistiques, seuils valeur-p
