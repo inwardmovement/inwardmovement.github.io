@@ -13,8 +13,6 @@ before_script:
 script: gulp
 deploy:
   provider: pages
-  edge:
-      branch: pages-ivar-set
   local-dir: public
   target-branch: master
   skip-cleanup: true
