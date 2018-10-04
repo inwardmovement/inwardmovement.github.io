@@ -29,9 +29,9 @@ menu:
         URL: "/articles/"
         Identifier: "articles"
         weight: 2
-      - Name: "Music"
-        URL: "/music/"
-        Identifier: "music"
+      - Name: "Activism"
+        URL: "/activism/"
+        Identifier: "activism"
         weight: 3
   mainright:
       - Name: "About"
