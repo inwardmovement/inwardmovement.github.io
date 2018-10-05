@@ -46,7 +46,7 @@ https://docs.google.com/document/d/1DMYi7S9WSVVyJcDaaAwxVrS5UZWF_ZQ1GvTRhEWQ0kQ/
 
 validité d'un argument/hypothèse  > réfutabilité : un argument valide doit être réfutable
 charge de la preuve (à celui qui avance l'existence d'un fait de le prouver) et pourquoi elle revient à untel
-niveaux de preuve + qu'est-ce qu'une preuve valable
+niveaux de preuve (pyramide-hiérarchie) + qu'est-ce qu'une preuve valable
 principe de parcimonie
 biais
 absence de croyance != croyance de l'absence
@@ -56,3 +56,5 @@ une affirmation extraordinaire requiert des preuves plus qu'ordinaires (carl sag
 la nécessité des axiomes : ce qu'on admet pour vrai (= conforme à la réalité) sans le démontrer
 le "vraisemblable jusqu'à preuve du contraire" avec principe de parcimonie
 méthodes statistiques, seuils valeur-p
+
+last updated
