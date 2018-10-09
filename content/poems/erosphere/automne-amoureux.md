@@ -14,5 +14,3 @@ tu souris tu m'embrasses
 et tes mains fraiches se collent aux miennes
 
 on s'en va vers nos aventures
-
-ça sent bon
