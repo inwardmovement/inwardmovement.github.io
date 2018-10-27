@@ -4,4 +4,4 @@ title: Hi =)
 
 I'm Victor from Lyon, France.
 
-Writer, musician and activist.
+Writer, musician, activist.
