@@ -1,7 +1,8 @@
 sudo: required
 language: node_js
 node_js:
-  - "lts/*"
+  # - "lts/*"
+  - "10" # fix travis build failure with node 11
 go:
   - master
 install:
