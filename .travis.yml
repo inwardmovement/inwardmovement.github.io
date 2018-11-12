@@ -19,9 +19,7 @@ deploy:
   github-token: $GITHUB_TOKEN
   on:
     branch: source
-# cache:
-#   directories:
-#     - node_modules
+cache: npm
 notifications:
   email:
     on_success: never
