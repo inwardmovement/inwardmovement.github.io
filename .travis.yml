@@ -7,7 +7,8 @@ go:
 install:
   - wget https://github.com/gohugoio/hugo/releases/download/v0.49/hugo_0.49_Linux-64bit.deb
   - sudo dpkg -i hugo*.deb
-  - npm install
+  # - npm install
+  - npm i natives
 before_script:
   - npm install -g gulp-cli
 script: gulp
