@@ -21,45 +21,45 @@ blackfriday:
 footnoteReturnLinkContents: "↑"
 menu:
   mainleft:
-      - Name: "Poems"
-        URL: "/poems/"
-        Identifier: "poems"
-        weight: 1
-      - Name: "Articles"
-        URL: "/articles/"
-        Identifier: "articles"
-        weight: 2
-      - Name: "Music"
-        URL: "/music/"
-        Identifier: "music"
-        weight: 3
-      - Name: "Activism"
-        URL: "/activism/"
-        Identifier: "activism"
-        weight: 4
+    - Name: "Poems"
+      URL: "/poems/"
+      Identifier: "poems"
+      weight: 1
+    - Name: "Articles"
+      URL: "/articles/"
+      Identifier: "articles"
+      weight: 2
+    - Name: "Music"
+      URL: "/music/"
+      Identifier: "music"
+      weight: 3
+    - Name: "Activism"
+      URL: "/activism/"
+      Identifier: "activism"
+      weight: 4
   mainright:
-      - Name: "About"
-        URL: "/about/"
-        Identifier: "about"
-        weight: 1
+    - Name: "About"
+      URL: "/about/"
+      Identifier: "about"
+      weight: 1
   recueils:
-      - Name: "Fleurs persistantes"
-        URL: "/poems/fleurspersistantes/"
-        Identifier: "fleurspersistantes"
-        weight: 1
-      - Name: "SuperEro"
-        URL: "/poems/superero/"
-        Identifier: "superero"
-        weight: 2
-      - Name: "Poudre à rêver"
-        URL: "/poems/poudrearever/"
-        Identifier: "poudrearever"
-        weight: 3
-      - Name: "Méditations"
-        URL: "/poems/meditations/"
-        Identifier: "meditations"
-        weight: 4
-      - Name: "Érosphère"
-        URL: "/poems/erosphere/"
-        Identifier: "erosphere"
-        weight: 5
+    - Name: "Fleurs persistantes"
+      URL: "/poems/fleurspersistantes/"
+      Identifier: "fleurspersistantes"
+      weight: 1
+    - Name: "SuperEro"
+      URL: "/poems/superero/"
+      Identifier: "superero"
+      weight: 2
+    - Name: "Poudre à rêver"
+      URL: "/poems/poudrearever/"
+      Identifier: "poudrearever"
+      weight: 3
+    - Name: "Méditations"
+      URL: "/poems/meditations/"
+      Identifier: "meditations"
+      weight: 4
+    - Name: "Érosphère"
+      URL: "/poems/erosphere/"
+      Identifier: "erosphere"
+      weight: 5
