@@ -537,7 +537,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 
 /************************************************************
-                           HUGO
+                   HUGO + OPEN SANS font
 ************************************************************/
 
 Apache License

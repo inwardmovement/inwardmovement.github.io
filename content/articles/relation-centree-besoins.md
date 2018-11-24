@@ -54,7 +54,7 @@ Dureté du conflit
 : Un conflit est dit "doux" s'il concerne un besoin qui n'a pas la même souplesse pour chacun des partenaires (souple pour nous et non négociable pour notre partenaire, ou inversement) ou s'il est souple pour chacun. Le conflit est dit "dur" si le besoin est non négociable pour les deux partenaires.
 
 Exclusivité
-: Un besoin est dit "exclusif" si l'action ou la non action qu'il requiert pour être satisfait n'implique pas la participation de la personne qui a le besoin.
+: Un besoin est dit "exclusif" si l'action ou la non action qu'il requiert pour être satisfait n'implique pas directement la participation de la personne qui l'éprouve.
 
 Priorité
 : Un besoin est dit "prioritaire" quand sa satisfaction devrait être privilégiée à celle du besoin contraire.
@@ -71,7 +71,7 @@ En cas de conflit dur, le besoin passif est prioritaire sauf s'il est exclusif, 
 En effet on considère :
 - qu'un besoin passif est généralement plus légitime car il n'implique pas d'agir en contrariété avec ses besoins ;
 
-- mais qu'un besoin actif est plus légitime comparément à un besoin passif exclusif.
+- mais qu'un besoin actif est plus légitime comparément à un besoin passif exclusif, car ce dernier n'implique pas directement la participation de la personne qui l'éprouve.
 
 # Tableau récapitulatif
 {{< slides "https://docs.google.com/presentation/d/e/2PACX-1vTad9DgSUaus6U76WbfOTFNcQ4XuK5cvWwNwBLoiLGf9h3BIW1R5QBpok3EfdYKakp7XU5Ujxxt5soT/embed" >}}

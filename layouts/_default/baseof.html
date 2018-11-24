@@ -7,7 +7,9 @@
   <header>
     {{ partial "nav" . -}}
   </header>
-  {{- block "main" . }}{{ end -}}
-  {{ partial "footer" . -}}
+  <footer>
+    {{- block "main" . }}{{ end -}}
+    {{ partial "footer" . -}}
+  </footer>
 </body>
 </html>
