@@ -8,9 +8,9 @@ lang: fr
 
 Le dé utilisé est un [d100](https://fr.wikipedia.org/wiki/D%C3%A9_%C3%A0_cent_faces) dont le chiffre des dizaines représente une action et celui des unités un lieu.
 
-Chaque joueur fait sa propre liste de 10 actions qu'il aimerait faire avec l'autre joueur, avec l'accord de ce dernier. Le joueur qui veut faire une action lance les dés et se reporte aux listes pour connaitre la combinaison action/lieu à réaliser.
+Chaque joueur fait sa propre liste de 10 actions qu'il aimerait faire avec l'autre joueur, avec l'accord de ce dernier, en classant les actions de la moins risquée à la plus risquée. Le joueur qui veut faire une action lance les dés et se reporte aux listes pour connaitre la combinaison action/lieu à réaliser.
 
-La liste des lieux suivante est proposée :
+La liste des lieux suivante est proposée (du moins risqué au plus risqué) :
 
 1 : ascenseur
 2 : cinéma
