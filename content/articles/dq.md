@@ -14,12 +14,12 @@ La liste des lieux suivante est proposée (du moins risqué au plus risqué) :
 
 1 : ascenseur
 2 : cinéma
-5 : parc
-9 : rue
-3 : salle d'attente
-4 : parking
+3 : parc
+4 : rue
+5 : salle d'attente
+6 : parking
 7 : hall d'entrée
-6 : magasin
-8 : musée
+8 : magasin
+9 : musée
 
 Si un dé affiche 00 ou 0, c'est le joueur adverse qui choisit l'action ou le lieu.
