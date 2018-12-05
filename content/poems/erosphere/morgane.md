@@ -1,6 +1,6 @@
 ---
 title: Morgane
-date: 2018-12-04
+date: 2018-12-04T01:00:00
 recueil: erosphere
 lang: fr
 ---
