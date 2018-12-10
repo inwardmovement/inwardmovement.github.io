@@ -75,3 +75,4 @@ En effet on considère :
 
 # Tableau récapitulatif
 {{< slides "https://docs.google.com/presentation/d/e/2PACX-1vTad9DgSUaus6U76WbfOTFNcQ4XuK5cvWwNwBLoiLGf9h3BIW1R5QBpok3EfdYKakp7XU5Ujxxt5soT/embed" >}}
+([lien](https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA))
