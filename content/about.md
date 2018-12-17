@@ -11,6 +11,6 @@ My centers of interest are:
 You can write me at:
 `victor.dhamma@gmail.com`
 
-And [subscribe here](http://eepurl.com/gbvXKb) to get news about my content and activities.
+And [subscribe here](http://eepurl.com/gbvXKb) to get news about my content and activities (in french).
 
 If you like my work you can [support me](https://tipeee.com/inwardmovement) :)
