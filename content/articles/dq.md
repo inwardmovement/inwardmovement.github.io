@@ -8,7 +8,7 @@ lang: fr
 
 Le dé utilisé est un d100[^1] dont le chiffre des dizaines représente une action et celui des unités un lieu.
 
-Chaque joueur fait sa propre liste de 10 actions qu'il aimerait faire avec l'autre joueur, avec l'accord de ce dernier, en classant les actions de la moins risquée à la plus risquée. Le joueur qui veut faire une action lance les dés et se reporte aux listes pour connaitre la combinaison action/lieu à réaliser.
+Chaque joueur fait sa propre liste de 9 actions qu'il aimerait faire avec l'autre joueur, avec l'accord de ce dernier, en classant les actions de la moins risquée à la plus risquée. Le joueur qui veut faire une action lance les dés et se reporte aux listes pour connaitre la combinaison action/lieu à réaliser.
 
 La liste des lieux suivante est proposée (du moins risqué au plus risqué) :
 
