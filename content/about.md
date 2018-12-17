@@ -11,7 +11,6 @@ My centers of interest are:
 You can write me at:
 `victor.dhamma@gmail.com`
 
-If you like my work you can support me :)
+And [subscribe here](http://eepurl.com/gbvXKb) to get news about my content and activities.
 
-<iframe src="//fr.tipeee.com/inwardmovement/embed/button" width="100%" height="30" style="border:0;"></iframe>
-
+If you like my work you can [support me](https://tipeee.com/inwardmovement) :)
