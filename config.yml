@@ -9,7 +9,7 @@ enableRobotsTXT: true
 disableKinds: ["taxonomy", "taxonomyTerm"]
 # ignoreFiles: ["static//css//.*.css$", "static//js//.*.js$"]
 params:
-  description: "Writer, musician, activist"
+  description: "Writer, activist"
   author: "Victor Massé"
 author:
   name: "Victor Massé"
@@ -21,22 +21,18 @@ blackfriday:
 footnoteReturnLinkContents: "↑"
 menu:
   mainleft:
-    - Name: "Poems"
-      URL: "/poems/"
-      Identifier: "poems"
-      weight: 1
     - Name: "Articles"
       URL: "/articles/"
       Identifier: "articles"
+      weight: 1
+    - Name: "Poems"
+      URL: "/poems/"
+      Identifier: "poems"
       weight: 2
-    - Name: "Music"
-      URL: "/music/"
-      Identifier: "music"
-      weight: 3
     - Name: "Activism"
       URL: "/activism/"
       Identifier: "activism"
-      weight: 4
+      weight: 3
   mainright:
     - Name: "About"
       URL: "/about/"
