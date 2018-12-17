@@ -22,6 +22,7 @@ La liste des lieux suivante est proposée (du moins risqué au plus risqué) :
 8 : magasin
 9 : musée
 
-Si un dé affiche 00 ou 0, c'est le joueur adverse qui choisit l'action ou le lieu.
+Si un dé affiche 00 ou 0, c'est le joueur adverse qui choisit l'action ou le lieu.[^2]
 
-[^1]: voilà un exemple de [d10 dizaines](http://www.des-en-folie.fr/des-gamme-opaque-chessex/4838-d-opaque-chessex-blanc-et-noir.html) et [d10 unités](http://www.des-en-folie.fr/des-gamme-opaque-chessex/4819-d10-opaque-chessex-blanc-et-noir.html) dont la combinaison permet de simuler un [d100](https://fr.wikipedia.org/wiki/D%C3%A9_%C3%A0_cent_faces)
+[^1]: voilà un exemple de [d10 dizaines](http://www.des-en-folie.fr/des-gamme-opaque-chessex/4838-d-opaque-chessex-blanc-et-noir.html) et [d10 unités](http://www.des-en-folie.fr/des-gamme-opaque-chessex/4819-d10-opaque-chessex-blanc-et-noir.html) dont la combinaison permet de simuler un [d100](https://fr.wikipedia.org/wiki/D%C3%A9_%C3%A0_cent_faces).
+[^2]: en cas de [sanction légale](https://www.nouvelobs.com/rue89/rue89-rue69/20100426.RUE6183/si-je-baise-dans-la-rue-je-risque-quoi-legalement.html), l'auteur de cet article ne peut être tenu responsable.
