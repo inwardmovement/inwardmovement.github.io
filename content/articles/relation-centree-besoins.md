@@ -7,6 +7,19 @@ lang: fr
 {{< toc >}}
 
 # Introduction
+J'ai longtemps été travaillé par l'idée qu'il devait bien exister un moyen systématique de prioriser les besoins en cas d'opposition dans une relation : que faire quand une personne a le besoin A et la personne partenaire le besoin contraire "non A" ?
+
+Au fil de mes expériences et analyses j'ai mis au point une méthode pour déterminer **systématiquement** quel besoin est *comparément plus légitime* que l'autre et devrait donc être priorisé.
+
+La méthode est décrite dans cet article, et je peux vous accompagner dans sa mise en place au sein de vos relations. Ses avantages sont :
+- de ne pas laisser les conflits de besoins gangréner la relation dans un statu quo désarçonnant ;
+
+- d'offrir un cadre d'analyse sur la légitimité de ses propres besoins au regard de ceux de la personne partenaire ;
+
+- de ne pas émettre de jugement de valeur intrinsèque sur tel ou tel besoin ;
+
+- de pouvoir se mettre d'accord *en amont* sur son utilisation pour adoucir et neutraliser les conflits de besoins *futurs*.
+
 Dans une relation interpersonnelle, l'interdépendance peut faire émerger des conflits de besoins : une des personnes a un besoin et l'autre a le besoin contraire.
 
 Dans la relation amoureuse particulièrement, le conditionnement culturel peut compromettre l'épanouissement :
@@ -63,15 +76,15 @@ Priorité
 En cas de conflit doux en souplesse égale, l'enjeu est tout au plus une petite insatisfaction pour l'un des partenaires. Une simple discussion permettra de résoudre le conflit où l'un consentira à la satisfaction du besoin de l'autre.
 
 ### b) Priorisation par souplesse
-En cas de conflit en souplesse inégale, le besoin non négociable est prioritaire car il génèrera probablement plus de souffrance s'il n'est pas satisfait que le besoin souple.
+En cas de conflit en souplesse inégale, le besoin non négociable est prioritaire car il génèrera vraisemblablement plus de souffrance s'il n'est pas satisfait que le besoin souple.
 
 ### c) Priorisation passive
-En cas de conflit dur, le besoin passif est prioritaire sauf s'il est exclusif, auquel cas le besoin actif est prioritaire.
-
-En effet on considère :
+En cas de conflit dur, on considère :
 - qu'un besoin passif est généralement plus légitime car il n'implique pas d'agir en contrariété avec ses besoins ;
 
 - mais qu'un besoin actif est plus légitime comparément à un besoin passif exclusif, car ce dernier n'implique pas directement la participation de la personne qui l'éprouve.
+
+Ainsi le besoin passif est prioritaire sauf s'il est exclusif, auquel cas le besoin actif est prioritaire.
 
 # Tableau récapitulatif
 {{< slides "https://docs.google.com/presentation/d/e/2PACX-1vTad9DgSUaus6U76WbfOTFNcQ4XuK5cvWwNwBLoiLGf9h3BIW1R5QBpok3EfdYKakp7XU5Ujxxt5soT/embed" >}}
