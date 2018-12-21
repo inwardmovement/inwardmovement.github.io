@@ -6,7 +6,7 @@ lang: fr
 
 "dq" est un jeu consistant à réaliser une action coquine dans un lieu public sans se faire voir, l'action et le lieu étant déterminés aléatoirement par un lancer de dé.
 
-Le dé utilisé est un d100[^1] dont le chiffre des dizaines représente une action et celui des unités un lieu.
+On utilise un d100[^1] dont le chiffre des dizaines représente une action et celui des unités un lieu.
 
 Chaque joueur fait sa propre liste de 9 actions qu'il aimerait faire avec l'autre joueur, avec l'accord de ce dernier, en classant les actions de la moins risquée à la plus risquée. Le joueur qui veut faire une action lance les dés et se reporte aux listes pour connaitre la combinaison action/lieu à réaliser.
 
