@@ -21,13 +21,13 @@ blackfriday:
 footnoteReturnLinkContents: "↑"
 menu:
   mainleft:
-    - Name: "Articles"
-      URL: "/articles/"
-      Identifier: "articles"
-      weight: 1
     - Name: "Poems"
       URL: "/poems/"
       Identifier: "poems"
+      weight: 1
+    - Name: "Articles"
+      URL: "/articles/"
+      Identifier: "articles"
       weight: 2
     - Name: "Activism"
       URL: "/activism/"
