@@ -87,5 +87,4 @@ En cas de conflit dur, on considère :
 Ainsi le besoin passif est prioritaire sauf s'il est exclusif, auquel cas le besoin actif est prioritaire.
 
 # Tableau récapitulatif
-{{< slides "https://docs.google.com/presentation/d/e/2PACX-1vTad9DgSUaus6U76WbfOTFNcQ4XuK5cvWwNwBLoiLGf9h3BIW1R5QBpok3EfdYKakp7XU5Ujxxt5soT/embed" >}}
-(si le tableau ne s'affiche pas, [cliquez ici](https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA))
+Voir le [tableau récapitulatif](https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA)

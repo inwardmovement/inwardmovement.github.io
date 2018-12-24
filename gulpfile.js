@@ -29,6 +29,7 @@ gulp.task('js', function(){
     'static/js/jquery.js',
     'static/js/popper.js',
     'static/js/bootstrap.js',
+    'static/js/scrolltofixed.js',
     'static/js/app.js'
     ])
     .pipe(concat('main.js'))
