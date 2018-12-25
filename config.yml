@@ -8,7 +8,6 @@ metaDataFormat: yaml
 rssLimit: 10
 enableRobotsTXT: true
 disableKinds: ["taxonomy", "taxonomyTerm"]
-# ignoreFiles: ["static//css//.*.css$", "static//js//.*.js$"]
 params:
   description: "Writer, activist"
   author: "Victor Massé"

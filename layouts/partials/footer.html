@@ -1,18 +1,20 @@
-<nav class="navbar navbar-expand navbar-light bg-light nav-footer" aria-label="Footer navigation">
+<nav id="footer" class="navbar navbar-expand navbar-light bg-light nav-footer" aria-label="Footer navigation">
   <div class="container">
     <div class="collapse navbar-collapse">
       <div class="navbar-nav mx-auto">
         <a class="nav-item nav-link" href="https://github.com/inwardmovement/inwardmovement.github.io">GitHub</a>
+        <p>•</p>
+        <a class="nav-item nav-link" href="#" onclick="tarteaucitron.userInterface.openPanel();">Cookies</a>
       </div>
     </div>
   </div>
 </nav>
 
-{{- with (getenv "CI") }}
-  <script src="{{ "main.js" | relURL }}"></script>
-{{ else }}
-  <script src="{{ "js/jquery.js" | relURL }}"></script>
-  <script src="{{ "js/bootstrap.js" | relURL }}"></script>
-  <script src="{{ "js/scrolltofixed.js" | relURL }}"></script>
-  <script src="{{ "js/app.js" | relURL }}"></script>
-{{ end -}}
+<script src="{{ "js/jquery.js" | relURL }}"></script>
+<script src="{{ "js/bootstrap.js" | relURL }}"></script>
+<script src="{{ "js/scrolltofixed.js" | relURL }}"></script>
+<script>
+  tarteaucitron.user.gtagUa = 'UA-114704921-1';
+  (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
+</script>
+<script src="{{ "js/app.js" | relURL }}"></script>

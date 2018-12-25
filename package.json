@@ -16,16 +16,11 @@
     "url": "https://github.com/inwardmovement/inwardmovement.github.io/issues"
   },
   "homepage": "https://github.com/inwardmovement/inwardmovement.github.io",
-    "devDependencies": {
-      "del": "^3.0.0",
-      "gulp": "^3.9.1",
-      "gulp-clean-css": "^3.9.2",
-      "gulp-concat": "^2.6.1",
-      "gulp-html-prettify": "0.0.1",
-      "gulp-remove-empty-lines": "^0.1.0",
-      "gulp-replace": "^0.6.1"
-      },
-    "dependencies": {
-      "gulp-uglify-es": "^1.0.4"
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-html-prettify": "0.0.1",
+    "gulp-remove-empty-lines": "^0.1.0",
+    "gulp-replace": "^0.6.1"
     }
-  }
+}

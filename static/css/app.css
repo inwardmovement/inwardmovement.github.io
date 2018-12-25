@@ -102,6 +102,10 @@ dd {
   margin-bottom: 0;
 }
 
+#tarteaucitronAlertBig {
+  margin-bottom: 56px !important;
+}
+
 /************************************************************
  CONTAINER
 ************************************************************/
@@ -501,4 +505,10 @@ blockquote p:last-of-type {
   bottom: 0;
   width: 100%;
   margin-bottom: 0;
+}
+
+.nav-footer p {
+  padding: 8px;
+  margin: 0;
+  color: rgba(0,0,0,.5);
 }
