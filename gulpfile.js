@@ -30,10 +30,10 @@ gulp.task('js', function(){
     'static/js/popper.js',
     'static/js/bootstrap.js',
     'static/js/scrolltofixed.js',
+    'static/js/tarteaucitron/tarteaucitron.js',
     'static/js/tarteaucitron/lang/**.*',
     'static/js/tarteaucitron/tarteaucitron.services.js',
     'static/js/tarteaucitron/advertising.js',
-    'static/js/tarteaucitron/tarteaucitron.js',
     'static/js/app.js'
     ])
     .pipe(concat('main.js'))
