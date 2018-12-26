@@ -1,43 +1,17 @@
 var gulp      = require('gulp'),
-    concat    = require('gulp-concat'),
     replace   = require('gulp-replace'),
-    minify    = require('gulp-clean-css'),
-    uglify    = require('gulp-uglify-es').default,
     beautify  = require('gulp-html-prettify'),
     trim      = require('gulp-remove-empty-lines'),
     exec      = require('child_process').exec,
-    del = require('del');
+    del       = require('del');
 
-gulp.task('default', ['reset', 'css', 'js', 'hugo', 'html']);
+gulp.task('default', ['reset', 'hugo', 'html']);
 
 gulp.task('reset', function(){
     return del('public/**/*');
 });
 
-gulp.task('css', function(){
-  return gulp.src([
-  'static/css/bootstrap.css',
-  'static/css/app.css'
-  ])
-    .pipe(concat('main.css'))
-    .pipe(minify())
-    .pipe(gulp.dest('static'))
-});
-
-gulp.task('js', function(){
-  return gulp.src([
-    'static/js/jquery.js',
-    'static/js/popper.js',
-    'static/js/bootstrap.js',
-    'static/js/scrolltofixed.js',
-    'static/js/app.js'
-    ])
-    .pipe(concat('main.js'))
-    .pipe(uglify())
-    .pipe(gulp.dest('static'))
-});
-
-gulp.task('hugo', ['reset', 'css', 'js'], function (fetch) {
+gulp.task('hugo', ['reset'], function (fetch) {
   return exec('hugo', function (err, stdout, stderr) {
     console.log(stdout);
     console.log(stderr);
@@ -57,5 +31,5 @@ gulp.task('html', ['hugo'], function() {
     .pipe(replace(' ?', '&#8239;?'))
     .pipe(replace(' %', '&#8239;%'))
     .pipe(replace(' €', '&#8239;€'))
-    .pipe(gulp.dest('public'));
+    .pipe(gulp.dest('public'))
 });
