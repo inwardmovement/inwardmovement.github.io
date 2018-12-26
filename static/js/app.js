@@ -18,3 +18,24 @@ $(document).ready(function() {
     limit: $('#topBtn').offset().top
   });
 });
+
+/************************************************************
+ ENABLE TARTEAUCITRON
+************************************************************/
+tarteaucitron.user.gtagUa = 'UA-114704921-1';
+(tarteaucitron.job = tarteaucitron.job || []).push('gtag');
+
+tarteaucitron.init({
+  "orientation": "bottom",
+  "removeCredit": true,
+  "moreInfoLink": false,
+  "privacyUrl": "",
+  "showAlertSmall": false,
+  "adblocker": false,
+  "hashtag": "#tarteaucitron",
+  "cookieName": "tartaucitron",
+  "cookieslist": true,
+  "AcceptAllCta": true,
+  "highPrivacy": true,
+  "handleBrowserDNTRequest": false
+});

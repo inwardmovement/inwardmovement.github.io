@@ -102,26 +102,6 @@ dd {
   margin-bottom: 0;
 }
 
-/* fix inconsistant position */
-@media (min-width: 768px) {
-  #tarteaucitron {
-    top: 100px !important;
-  }
-}
-
-#tarteaucitronAlertBig {
-  margin-bottom: 56px !important;
-}
-
-#tarteaucitronServices {
-  height: 100% !important;
-  box-shadow: none !important;
-}
-
-#tarteaucitronBack {
-  background-color: rgba(0, 0, 0, 0.5) !important;
-}
-
 /************************************************************
   CONTAINER
 ************************************************************/
@@ -511,6 +491,29 @@ blockquote {
 
 blockquote p:last-of-type {
   margin-bottom: 0 !important;
+}
+
+/************************************************************
+  COOKIE MANAGER
+************************************************************/
+/* fix inconsistant position */
+@media (min-width: 768px) {
+  #tarteaucitron {
+    top: 100px !important;
+  }
+}
+
+#tarteaucitronAlertBig {
+  margin-bottom: 56px !important;
+}
+
+#tarteaucitronServices {
+  height: 100% !important;
+  box-shadow: none !important;
+}
+
+#tarteaucitronBack {
+  background-color: rgba(0, 0, 0, 0.5) !important;
 }
 
 /************************************************************

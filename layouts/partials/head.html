@@ -10,23 +10,11 @@
 {{- range .AlternativeOutputFormats }}
     {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
 {{- end }}
-<link rel="stylesheet" href="{{ "css/bootstrap.css" | relURL }}">
-<link rel="stylesheet" href="{{ "css/app.css" | relURL }}">
-<script src="{{ "js/tarteaucitron/tarteaucitron.js" | relURL }}"></script>
-<script>
-  tarteaucitron.init({
-    "orientation": "bottom",
-    "removeCredit": true,
-    "moreInfoLink": false,
-    "privacyUrl": "",
-    "showAlertSmall": false,
-    "adblocker": false,
-    "hashtag": "#tarteaucitron",
-    "cookieName": "tartaucitron",
-    "cookieslist": true,
-    "AcceptAllCta": true,
-    "highPrivacy": true,
-    "handleBrowserDNTRequest": false
-  });
-</script>
+{{- with (getenv "CI") }}
+  <link rel="stylesheet" href="{{ "main.css" | relURL }}">
+{{- else }}
+  <link rel="stylesheet" href="{{ "css/bootstrap.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/app.css" | relURL }}">
+{{- end }}
+
 <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ if .IsHome }} | {{ .Site.Params.description }}{{ end }}</title>

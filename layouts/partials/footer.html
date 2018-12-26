@@ -10,11 +10,12 @@
   </div>
 </nav>
 
-<script src="{{ "js/jquery.js" | relURL }}"></script>
-<script src="{{ "js/bootstrap.js" | relURL }}"></script>
-<script src="{{ "js/scrolltofixed.js" | relURL }}"></script>
-<script>
-  tarteaucitron.user.gtagUa = 'UA-114704921-1';
-  (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
-</script>
-<script src="{{ "js/app.js" | relURL }}"></script>
+{{- with (getenv "CI") }}
+  <script src="{{ "main.js" | relURL }}"></script>
+{{ else }}
+  <script src="{{ "js/jquery.js" | relURL }}"></script>
+  <script src="{{ "js/bootstrap.js" | relURL }}"></script>
+  <script src="{{ "js/scrolltofixed.js" | relURL }}"></script>
+  <script src="{{ "js/tarteaucitron/tarteaucitron.js" | relURL }}"></script>
+  <script src="{{ "js/app.js" | relURL }}"></script>
+{{ end -}}
