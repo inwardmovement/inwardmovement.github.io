@@ -54,7 +54,7 @@ gulp.task('hugo', ['reset', 'css', 'js'], function (fetch) {
 //     .pipe(gulp.dest('public/lang'));
 // });
 
-gulp.task('html', ['post-hugo'], function() {
+gulp.task('html', ['hugo'], function() {
   return gulp.src('public/**/*.html')
     .pipe(beautify({indent_char: ' ', indent_size: 2}))
     .pipe(trim())
