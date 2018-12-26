@@ -30,10 +30,6 @@ gulp.task('js', function(){
     'static/js/popper.js',
     'static/js/bootstrap.js',
     'static/js/scrolltofixed.js',
-    'static/js/tarteaucitron/tarteaucitron.js',
-    'static/js/tarteaucitron/lang/**.*',
-    'static/js/tarteaucitron/tarteaucitron.services.js',
-    'static/js/tarteaucitron/advertising.js',
     'static/js/app.js'
     ])
     .pipe(concat('main.js'))
@@ -48,11 +44,6 @@ gulp.task('hugo', ['reset', 'css', 'js'], function (fetch) {
     fetch(err);
   });
 });
-
-// gulp.task('post-hugo', ['hugo'], function (fetch) {
-//   return gulp.src('public/js/tarteaucitron/lang/**.*')
-//     .pipe(gulp.dest('public/lang'));
-// });
 
 gulp.task('html', ['hugo'], function() {
   return gulp.src('public/**/*.html')
