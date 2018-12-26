@@ -9,11 +9,7 @@
 {{- range .AlternativeOutputFormats }}
     {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
 {{- end }}
-{{- with (getenv "CI") }}
-  <link rel="stylesheet" href="{{ "main.css" | relURL }}">
-{{- else }}
-  <link rel="stylesheet" href="{{ "css/bootstrap.css" | relURL }}">
-  <link rel="stylesheet" href="{{ "css/app.css" | relURL }}">
-{{- end }}
+<link rel="stylesheet" href="{{ "css/bootstrap.css" | relURL }}">
+<link rel="stylesheet" href="{{ "css/app.css" | relURL }}">
 
 <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ if .IsHome }} | {{ .Site.Params.description }}{{ end }}</title>

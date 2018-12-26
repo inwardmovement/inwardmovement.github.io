@@ -10,12 +10,8 @@
   </div>
 </nav>
 
-{{- with (getenv "CI") }}
-  <script src="{{ "main.js" | relURL }}"></script>
-{{ else }}
-  <script src="{{ "js/jquery.js" | relURL }}"></script>
-  <script src="{{ "js/bootstrap.js" | relURL }}"></script>
-  <script src="{{ "js/scrolltofixed.js" | relURL }}"></script>
-  <script src="{{ "js/tarteaucitron/tarteaucitron.js" | relURL }}"></script>
-  <script src="{{ "js/app.js" | relURL }}"></script>
-{{ end -}}
+<script src="{{ "js/jquery.js" | relURL }}"></script>
+<script src="{{ "js/bootstrap.js" | relURL }}"></script>
+<script src="{{ "js/scrolltofixed.js" | relURL }}"></script>
+<script src="{{ "js/tarteaucitron/tarteaucitron.js" | relURL }}"></script>
+<script src="{{ "js/app.js" | relURL }}"></script>
