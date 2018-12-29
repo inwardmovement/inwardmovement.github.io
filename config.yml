@@ -2,6 +2,7 @@ baseURL: "https://inwardmovement.github.io/"
 defaultContentLanguage: "fr"
 languageCode: "en"
 title: "Inward Movement"
+canonifyURLs: true
 disableLiveReload: true
 # disableFastRender: true
 metaDataFormat: yaml
