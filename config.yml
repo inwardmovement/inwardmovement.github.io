@@ -16,6 +16,7 @@ author:
   name: "Victor Massé"
 blackfriday:
   angledQuotes: true
+  smartypantsQuotesNBSP: true
   extensions:
     - hardLineBreak
     - noEmptyLineBeforeBlock
