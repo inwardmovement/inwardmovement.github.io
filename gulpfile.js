@@ -23,6 +23,8 @@ gulp.task('html', ['hugo'], function() {
   return gulp.src('public/**/*.html')
     .pipe(beautify({indent_char: ' ', indent_size: 2}))
     .pipe(trim())
+    .pipe(replace('&laquo;', '&laquo;&#160;'))
+    .pipe(replace('&raquo;', '&#160;&raquo;'))
     .pipe(replace(' :', '&#160;:'))
     .pipe(replace(' ;', '&#8239;;'))
     .pipe(replace(' !', '&#8239;!'))
