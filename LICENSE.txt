@@ -547,7 +547,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 
 /************************************************************
-                       HUGO/OPEN SANS
+                       HUGO/OPEN SANS/MATERIAL ICONS
 ************************************************************/
 
 Apache License
