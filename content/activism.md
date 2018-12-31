@@ -3,9 +3,9 @@ title: Activism
 ---
 
 ### Strategy for the alleviation of suffering
-I lead this project from <a href="http://algosphere.org" target="_blank">Algosphere Alliance</a> to collaboratively develop and enforce a strategy to organize the alleviation of suffering.
+I lead this project from <a href="http://algosphere.org" target="_blank">Algosphere Alliance <i class="material-icons">launch</i></a> to collaboratively develop and enforce a strategy to organize the alleviation of suffering.
 
-<a href="https://docs.google.com/document/d/1uJwGk0t-142D0Uyagox6EkuEKdZ2g0yco2N0ym67zY4" target="_blank">Collaborative space</a>
+<a href="https://docs.google.com/document/d/1uJwGk0t-142D0Uyagox6EkuEKdZ2g0yco2N0ym67zY4" target="_blank">Collaborative space <i class="material-icons">launch</i></a>
 
 ### Canonical source for scientific method
 I lead this project to collaboratively write and maintain a canonical source for scientific method.
