@@ -204,7 +204,7 @@ main.container.article {
     font-weight: normal;
     font-style: normal;
     font-size: 18px;
-    display: inline-block;
+    /* display: inline-block; prevent nbsp bypass */
     line-height: 1;
     text-transform: none;
     letter-spacing: normal;
