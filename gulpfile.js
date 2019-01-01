@@ -32,7 +32,7 @@ gulp.task('html', ['hugo'], function() {
     .pipe(replace(' ?', '&#160;?'))
     .pipe(replace(' %', '&#160;%'))
     .pipe(replace(' €', '&#160;€'))
-    .pipe(replace(' <i', '&#160; <i'))
+    .pipe(replace(' <i', '&#160;<i'))
     .pipe(replace('</i> ', '</i>&#160;'))
     .pipe(gulp.dest('public'))
 });
