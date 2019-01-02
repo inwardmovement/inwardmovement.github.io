@@ -4,16 +4,12 @@
   {{- partial "head" . -}}
 </head>
 <body>
-  <div id="barba-wrapper">
-    <div class="barba-container">
-      <header>
-        {{ partial "nav" . -}}
-      </header>
-        {{- block "main" . }}{{ end -}}
-      <footer>
-        {{ partial "footer" . -}}
-      </footer>
-    </div>
-  </div>
+  <header>
+    {{ partial "nav" . -}}
+  </header>
+    {{- block "main" . }}{{ end -}}
+  <footer>
+    {{ partial "footer" . -}}
+  </footer>
 </body>
 </html>
