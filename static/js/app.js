@@ -39,3 +39,8 @@ tarteaucitron.init({
   "highPrivacy": true,
   "handleBrowserDNTRequest": false
 });
+
+/************************************************************
+ ENABLE BARBA
+************************************************************/
+Barba.Pjax.start();
