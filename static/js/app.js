@@ -44,3 +44,4 @@ tarteaucitron.init({
  ENABLE BARBA
 ************************************************************/
 Barba.Pjax.start();
+Barba.Prefetch.init();
