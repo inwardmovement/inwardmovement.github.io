@@ -254,6 +254,23 @@ main.container.article {
   margin-right: 0 !important;
 }
 
+.navbar .btn {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+@media (min-width: 768px) {
+  .navbar-collapse {
+    margin-top: initial;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar .btn {
+    margin: initial;
+  }
+}
+
 .nav-recueils {
   margin-bottom: 56px;
 }
