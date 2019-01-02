@@ -10,6 +10,8 @@
 {{- range .AlternativeOutputFormats }}
     {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
 {{- end }}
-<link rel="stylesheet" href="{{ "css/bootstrap.css" | relURL }}">
-<link rel="stylesheet" href="{{ "css/app.css" | relURL }}">
+{{ $bootstrap := resources.Get "css/bootstrap.css" }}
+{{ $app := resources.Get "css/app.css" }}
+{{ $main := slice $bootstrap $app | resources.Concat "main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $main.Permalink }}" integrity="{{ $main.Data.Integrity }}">
 <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ if .IsHome }} | {{ .Site.Params.description }}{{ end }}</title>

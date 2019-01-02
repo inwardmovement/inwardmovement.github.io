@@ -10,6 +10,13 @@
   </div>
 </nav>
 
+{{ $jquery := resources.Get "js/jquery.js" }}
+{{ $bootstrap := resources.Get "js/bootstrap.js" }}
+{{ $tarteaucitron := resources.Get "js/tarteaucitron/tarteaucitron.js" }}
+{{ $app := resources.Get "js/app.js" }}
+{{ $main := slice $jquery $bootstrap $tarteaucitron $app | resources.Concat "main.js" | minify | fingerprint}}
+
+
 <script src="{{ "js/jquery.js" | relURL }}"></script>
 <script src="{{ "js/bootstrap.js" | relURL }}"></script>
 <script src="{{ "js/tarteaucitron/tarteaucitron.js" | relURL }}"></script>
