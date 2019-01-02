@@ -1,5 +1,5 @@
 <meta name="author" content="{{ .Site.Params.author }}">
-<meta name="description" content="{{ .Site.Title }}: {{ .Site.Params.description }}.">
+<meta name="description" content="{{ .Site.Title }} : {{ .Site.Params.description }}">
 {{ .Hugo.Generator -}}
 {{- with (getenv "CI") }}
   <meta name="version" content="{{ substr (getenv "TRAVIS_COMMIT") 0 7 }}">

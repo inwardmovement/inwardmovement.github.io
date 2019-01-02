@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+  {{- partial "head" . -}}
+</head>
+<body>
+  <h1 class="ds">{{.Title}}</h1><br>
+  {{ .Content }}
+
+  {{ range where .Site.Pages.ByDate "Params.recueil" .Params.printrecueil }}
+    <h4>{{.Title}}</h4><br>
+    {{ .Content }}
+  {{ end }}
+
+  <style>
+    body {
+      font-size: 1.8rem;
+    }
+
+    .ds {
+      font-size: 4rem !important;
+    }
+
+    h4 {
+      page-break-before: always;
+      font-size: 2.5rem;
+    }
+
+    p {
+      page-break-inside: avoid;
+      margin-bottom: 1.5rem;
+    }
+
+    abbr {
+      text-decoration: none;
+    }
+
+    blockquote {
+      border-top: none;
+      border-bottom: none;
+      border-right: none;
+    }
+
+    @page {
+      margin-right: 2cm;
+      margin-left: 4cm;
+      margin-top: 2cm;
+      margin-bottom: 2cm;
+    }
+  </style>
+</body>
+</html>

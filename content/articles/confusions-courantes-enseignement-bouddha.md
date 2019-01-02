@@ -1,7 +1,6 @@
 ---
 title: Les confusions courantes sur l'enseignement du Bouddha
 date: 2015-09-04
-lang: fr
 ---
 
 {{< toc >}}

@@ -1,7 +1,6 @@
 ---
 title: "dq : jeu coquin"
 date: 2018-11-30
-lang: fr
 ---
 
 "dq" est un jeu consistant à réaliser une action coquine dans un lieu public sans se faire voir, l'action et le lieu étant déterminés aléatoirement par un lancer de dé.

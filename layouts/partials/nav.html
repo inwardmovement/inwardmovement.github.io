@@ -5,16 +5,13 @@
     <div class="collapse navbar-collapse" id="navbar-collapse">
       {{ $currentPage := . -}}
       <div class="navbar-nav mr-auto">
-        {{ range .Site.Menus.mainleft }}
+        {{ range .Site.Menus.main }}
           {{- $isCurrent := or (eq .URL $currentPage.URL) (eq .Identifier $.Section) -}}
             <a class="nav-item nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a>
         {{ end -}}
       </div>
       <div class="nav-right navbar-nav">
-        {{ range .Site.Menus.mainright }}
-          {{- $isCurrent := or (eq .URL $currentPage.URL) (eq .Identifier $.Section) -}}
-            <a class="nav-item nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a>
-        {{ end -}}
+        <button type="button" class="btn btn-info" onclick="window.open('mailto:victor.dhamma@gmail.com')">Contact <i class="material-icons">mail_outline</i></button>
       </div>
     </div>
   </div>

@@ -1,7 +1,6 @@
 ---
 title: L'origine de tout
 date: 2016-07-30
-lang: fr
 ---
 
 "L'origine de tout" désigne le changement d'une absence de tout vers l'existence de quelque chose.

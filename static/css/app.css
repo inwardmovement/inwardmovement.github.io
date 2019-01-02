@@ -215,7 +215,7 @@ main.container.article {
     text-rendering: optimizeLegibility;
     -moz-osx-font-smoothing: grayscale;
     font-feature-settings: 'liga';
-    vertical-align: sub;
+    vertical-align: text-bottom;
   }
 
 @font-face {

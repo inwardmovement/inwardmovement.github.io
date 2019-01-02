@@ -1,7 +1,5 @@
 ---
-title: Hi =)
+title: Salut =)
 ---
 
-I'm Victor from Lyon, France.
-
-Writer, activist.
+Je suis Victor, auteur.

@@ -1,7 +1,6 @@
 ---
 title: "L'exclusivité amoureuse : une discipline spirituelle ?"
 date: 2018-09-13
-lang: fr
 ---
 
 {{< toc >}}
