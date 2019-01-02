@@ -10,16 +10,6 @@ $('#modalDonation')
   });
 
 /************************************************************
- MAKE TOPBTN SCROLLTOFIXED
-************************************************************/
-$(document).ready(function() {
-  $('#topBtn').scrollToFixed( {
-    bottom: 8,
-    limit: $('#topBtn').offset().top
-  });
-});
-
-/************************************************************
  ENABLE TARTEAUCITRON
 ************************************************************/
 tarteaucitron.user.gtagUa = 'UA-114704921-1';

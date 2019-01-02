@@ -84,16 +84,15 @@ dd {
 }
 
 #topBtn {
-  position: absolute;
+  position: fixed;
   bottom: 5rem;
   right: .5rem;
-  z-index: 99;
 }
 
 @media (min-width: 768px) {
   #topBtn {
-    position: fixed !important;
-    bottom: 5rem !important;
+    position: fixed;
+    bottom: 5rem;
     right: 5rem;
   }
 }
