@@ -10,7 +10,25 @@ $('#modalDonation')
   });
 
 /************************************************************
- ENABLE TARTEAUCITRON
+ TOP BUTTON
+************************************************************/
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 150 || document.documentElement.scrollTop > 150) {
+    document.getElementById("topBtn").style.display = "block";
+  } else {
+    document.getElementById("topBtn").style.display = "none";
+  }
+}
+
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
+/************************************************************
+ TARTEAUCITRON
 ************************************************************/
 tarteaucitron.user.gtagUa = 'UA-114704921-1';
 (tarteaucitron.job = tarteaucitron.job || []).push('gtag');

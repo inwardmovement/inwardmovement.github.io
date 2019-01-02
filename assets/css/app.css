@@ -84,6 +84,7 @@ dd {
 }
 
 #topBtn {
+  display: none;
   position: fixed;
   bottom: 4.1rem;
   right: .5rem;
@@ -91,6 +92,7 @@ dd {
 
 @media (min-width: 768px) {
   #topBtn {
+    display: none;
     position: fixed;
     bottom: 5rem;
     right: 5rem;
