@@ -15,7 +15,7 @@ $('#modalDonation')
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  if (document.body.scrollTop > 150 || document.documentElement.scrollTop > 150) {
+  if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
     document.getElementById("topBtn").style.display = "block";
   } else {
     document.getElementById("topBtn").style.display = "none";
