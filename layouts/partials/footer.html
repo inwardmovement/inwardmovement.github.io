@@ -2,9 +2,7 @@
   <div class="container">
     <div class="collapse navbar-collapse">
       <div class="navbar-nav mx-auto">
-        <a class="nav-item nav-link" href="#" onclick="tarteaucitron.userInterface.openPanel();">Cookies</a>
-        <p class="d-none d-md-inline">•</p>
-        <a class="nav-item nav-link d-none d-md-inline" href="https://github.com/inwardmovement/inwardmovement.github.io" target="_blank">GitHub <i class="material-icons">launch</i></a>
+        <a class="nav-item nav-link" href="https://github.com/inwardmovement/inwardmovement.github.io" target="_blank">GitHub <i class="material-icons">launch</i></a>
       </div>
     </div>
   </div>
@@ -12,8 +10,8 @@
 
 {{ $jquery := resources.Get "js/jquery.js" }}
 {{ $bootstrap := resources.Get "js/bootstrap.js" }}
-{{ $main := slice $jquery $bootstrap | resources.Concat "main.js" | minify | fingerprint }}
-<script src="{{ $main.Permalink }}" integrity="{{ $main.Data.Integrity }}"></script>
-<!-- tarteaucitron is not optimizable for now -->
-<script src="{{ "js/tarteaucitron/tarteaucitron.js" | relURL }}"></script>
-<script src="{{ "js/app.js" | relURL }}"></script>
+{{ $app := resources.Get "js/app.js" }}
+
+<script src="{{ $jquery.Permalink }}"></script>
+<script src="{{ $bootstrap.Permalink }}"></script>
+<script src="{{ $app.Permalink }}"></script>
