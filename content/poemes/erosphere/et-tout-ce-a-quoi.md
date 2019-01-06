@@ -4,8 +4,6 @@ date: 2015-01-16
 recueil: erosphere
 ---
 
-et tout ce à quoi
-
 et tout ce à quoi tu te soustrayais
 par peur ou aversion camouflées
 
