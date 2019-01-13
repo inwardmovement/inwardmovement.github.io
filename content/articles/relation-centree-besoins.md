@@ -8,7 +8,7 @@ date: 2017-11-08
 # Introduction
 J'ai longtemps été travaillé par l'idée qu'il devait bien exister un moyen systématique de prioriser les besoins en cas d'opposition dans une relation : que faire quand une personne a le besoin A et la personne partenaire le besoin contraire "non A" ?
 
-Au fil de mes expériences et analyses j'ai mis au point une méthode pour déterminer **systématiquement** quel besoin est *comparément plus légitime* que l'autre et devrait donc être priorisé.
+Au fil de mes recherches et expériences j'ai mis au point une méthode pour déterminer **systématiquement** quel besoin est *comparément plus légitime* que l'autre et devrait donc être priorisé.
 
 La méthode est décrite dans cet article, et je peux vous accompagner dans sa mise en place au sein de vos relations. Ses avantages sont :
 - de ne pas laisser les conflits de besoins gangréner la relation dans un statu quo désarçonnant ;
@@ -32,25 +32,18 @@ C'est pourquoi il est nécessaire d'apporter un soin particulier aux modalités 
 Pour cela on propose une méthode simple : la relation centrée sur les besoins.
 
 # Méthode
-La méthode consiste à cultiver un état d'esprit particulier,
+La méthode consiste à cultiver une vigilance sur deux points spécifiques, et à adopter la priorisation des besoins en trois règles.
 
-## A) envers nous-même
+## A) Points de vigilance
 - Suivre nos besoins :
-Il est essentiel de sentir de quoi l'on a besoin dans une relation avec une personne, et d'essayer de satisfaire ces besoins. Un besoin non satisfait compromet notre bien-être, et par voie de conséquence celui de notre partenaire.
+Il est essentiel de sentir de quoi l'on a besoin dans une relation, et d'essayer de satisfaire ces besoins. Un besoin contrarié compromet notre bien-être, et par voie de conséquence celui de notre partenaire.
 Il va de soi qu'un besoin peut évoluer.
 
 - Communiquer :
 Pour optimiser la satisfaction des besoins et l'entente entre les partenaires, il est nécessaire que ces derniers communiquent à l'autre leurs besoins afin qu'ils adaptent leur attitude dans et envers la relation.
 Cela peut se faire tacitement, mais en s'assurant qu'il n'y a pas de malentendu.
 
-## B) envers la personne partenaire
-- Essayer de satisfaire au moins ses besoins qui nous impliquent ;
-
-- Attendre d'elle qu'elle essaye de satisfaire au moins nos besoins qui l'impliquent.
-
-## C) envers la relation
-- Adopter la priorisation des besoins en trois règles :
-
+## B) La priorisation des besoins en trois règles
 Définitions préalables :
 
 Souplesse
@@ -86,4 +79,4 @@ En cas de conflit dur, on considère :
 Ainsi le besoin passif est prioritaire sauf s'il est exclusif, auquel cas le besoin actif est prioritaire.
 
 # Tableau récapitulatif
-Voir le [tableau récapitulatif](https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA)
+Voir le <a href="https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA" target="_blank">tableau récapitulatif <i class="material-icons">launch</i></a>
