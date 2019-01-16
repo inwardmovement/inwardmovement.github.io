@@ -1,6 +1,7 @@
 ---
 title: Sentiment amoureux et modalité relationnelle
 date: 2019-01-16
+aliases: /articles/sentiment-amoureux-modalité-relationnelle
 ---
 
 J'ai remarqué que, quand je suis amoureux, je n'ai besoin d'aimer qu'une personne. J'attribue cela non pas au conformisme de l'exclusivité conjugale, mais à l'intensité et à la portée du désir que j'éprouve pour la personne aimée : celui-ci est tel qu'il colonise toutes les zones de mon cerveaux (c'est une image, quoique) résultant en une tendance générale de tous mes processus mentaux à être dirigés vers la personne aimée.
