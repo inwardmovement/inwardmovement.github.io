@@ -1,0 +1,10 @@
+---
+title: Sentiment amoureux et modalité relationnelle
+date: 2019-01-16
+---
+
+J'ai remarqué que, quand je suis amoureux, je n'ai besoin d'aimer qu'une personne. J'attribue cela non pas au conformisme de l'exclusivité conjugale, mais à l'intensité et à la portée du désir que j'éprouve pour la personne aimée : celui-ci est tel qu'il colonise toutes les zones de mon cerveaux (c'est une image, quoique) résultant en une tendance générale de tous mes processus mentaux à être dirigés vers la personne aimée.
+
+S'il s'agit en apparence d'un fondement de l'exclusivité au sens courant, ce n'est pas le cas. Ce qui a lieu ici est plus une mono-affectivité, une pleine satisfaction de mes besoins amoureux par une personne. Si de cette plénitude peut émerger une pulsion d'engagement amoureux exclusif de ma part, formalisée ou non par une promesse explicite, cela n'est absolument pas subordonné à une exigence symétrique envers la personne que j'aime. C'est unilatéral : si je suis comblé par la relation et souhaite forger un fétiche, un catalyseur de cette plénitude en un engagement implicite exclusif ou une promesse explicite d'exclusivité, cela n'engage et ne concerne que moi, et ne fonde en rien une légitimité d'attendre la même attitude de la personne aimée.
+
+Ce point est pour ma part cultivé avec rigueur, tant je considère malsain par ses fondations (en général) et ses résultats (souvent) le "besoin" que la personne aimée soit exclusive dans son amour pour nous. Possessivité, jalousie, insécurité affective basique, fantasme de fusion imposé à l'être aimé, etc. les implications non saines d'un tel besoin sont nombreuses, et les résultats, même en l'absence de ces fondations malsaines au début, sont les mêmes. Je cultive cette unilatéralité affective avec rigueur tant je sais que plus la personne aimée aime, mieux elle se porte. Je cultive cette unilatéralité avec passion tant je respecte et aime la liberté de la personne que j'aime. En fait, je considère même cela comme un non-évènement. L'évènement non anodin est plutôt quand on veut restreindre la personne aimée, là est la particularité. Limiter un mouvement naturel, là est l'acte.
