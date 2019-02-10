@@ -1,6 +1,6 @@
 baseURL: "https://inwardmovement.github.io/"
-defaultContentLanguage: "fr"
 languageCode: "fr"
+defaultContentLanguage: "fr"
 title: "Inward Movement"
 canonifyURLs: true
 disableLiveReload: true
