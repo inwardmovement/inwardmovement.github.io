@@ -1,7 +1,7 @@
 {
   "name": "inwardmovement.github.io",
   "version": "1.0.0",
-  "description": "My personal website",
+  "description": "Personal website",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,9 @@
     "gulp-html-prettify": "0.0.1",
     "gulp-remove-empty-lines": "^0.1.0",
     "gulp-replace": "^0.6.1"
-    }
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1"
+  }
 }
