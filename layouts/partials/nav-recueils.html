@@ -1,9 +1,13 @@
 <nav class="nav-recueils" aria-label="Collections navigation">
   <ul class="breadcrumb">
-    {{- $currentPage := . }}
-    {{- range .Site.Menus.recueils -}}
-      {{ $isCurrent := or (eq .URL $currentPage.URL) (eq .Identifier $currentPage.Params.recueil) }}
-      <li class="breadcrumb-item{{ if $isCurrent }} active{{ end }}"><a href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a></li>
-    {{- end }}
+    <button type="button" class="btn btn-secondary d-md-none" data-toggle="collapse" data-target="#recueils-collapse" aria-controls="recueils-collapse" aria-expanded="false" aria-label="Ouvre navigation recueils">Recueils &#8595;</button>
+
+    <div id="recueils-collapse" class="collapse">
+      {{- $currentPage := . }}
+      {{- range .Site.Menus.recueils -}}
+        {{ $isCurrent := or (eq .URL $currentPage.URL) (eq .Identifier $currentPage.Params.recueil) }}
+        <li class="breadcrumb-item{{ if $isCurrent }} active{{ end }}"><a href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a></li>
+      {{- end }}
+    </div>
   </ul>
 </nav>

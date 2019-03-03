@@ -286,6 +286,18 @@ main.container.article {
    margin-bottom: 0px;
 }
 
+@media (max-width: 767.98px) {
+  .nav-recueils .breadcrumb .breadcrumb-item + .breadcrumb-item::before {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .nav-recueils #recueils-collapse {
+    display: contents !important;
+  }
+}
+
 .nav-recueils ul {
    margin-top: -56px;
    justify-content: center;
@@ -293,6 +305,27 @@ main.container.article {
 
 .nav-recueils ul li.active a {
   color: #6c757d;
+}
+
+@media (max-width: 767.98px) {
+  .nav-recueils ul li {
+    width: 100%;
+    padding-left: 0rem;
+    line-height: 1.5;
+  }
+
+  .nav-recueils ul li:first-of-type {
+    margin-top: 8px;
+  }
+
+  .nav-recueils ul li a {
+    display: block;
+    line-height: 2.5;
+  }
+
+  .nav-recueils .breadcrumb-item + .breadcrumb-item {
+      padding-left: 0;
+  }
 }
 
 .recueils-subtext {
