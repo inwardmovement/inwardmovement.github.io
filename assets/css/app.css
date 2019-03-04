@@ -389,8 +389,20 @@ nav.card .card-header ul {
 /************************************************************
   HEADINGS
 ************************************************************/
-p ~ h1, p ~ h2, p ~ h3, p ~ h4, p ~ h5, p ~ h6 {
+p + h1, p + h2, p + h3, p + h4, p + h5, p + h6 {
   margin-top: 2.5rem;
+}
+
+ul + h1, ul + h2, ul + h3, ul + h4, ul + h5, ul + h6 {
+  margin-top: 2.5rem;
+}
+
+dl + h1, dl + h2, dl + h3, dl + h4, dl + h5, dl + h6 {
+  margin-top: 2.5rem;
+}
+
+h1 + h2, h2 + h3, h3 + h4, h4 + h5, h5 + h6 {
+  margin-top: 1.25rem;
 }
 
 article h1 {
