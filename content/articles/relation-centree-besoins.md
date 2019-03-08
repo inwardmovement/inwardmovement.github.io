@@ -32,7 +32,7 @@ C'est pourquoi il est nécessaire d'apporter un soin particulier aux modalités 
 Pour cela on propose une méthode simple : la relation centrée sur les besoins.
 
 # Méthode
-La méthode consiste à cultiver une vigilance sur deux points spécifiques, et à adopter la priorisation des besoins en trois règles.
+La méthode consiste à cultiver une vigilance sur deux points spécifiques, et à adopter la priorisation des besoins en trois règles selon une typologie précise.
 
 ## A) Points de vigilance
 - Suivre nos besoins :
@@ -44,7 +44,7 @@ Pour optimiser la satisfaction des besoins et l'entente entre les partenaires, i
 Cela peut se faire tacitement, mais en s'assurant qu'il n'y a pas de malentendu.
 
 ## B) Typologie des besoins
-On propose la typologie des besoins suivante :
+On propose la typologie suivante :
 
 Souplesse
 : À certains besoins nous pouvons accorder une certaine souplesse (besoins "souples"), mais avec d'autres il n'est pas envisageable de négocier (besoins "non négociables") : cela se détermine au ressenti.
@@ -58,8 +58,9 @@ Contrariété et conflit
 Dureté du conflit
 : Un conflit est dit "doux" s'il concerne un besoin qui n'a pas la même souplesse pour chacun des partenaires (souple pour nous et non négociable pour notre partenaire, ou inversement) ou s'il est souple pour chacun. Le conflit est dit "dur" si le besoin est non négociable pour les deux partenaires.
 
-Exclusivité
-: Un besoin est dit "exclusif" si l'action ou la non action qu'il requiert pour être satisfait n'implique pas la participation ni la nuisance (pour raison autre qu'une divergence de valeurs morales ou éthiques) de la personne qui l'éprouve.
+Exclusivité / Inclusivité
+: Un besoin est dit "exclusif" si l'action ou la non action qu'il requiert pour être satisfait n'implique pas la participation ni la nuisance (pour raison autre qu'une divergence de valeurs morales ou éthiques\*) de la personne qui l'éprouve. Dans le cas contraire il est dit "inclusif".
+\*On considère ici qu'une nuisance résultant d'une divergence de valeurs morales ou éthiques n'est pas imputable à la satisfaction du besoin contraire à la suite de laquelle elle apparait.
 
 Priorité
 : Un besoin est dit "prioritaire" quand sa satisfaction devrait être privilégiée à celle du besoin contraire.
@@ -77,7 +78,12 @@ En cas de conflit dur, on propose d'une part de considérer les légitimités su
 
 - un besoin actif est plus légitime comparément à un besoin passif exclusif, car ce dernier n'implique pas la participation ni la nuisance (pour raison autre qu'une divergence de valeurs morales ou éthiques) de la personne qui l'éprouve.
 
-Et d'autre part, vues les considérations précédentes, d'accorder la priorité au besoin passif ; sauf s'il est exclusif, auquel cas on accordera la priorité au besoin actif.
+Et d'autre part, vues ces considérations, d'accorder la priorité au besoin passif ; sauf s'il est exclusif, auquel cas on accordera la priorité au besoin actif.
 
 # Tableau récapitulatif
 Voir le <a href="https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA/embed" target="_blank">tableau récapitulatif <i class="material-icons">launch</i></a>
+
+# Exemples
+*(à venir)*
+
+<!-- Voir les <a href="https://docs.google.com/presentation/d/1kVT9dkr1uUP9pwO508hvai3MNOrQ35CwuliU3J32CTc/embed" target="_blank">exemples de priorisations des besoins selon la méthode <i class="material-icons">launch</i></a> -->
