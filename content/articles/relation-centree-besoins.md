@@ -58,9 +58,11 @@ Contrariété et conflit
 Dureté du conflit
 : Un conflit est dit "doux" s'il concerne un besoin qui n'a pas la même souplesse pour chacun des partenaires (souple pour nous et non négociable pour notre partenaire, ou inversement) ou s'il est souple pour chacun. Le conflit est dit "dur" si le besoin est non négociable pour les deux partenaires.
 
-Exclusivité / Inclusivité
-: Un besoin est dit "exclusif" si l'action ou la non action qu'il requiert pour être satisfait n'implique pas la participation ni la nuisance (pour raison autre qu'une divergence de valeurs morales ou éthiques\*) de la personne qui l'éprouve. Dans le cas contraire il est dit "inclusif".
-\*On considère ici qu'une nuisance résultant d'une divergence de valeurs morales ou éthiques n'est pas imputable à la satisfaction du besoin contraire à la suite de laquelle elle apparait.
+Exclusivité / inclusivité
+: Un besoin est dit "exclusif" si l'action ou la non action qu'il requiert pour être satisfait n'implique pas la participation ni la nuisance objective de la personne qui l'éprouve. Dans le cas contraire il est dit "inclusif".
+
+Nuisance objective / subjective
+: Une nuisance est dite "objective" quand elle ne résulte pas uniquement d'une divergence idéologique ou d'une réaction émotionnelle. Dans le cas contraire elle est dite "subjective".
 
 Priorité
 : Un besoin est dit "prioritaire" quand sa satisfaction devrait être privilégiée à celle du besoin contraire.
@@ -73,12 +75,14 @@ En cas de conflit doux en souplesse égale, l'enjeu est tout au plus une petite 
 En cas de conflit en souplesse inégale, le besoin non négociable est prioritaire car il génèrera vraisemblablement plus de souffrance s'il n'est pas satisfait que le besoin souple.
 
 ### c) Priorisation passive
-En cas de conflit dur, on propose d'une part de considérer les légitimités suivantes :
+En cas de conflit dur, on propose les considérations suivantes :
 - un besoin passif est généralement plus légitime car il n'implique pas d'agir en contrariété avec ses besoins ;
 
-- un besoin actif est plus légitime comparément à un besoin passif exclusif, car ce dernier n'implique pas la participation ni la nuisance (pour raison autre qu'une divergence de valeurs morales ou éthiques) de la personne qui l'éprouve.
+- un besoin actif est plus légitime comparément à un besoin passif exclusif, car ce dernier n'implique pas la participation ni la nuisance objective de la personne qui l'éprouve ;
 
-Et d'autre part, vues ces considérations, d'accorder la priorité au besoin passif ; sauf s'il est exclusif, auquel cas on accordera la priorité au besoin actif.
+- la nuisance subjective (résultant uniquement d'une divergence idéologique ou d'une réaction émotionnelle) n'est pas imputable à la satisfaction du besoin contraire à la suite de laquelle elle apparait, mais à l'état subjectif/cognitif préalable de la personne qui la subit ; elle doit être ignorée des facteurs d'inclusivité d'un besoin.
+
+Vues ces considérations, on accordera la priorité au besoin passif ; sauf s'il est exclusif, auquel cas on l'accordera au besoin actif.
 
 # Tableau récapitulatif
 Voir le <a href="https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur4YFYf9bmMFQEFij1oKPA/embed" target="_blank">tableau récapitulatif <i class="material-icons">launch</i></a>
@@ -86,4 +90,8 @@ Voir le <a href="https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur
 # Exemples
 *(à venir)*
 
-<!-- Voir les <a href="https://docs.google.com/presentation/d/1kVT9dkr1uUP9pwO508hvai3MNOrQ35CwuliU3J32CTc/embed" target="_blank">exemples de priorisations des besoins selon la méthode <i class="material-icons">launch</i></a> -->
+<!-- Il est temps d'observer l'application de la méthode à des exemples concrets.
+
+Voir les <a href="https://docs.google.com/presentation/d/1kVT9dkr1uUP9pwO508hvai3MNOrQ35CwuliU3J32CTc/embed" target="_blank">exemples de priorisations des besoins <i class="material-icons">launch</i></a>
+
+Le lecteur est invité à proposer d'autres exemples à ajouter à la présentation ; ils seront l'occasion de vérifier la méthode ou de l'améliorer en en montrant les faiblesses et angles morts. -->
