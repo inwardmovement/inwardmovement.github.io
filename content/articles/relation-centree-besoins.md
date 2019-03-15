@@ -5,7 +5,7 @@ date: 2017-11-08
 
 {{< toc >}}
 
-# Introduction
+# Préambule
 J'ai longtemps été travaillé par l'idée qu'il devait bien exister un moyen systématique de prioriser les besoins en cas d'opposition dans une relation : que faire quand une personne a le besoin A et la personne partenaire le besoin contraire "non A" ?
 
 Au fil de mes recherches et expériences j'ai mis au point une méthode pour déterminer **systématiquement** quel besoin est *comparément plus légitime* que l'autre et devrait donc être priorisé.
@@ -19,6 +19,9 @@ La méthode est décrite dans cet article, et je peux vous accompagner dans sa m
 
 - de pouvoir se mettre d'accord *en amont* sur son utilisation pour adoucir et neutraliser les conflits de besoins *futurs*.
 
+La méthode opère désolidairement de la phase argumentative des besoins : elle propose une priorisation algorithmique *a priori* des besoins en conflit, mais n'interfère pas dans l'argumentation qui ferait plus valoir tel ou tel besoin. La légitimité comparée des besoins n'est pas conditionnée par leur argumentation interne ("*il est mieux de faire cela pour telle raison*") mais par leurs caractéristiques selon la typologie proposée.
+
+# Introduction
 Dans une relation interpersonnelle, l'interdépendance peut faire émerger des conflits de besoins : une des personnes a un besoin et l'autre a le besoin contraire.
 
 Dans la relation amoureuse particulièrement, le conditionnement culturel peut compromettre l'épanouissement :
@@ -90,7 +93,7 @@ Voir le <a href="https://docs.google.com/presentation/d/1rVhpqJTSbZijbc96qBvOMur
 # Exemples
 *(à venir)*
 
-<!-- Il est temps d'observer l'application de la méthode à des exemples concrets.
+<!-- Il est temps d'appliquer de la méthode à des exemples concrets.
 
 Voir les <a href="https://docs.google.com/presentation/d/1kVT9dkr1uUP9pwO508hvai3MNOrQ35CwuliU3J32CTc/embed" target="_blank">exemples de priorisations des besoins <i class="material-icons">launch</i></a>
 
