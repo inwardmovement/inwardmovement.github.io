@@ -19,7 +19,7 @@ La méthode est décrite dans cet article, et je peux vous accompagner dans sa m
 
 - de pouvoir se mettre d'accord *en amont* sur son utilisation pour adoucir et neutraliser les conflits de besoins *futurs*.
 
-La méthode opère désolidairement de la phase argumentative des besoins : elle propose une priorisation algorithmique *a priori* des besoins en conflit, mais n'interfère pas dans l'argumentation qui ferait plus valoir tel ou tel besoin. La légitimité comparée des besoins n'est pas conditionnée par leur argumentation interne ("*il est mieux de faire cela pour telle raison*") mais par leurs caractéristiques selon la typologie proposée.
+La méthode opère désolidairement de la phase argumentative des besoins : elle propose une priorisation algorithmique *a priori* des besoins en conflit, mais n'interfère pas dans l'argumentation qui ferait plus valoir tel ou tel besoin. La légitimité comparée des besoins n'est pas conditionnée par leur argumentation interne ("il est mieux de faire cela pour telle raison") mais par leurs caractéristiques selon la typologie proposée.
 
 # Introduction
 Dans une relation interpersonnelle, l'interdépendance peut faire émerger des conflits de besoins : une des personnes a un besoin et l'autre a le besoin contraire.
