@@ -11,3 +11,7 @@ GitHub, Inc.
 San Francisco, CA 94107  
 United States  
 +1 (877) 448-4820
+
+### Droits d'auteur :
+Les textes sont mis à disposition selon les termes de la licence [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.fr).  
+Les textes étant enregistrés à l'[INPI](https://www.inpi.fr), l'auteur peut en prouver l'antériorité, l'intégrité et la paternité.

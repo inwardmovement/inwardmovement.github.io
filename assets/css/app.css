@@ -173,23 +173,12 @@ main.container.article {
       "content"
       "sidebar";
   }
-
-  .grid-apps {
-    display: grid;
-    grid-gap: 3rem;
-    grid-template-rows: repeat(auto-fill, auto);
-  }
 }
 
 @media (min-width: 768px) {
   @supports (display: grid) {
     .grid-poems {
       grid-template: "sidebar content" / 300px 1fr;
-    }
-
-    .grid-apps {
-      grid-template-columns: repeat(auto-fill, 300px);
-      max-width: 1140px;
     }
   }
 }
