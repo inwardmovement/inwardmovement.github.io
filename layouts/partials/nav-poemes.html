@@ -9,6 +9,10 @@
         {{- $currentPage := . -}}
         {{- range where .Site.Pages.ByDate "Params.recueil" .Params.recueil -}}
           {{- if eq .RelPermalink $currentPage.RelPermalink -}}
+
+          {{if .PrevInSection}}full in v54{{ end }}
+          {{if not .PrevInSection}}empty in v55{{ end }}
+
             <li class="page-item{{if not .PrevInSection}} disabled noselect{{ end }}"><a class="page-link" href="{{if .PrevInSection}}{{.PrevInSection.RelPermalink}}{{end}}">précédent</a></li>
             <li class="page-item{{if not .NextInSection}} disabled noselect{{ end }}"><a class="page-link" href="{{if .NextInSection}}{{.NextInSection.RelPermalink}}{{end}}">suivant</a></li>
           {{- end -}}
