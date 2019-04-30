@@ -10,7 +10,7 @@
         {{- range where .Site.Pages.ByDate "Params.recueil" .Params.recueil -}}
           {{- if eq .RelPermalink $currentPage.RelPermalink -}}
 
-          {{- if ne (getenv "CI") 1 }}
+          {{- if ne hugo.Version "0.54.0" }}
             {{if .PrevInSection}}full in v54{{ end }}
             {{if not .PrevInSection}}empty in v55{{ end }}
           {{ end }}
