@@ -5,7 +5,7 @@ layout: recueil
 
 Écrits entre 2013 et 2014.
 
-{{% quote "Charles Juliet" %}}
+{{< quote "Charles Juliet" >}}
   Un jour
   mon esquif s'est disloqué
   et force m'a été
@@ -20,4 +20,4 @@ layout: recueil
   inondait l'oasis
   où j'allais maintenant
   vivre
-{{% /quote %}}
+{{< /quote >}}
