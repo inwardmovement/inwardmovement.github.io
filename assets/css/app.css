@@ -578,6 +578,16 @@ blockquote p:last-of-type {
 /************************************************************
   FOOTER
 ************************************************************/
+footer {
+  margin-top: 208px;
+}
+
+@media (min-width: 768px) {
+  footer {
+    margin-top: 168px;
+  }
+}
+
 .nav-footer {
   position: absolute;
   bottom: 0;
@@ -589,4 +599,16 @@ blockquote p:last-of-type {
   padding: 8px;
   margin: 0;
   color: rgba(0,0,0,.5);
+}
+
+.nav-footer .navbar-nav {
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+@media (min-width: 768px) {
+  .nav-footer .navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
 }
