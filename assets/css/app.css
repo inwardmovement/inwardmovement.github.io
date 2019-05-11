@@ -612,3 +612,7 @@ footer {
     flex-direction: row;
   }
 }
+
+.nav-footer .dot:last-of-type {
+  display: none !important;
+}

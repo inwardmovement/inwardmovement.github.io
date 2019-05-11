@@ -29,6 +29,11 @@ menu:
       URL: "/articles/"
       Identifier: "articles"
       weight: 2
+  footer:
+    - Name: "GitHub"
+      URL: "https://github.com/inwardmovement/inwardmovement.github.io/"
+      Identifier: "github"
+      weight: 1
   recueils:
     - Name: "Fleurs persistantes"
       URL: "/poemes/fleurspersistantes/"
