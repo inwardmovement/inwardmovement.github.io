@@ -4,7 +4,8 @@
       <div class="navbar-nav mx-auto">
         {{ $currentPage := . -}}
         {{ range .Site.Menus.footer }}
-            <a class="nav-item nav-link" href="{{ .URL }}" {{ if eq .Identifier "github" }}target="_blank"{{ end }}>{{ .Name }}{{ if eq .Identifier "github" }} <i class="material-icons">launch</i>{{ end }}</a>
+        {{ $ext := or (eq .Identifier "github") (eq .Identifier "mettaconseil") }}
+            <a class="nav-item nav-link" href="{{ .URL }}" {{ if $ext }}target="_blank"{{ end }}>{{ .Name }}{{ if $ext }} <i class="material-icons">launch</i>{{ end }}</a>
             <p class="dot d-none d-md-block">•</p>
         {{ end -}}
       </div>

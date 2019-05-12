@@ -382,16 +382,12 @@ p + h1, p + h2, p + h3, p + h4, p + h5, p + h6 {
   margin-top: 2.5rem;
 }
 
-ul + h1, ul + h2, ul + h3, ul + h4, ul + h5, ul + h6 {
-  margin-top: 2.5rem;
-}
-
 dl + h1, dl + h2, dl + h3, dl + h4, dl + h5, dl + h6 {
   margin-top: 2.5rem;
 }
 
-h1 + h2, h2 + h3, h3 + h4, h4 + h5, h5 + h6 {
-  margin-top: 1.25rem;
+ul + h1, ul + h2, ul + h3, ul + h4, ul + h5, ul + h6 {
+  margin-top: 2.5rem;
 }
 
 article h1 {
@@ -442,18 +438,17 @@ article h5 {
   font-style: italic;
 }
 
-/*:target {
-  animation: highlight 2s ease;
+.mentions-legales h1 {
+  font-weight: 300;
 }
 
-@keyframes highlight {
-  0% { background-color: #fcf8e3; }
-  100% { background-color: inherit; }
+.mentions-legales h1:first-of-type {
+  font-weight: initial;
 }
 
-.footnote-ref {
-  background-color: inherit !important;
-}*/
+.mentions-legales h2 {
+  font-size: 1.25rem;
+}
 
 /************************************************************
   TOC

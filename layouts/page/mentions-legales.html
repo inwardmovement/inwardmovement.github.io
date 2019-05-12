@@ -1,7 +1,9 @@
 {{ define "main" }}
-  <main class="container article">
+  <main class="container mentions-legales">
     <article>
       <h1>{{ .Title }}</h1><br>
+      {{ .Page.TableOfContents }}
+      <br><br>
         {{ .Content -}}
     </article>
   </main>
