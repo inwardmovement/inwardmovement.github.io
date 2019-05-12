@@ -3,9 +3,11 @@ title: Mentions légales
 layout: mentions-legales
 ---
 
-# Mentions générales
-## Hébergeur
-GitHub, Inc.
+# Propriété intellectuelle
+Les textes de l'auteur, enregistrés à l'<a href="https://www.inpi.fr" target="_blank">INPI <i class="material-icons">launch</i></a>, sont mis à disposition selon les termes de la licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target="_blank">Creative Commons Attribution 4.0 International <i class="material-icons">launch</i></a>.
+
+# Hébergeur
+**GitHub, Inc.**
 88 Colin P Kelly Jr St
 San Francisco, CA 94107
 United States
