@@ -4,7 +4,7 @@ layout: mentions-legales
 ---
 
 # Propriété intellectuelle
-Les textes de l'auteur, enregistrés à l'<a href="https://www.inpi.fr" target="_blank">INPI <i class="material-icons">launch</i></a>, sont mis à disposition selon les termes de la licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target="_blank">Creative Commons Attribution 4.0 International <i class="material-icons">launch</i></a>.
+Les textes de l'auteur, enregistrés à l'[INPI](https://www.inpi.fr), sont mis à disposition selon les termes de la licence [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.fr).
 
 # Hébergeur
 **GitHub, Inc.**
@@ -24,10 +24,10 @@ Cette récolte est obligatoire, elle constitue le minimum de données permettant
 
 Les données sont supprimées 30 jours après la fin de la communication.
 
-Seuls l'éditeur du site et les services de <a href="https://about.google/" target="_blank">Google <i class="material-icons">launch</i></a> ont accès aux données.
+Seuls l'éditeur du site et les services de [Google](https://about.google/) ont accès aux données.
 
-Les fondements juridiques de cette récolte sont l'intérêt légitime de l'éditeur du site dans le cadre de sa communication avec les visiteurs, et <a href="https://policies.google.com/privacy" target="_blank">ceux propres à l'utilisation des services de Google <i class="material-icons">launch</i></a>.
+Les fondements juridiques de cette récolte sont l'intérêt légitime de l'éditeur du site dans le cadre de sa communication avec les visiteurs, et [ceux propres à l'utilisation des services de Google](https://policies.google.com/privacy).
 
-Les données sont transmises hors de l'UE par les services de Google selon les <a href="https://policies.google.com/privacy/frameworks" target="_blank">modalités suivantes <i class="material-icons">launch</i></a>.
+Les données sont transmises hors de l'UE par les services de Google selon les [modalités suivantes](https://policies.google.com/privacy/frameworks).
 
 Le visiteur dispose sur les données récoltées le concernant d'un droit d'accès, de rectification, d'interrogation et d'opposition qu'il peut faire valoir en contactant l'éditeur du site avec le bouton de contact. Le visiteur dispose aussi d'un droit d'introduire une réclamation (plainte) auprès de la CNIL.
