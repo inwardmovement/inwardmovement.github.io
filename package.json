@@ -18,13 +18,9 @@
   "homepage": "https://github.com/inwardmovement/inwardmovement.github.io",
   "devDependencies": {
     "del": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-html-prettify": "0.0.1",
     "gulp-remove-empty-lines": "^0.1.0",
     "gulp-replace": "^0.6.1"
-  },
-  "dependencies": {
-    "bootstrap": "^4.3.1",
-    "jquery": "^3.3.1"
   }
 }

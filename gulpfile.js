@@ -1,29 +1,27 @@
-var gulp      = require('gulp'),
-    replace   = require('gulp-replace'),
-    beautify  = require('gulp-html-prettify'),
-    trim      = require('gulp-remove-empty-lines'),
-    exec      = require('child_process').exec,
-    del       = require('del');
+const {src, dest, series} = require('gulp'),
+                replace   = require('gulp-replace'),
+                beautify  = require('gulp-html-prettify'),
+                trim      = require('gulp-remove-empty-lines'),
+                exec      = require('child_process').exec,
+                del       = require('del');
 
-gulp.task('default', ['reset', 'hugo', 'html']);
+function reset() {
+  return del('public/**/*');
+}
 
-gulp.task('reset', function(){
-    return del('public/**/*');
-});
-
-gulp.task('hugo', ['reset'], function (fetch) {
+function hugo(fetch) {
   return exec('hugo', function (err, stdout, stderr) {
     console.log(stdout);
     console.log(stderr);
     fetch(err);
   });
-});
+};
 
-gulp.task('html', ['hugo'], function() {
-  return gulp.src('public/**/*.html')
+function html() {
+  return src('public/**/*.html')
     .pipe(beautify({indent_char: ' ', indent_size: 2}))
     .pipe(trim())
-// typography
+    // typography
     .pipe(replace('&laquo;', '&laquo;&#160;'))
     .pipe(replace('&raquo;', '&#160;&raquo;'))
     .pipe(replace(' :', '&#160;:'))
@@ -32,7 +30,11 @@ gulp.task('html', ['hugo'], function() {
     .pipe(replace(' ?', '&#160;?'))
     .pipe(replace(' %', '&#160;%'))
     .pipe(replace(' €', '&#160;€'))
-    .pipe(replace(' <i', '&#160;<i'))
+    .pipe(replace(' <i ', '&#160;<i '))
     .pipe(replace('</i> ', '</i>&#160;'))
-    .pipe(gulp.dest('public'))
-});
+    .pipe(dest('public'))
+};
+
+module.exports = {
+  default: series(reset, hugo, html)
+}
