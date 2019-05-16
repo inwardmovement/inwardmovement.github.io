@@ -79,6 +79,10 @@ p ~ dl {
   margin-top: -1.25rem;
 }
 
+p + ul {
+  margin-top: -0.75rem;
+}
+
 dl {
   padding-left: 2rem;
 }
