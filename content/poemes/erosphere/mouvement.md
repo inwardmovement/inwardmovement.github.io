@@ -1,5 +1,6 @@
 ---
-title: mouvement
+title: "mouvement"
+description: "Poème"
 date: 2018-08-21
 recueil: erosphere
 ---

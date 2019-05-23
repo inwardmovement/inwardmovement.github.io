@@ -1,5 +1,6 @@
 ---
-title: sagesse d'automne
+title: "sagesse d'automne"
+description: "Poème"
 date: 2018-10-21
 recueil: erosphere
 ---

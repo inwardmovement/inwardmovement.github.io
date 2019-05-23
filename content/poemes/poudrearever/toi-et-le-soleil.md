@@ -1,5 +1,6 @@
 ---
-title: Toi et le Soleil
+title: "Toi et le Soleil"
+description: "Poème"
 date: 2012-01-18
 recueil: poudrearever
 ---

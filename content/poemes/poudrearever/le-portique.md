@@ -1,5 +1,6 @@
 ---
-title: Le portique
+title: "Le portique"
+description: "Poème"
 date: 2012-01-18
 recueil: poudrearever
 ---

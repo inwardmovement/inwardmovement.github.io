@@ -1,5 +1,6 @@
 ---
-title: Brèche
+title: "Brèche"
+description: "Poème"
 date: 2015-01-22
 recueil: erosphere
 ---

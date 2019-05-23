@@ -1,5 +1,6 @@
 ---
-title: soirée littéraire
+title: "soirée littéraire"
+description: "Poème"
 date: 2018-10-02
 recueil: erosphere
 ---

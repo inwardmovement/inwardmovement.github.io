@@ -1,5 +1,6 @@
 ---
-title: Vers
+title: "Vers"
+description: "Poème"
 date: 2009-02-22
 recueil: fleurspersistantes
 ---

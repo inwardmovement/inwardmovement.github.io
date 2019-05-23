@@ -1,5 +1,6 @@
 ---
-title: Au parc
+title: "Au parc"
+description: "Poème"
 date: 2009-02-07
 recueil: fleurspersistantes
 ---

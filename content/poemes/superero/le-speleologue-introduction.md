@@ -1,5 +1,6 @@
 ---
-title: Le spéléologue (introduction)
+title: "Le spéléologue (introduction)"
+description: "Poème"
 date: 2011-01-29
 recueil: superero
 ---

@@ -1,5 +1,6 @@
 ---
-title: pas de fuite
+title: "pas de fuite"
+description: "Poème"
 date: 2015-01-19
 recueil: erosphere
 ---

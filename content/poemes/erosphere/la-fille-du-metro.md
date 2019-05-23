@@ -1,5 +1,6 @@
 ---
-title: la fille du métro
+title: "la fille du métro"
+description: "Poème"
 date: 2018-01-13
 recueil: erosphere
 ---

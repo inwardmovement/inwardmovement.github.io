@@ -1,5 +1,6 @@
 ---
-title: voyageur solitaire
+title: "voyageur solitaire"
+description: "Poème"
 date: 2015-02-06
 recueil: erosphere
 ---

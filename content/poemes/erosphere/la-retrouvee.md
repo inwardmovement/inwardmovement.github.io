@@ -1,5 +1,6 @@
 ---
-title: La retrouvée
+title: "La retrouvée"
+description: "Poème"
 date: 2015-09-14
 recueil: erosphere
 ---

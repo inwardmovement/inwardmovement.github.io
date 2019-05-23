@@ -1,5 +1,6 @@
 ---
-title: À Émeline
+title: "À Émeline"
+description: "Poème"
 date: 2009-01-31
 recueil: fleurspersistantes
 ---

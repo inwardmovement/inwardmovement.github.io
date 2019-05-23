@@ -1,5 +1,6 @@
 ---
-title: La romance érotique
+title: "La romance érotique"
+description: "Poème"
 date: 2009-02-16
 recueil: fleurspersistantes
 ---

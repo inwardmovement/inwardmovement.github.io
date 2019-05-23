@@ -1,5 +1,6 @@
 ---
-title: acide sonore
+title: "acide sonore"
+description: "Poème"
 date: 2015-01-24
 recueil: erosphere
 ---

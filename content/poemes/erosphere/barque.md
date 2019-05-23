@@ -1,5 +1,6 @@
 ---
-title: barque
+title: "barque"
+description: "Poème"
 date: 2018-09-14
 recueil: erosphere
 ---

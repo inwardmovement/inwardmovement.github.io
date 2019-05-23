@@ -1,5 +1,6 @@
 ---
-title: je vois ta tête dans la neige
+title: "je vois ta tête dans la neige"
+description: "Poème"
 date: 2015-01-03
 recueil: erosphere
 ---

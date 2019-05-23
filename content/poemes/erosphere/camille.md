@@ -1,5 +1,6 @@
 ---
-title: Camille
+title: "Camille"
+description: "Poème"
 date: 2018-07-26
 recueil: erosphere
 ---

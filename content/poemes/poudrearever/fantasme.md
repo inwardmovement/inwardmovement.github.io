@@ -1,5 +1,6 @@
 ---
-title: Fantasme
+title: "Fantasme"
+description: "Poème"
 date: 2012-01-25
 recueil: poudrearever
 ---

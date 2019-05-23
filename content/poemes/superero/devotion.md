@@ -1,5 +1,6 @@
 ---
-title: Dévotion
+title: "Dévotion"
+description: "Poème"
 date: 2011-01-11
 recueil: superero
 ---

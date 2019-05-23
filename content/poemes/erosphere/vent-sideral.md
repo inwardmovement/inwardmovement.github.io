@@ -1,5 +1,6 @@
 ---
-title: vent sidéral
+title: "vent sidéral"
+description: "Poème"
 date: 2017-12-09
 recueil: erosphere
 ---

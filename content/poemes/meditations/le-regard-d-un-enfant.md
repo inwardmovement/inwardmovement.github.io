@@ -1,5 +1,6 @@
 ---
-title: Le regard d'un enfant
+title: "Le regard d'un enfant"
+description: "Poème"
 date: 2013-01-26
 recueil: meditations
 ---

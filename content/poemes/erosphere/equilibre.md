@@ -1,5 +1,6 @@
 ---
-title: équilibre
+title: "équilibre"
+description: "Poème"
 date: 2018-05-08
 recueil: erosphere
 ---

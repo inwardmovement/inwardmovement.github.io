@@ -1,5 +1,6 @@
 ---
-title: L'orée
+title: "L'orée"
+description: "Poème"
 date: 2013-02-09
 recueil: meditations
 ---

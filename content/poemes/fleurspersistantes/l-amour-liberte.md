@@ -1,5 +1,6 @@
 ---
-title: L'amour liberté
+title: "L'amour liberté"
+description: "Poème"
 date: 2009-01-26
 recueil: fleurspersistantes
 ---

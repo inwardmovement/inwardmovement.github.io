@@ -1,5 +1,6 @@
 ---
-title: La brosse à picots
+title: "La brosse à picots"
+description: "Poème"
 date: 2013-01-27
 recueil: meditations
 ---

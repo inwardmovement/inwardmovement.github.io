@@ -1,5 +1,6 @@
 ---
-title: Sur la brèche
+title: "Sur la brèche"
+description: "Poème"
 date: 2011-01-26
 recueil: superero
 ---

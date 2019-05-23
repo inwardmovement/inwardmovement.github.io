@@ -1,5 +1,6 @@
 ---
-title: Arianë
+title: "Arianë"
+description: "Poème"
 date: 2015-02-09
 recueil: erosphere
 ---

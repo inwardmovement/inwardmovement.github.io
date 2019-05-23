@@ -1,5 +1,6 @@
 ---
-title: Les naïfs
+title: "Les naïfs"
+description: "Poème"
 date: 2012-02-05
 recueil: poudrearever
 ---

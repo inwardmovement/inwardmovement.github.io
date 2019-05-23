@@ -1,5 +1,6 @@
 ---
-title: tous ces regards
+title: "tous ces regards"
+description: "Poème"
 date: 2015-01-27
 recueil: erosphere
 ---

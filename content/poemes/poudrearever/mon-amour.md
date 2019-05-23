@@ -1,5 +1,6 @@
 ---
-title: Mon amour
+title: "Mon amour"
+description: "Poème"
 date: 2012-01-31
 recueil: poudrearever
 ---

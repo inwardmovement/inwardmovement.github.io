@@ -1,5 +1,6 @@
 ---
-title: je te rêve
+title: "je te rêve"
+description: "Poème"
 date: 2015-02-05
 recueil: erosphere
 ---

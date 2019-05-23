@@ -1,5 +1,6 @@
 ---
-title: La Muse et le garçon
+title: "La Muse et le garçon"
+description: "Poème"
 date: 2009-02-14
 recueil: fleurspersistantes
 ---

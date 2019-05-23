@@ -1,5 +1,6 @@
 ---
-title: maintenant c'est à toi
+title: "maintenant c'est à toi"
+description: "Poème"
 date: 2015-01-15
 recueil: erosphere
 ---

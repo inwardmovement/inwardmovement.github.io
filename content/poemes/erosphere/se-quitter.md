@@ -1,5 +1,6 @@
 ---
-title: se quitter
+title: "se quitter"
+description: "Poème"
 date: 2018-12-02
 recueil: erosphere
 ---

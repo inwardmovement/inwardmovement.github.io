@@ -1,5 +1,6 @@
 ---
-title: Emma
+title: "Emma"
+description: "Poème"
 date: 2012-02-03
 recueil: poudrearever
 ---

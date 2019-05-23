@@ -1,5 +1,6 @@
 ---
-title: rencontres
+title: "rencontres"
+description: "Poème"
 date: 2018-11-23
 recueil: erosphere
 ---

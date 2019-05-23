@@ -1,5 +1,6 @@
 ---
-title: Le semeur de cœur
+title: "Le semeur de cœur"
+description: "Poème"
 date: 2015-12-21
 recueil: erosphere
 ---

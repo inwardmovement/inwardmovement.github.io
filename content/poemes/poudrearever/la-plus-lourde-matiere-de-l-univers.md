@@ -1,5 +1,6 @@
 ---
-title: La plus lourde matière de l'univers
+title: "La plus lourde matière de l'univers"
+description: "Poème"
 date: 2012-01-04
 recueil: poudrearever
 ---

@@ -1,5 +1,6 @@
 ---
-title: érosphère
+title: "érosphère"
+description: "Poème"
 date: 2018-05-16T00:00:01
 recueil: erosphere
 ---

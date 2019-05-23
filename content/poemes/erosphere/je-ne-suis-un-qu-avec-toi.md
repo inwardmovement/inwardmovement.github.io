@@ -1,5 +1,6 @@
 ---
-title: je ne suis un qu'avec toi
+title: "je ne suis un qu'avec toi"
+description: "Poème"
 date: 2015-01-09
 recueil: erosphere
 ---

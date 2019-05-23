@@ -1,5 +1,6 @@
 ---
-title: Ouverture
+title: "Ouverture"
+description: "Poème"
 date: 2012-01-24
 recueil: poudrearever
 ---

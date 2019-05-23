@@ -1,5 +1,6 @@
 ---
-title: Soleil
+title: "Soleil"
+description: "Poème"
 date: 2013-02-08
 recueil: meditations
 ---

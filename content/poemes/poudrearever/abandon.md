@@ -1,5 +1,6 @@
 ---
-title: Abandon
+title: "Abandon"
+description: "Poème"
 date: 2012-01-08
 recueil: poudrearever
 ---

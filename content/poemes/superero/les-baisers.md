@@ -1,5 +1,6 @@
 ---
-title: Les baisers
+title: "Les baisers"
+description: "Poème"
 date: 2011-01-30
 recueil: superero
 ---

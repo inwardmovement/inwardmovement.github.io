@@ -1,5 +1,6 @@
 ---
-title: Sans fin
+title: "Sans fin"
+description: "Poème"
 date: 2012-02-06
 recueil: poudrearever
 ---

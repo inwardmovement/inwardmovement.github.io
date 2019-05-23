@@ -1,5 +1,6 @@
 ---
-title: quand t'es amoureux
+title: "quand t'es amoureux"
+description: "Poème"
 date: 2018-05-29
 recueil: erosphere
 ---

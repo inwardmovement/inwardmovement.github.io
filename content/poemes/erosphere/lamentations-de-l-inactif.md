@@ -1,5 +1,6 @@
 ---
-title: lamentations de l'inactif
+title: "lamentations de l'inactif"
+description: "Poème"
 date: 2018-10-30
 recueil: erosphere
 ---

@@ -1,5 +1,6 @@
 ---
-title: À ses côtés
+title: "À ses côtés"
+description: "Poème"
 date: 2012-02-08
 recueil: poudrearever
 ---

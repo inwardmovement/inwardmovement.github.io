@@ -1,5 +1,6 @@
 ---
-title: Soufre
+title: "Soufre"
+description: "Poème"
 date: 2013-02-05
 recueil: meditations
 ---

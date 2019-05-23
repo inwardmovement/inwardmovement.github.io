@@ -1,5 +1,6 @@
 ---
-title: Sur les collines roses
+title: "Sur les collines roses"
+description: "Poème"
 date: 2012-01-16
 recueil: poudrearever
 ---

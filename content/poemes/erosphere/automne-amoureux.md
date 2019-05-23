@@ -1,5 +1,6 @@
 ---
-title: l'automne amoureux
+title: "l'automne amoureux"
+description: "Poème"
 date: 2018-10-07
 recueil: erosphere
 ---

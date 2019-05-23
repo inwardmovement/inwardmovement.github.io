@@ -1,5 +1,6 @@
 ---
-title: Repos
+title: "Repos"
+description: "Poème"
 date: 2012-01-22
 recueil: poudrearever
 ---

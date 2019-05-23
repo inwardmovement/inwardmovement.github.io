@@ -1,5 +1,6 @@
 ---
-title: SuperEro
+title: "SuperEro"
+description: "Recueil : SuperEro"
 layout: recueil
 ---
 

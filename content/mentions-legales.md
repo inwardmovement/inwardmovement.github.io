@@ -1,5 +1,6 @@
 ---
-title: Mentions légales
+title: "Mentions légales"
+description: "Nos mentions légales"
 layout: mentions-legales
 ---
 

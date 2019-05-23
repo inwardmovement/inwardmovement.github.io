@@ -1,5 +1,6 @@
 ---
-title: Les étrangers
+title: "Les étrangers"
+description: "Poème"
 date: 2009-02-17
 recueil: fleurspersistantes
 ---

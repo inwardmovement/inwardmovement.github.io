@@ -1,5 +1,6 @@
 ---
-title: La fille de l'automne
+title: "La fille de l'automne"
+description: "Poème"
 date: 2015-12-11
 recueil: erosphere
 ---

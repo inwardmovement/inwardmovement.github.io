@@ -1,5 +1,6 @@
 ---
-title: Lélie
+title: "Lélie"
+description: "Poème"
 date: 2018-05-14
 recueil: erosphere
 ---

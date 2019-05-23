@@ -1,5 +1,6 @@
 ---
-title: Ine
+title: "Ine"
+description: "Poème"
 date: 2012-01-20
 recueil: poudrearever
 ---

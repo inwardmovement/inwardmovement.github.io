@@ -1,5 +1,6 @@
 ---
-title: l'atrophié de ton absence
+title: "l'atrophié de ton absence"
+description: "Poème"
 date: 2015-01-10
 recueil: erosphere
 ---

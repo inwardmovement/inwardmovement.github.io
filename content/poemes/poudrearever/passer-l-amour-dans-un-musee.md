@@ -1,5 +1,6 @@
 ---
-title: Passer l'amour dans un musée
+title: "Passer l'amour dans un musée"
+description: "Poème"
 date: 2012-01-28
 recueil: poudrearever
 ---

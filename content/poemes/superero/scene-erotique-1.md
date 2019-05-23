@@ -1,5 +1,6 @@
 ---
-title: Scène érotique I
+title: "Scène érotique I"
+description: "Poème"
 date: 2011-01-01
 recueil: superero
 ---

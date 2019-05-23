@@ -1,5 +1,6 @@
 ---
-title: Le pervers
+title: "Le pervers"
+description: "Poème"
 date: 2011-01-09
 recueil: superero
 ---

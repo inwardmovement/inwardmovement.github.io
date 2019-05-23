@@ -1,5 +1,6 @@
 ---
-title: Le jardin
+title: "Le jardin"
+description: "Poème"
 date: 2011-01-20
 recueil: superero
 ---

@@ -1,5 +1,6 @@
 ---
-title: Emma II
+title: "Emma II"
+description: "Poème"
 date: 2012-02-09
 recueil: poudrearever
 ---

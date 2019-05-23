@@ -1,5 +1,6 @@
 ---
-title: À Mylène
+title: "À Mylène"
+description: "Poème"
 date: 2011-01-05
 recueil: superero
 ---

@@ -1,5 +1,6 @@
 ---
-title: bulles
+title: "bulles"
+description: "Poème"
 date: 2019-02-10
 recueil: erosphere
 ---

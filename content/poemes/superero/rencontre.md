@@ -1,5 +1,6 @@
 ---
-title: Rencontre
+title: "Rencontre"
+description: "Poème"
 date: 2011-02-04
 recueil: superero
 ---

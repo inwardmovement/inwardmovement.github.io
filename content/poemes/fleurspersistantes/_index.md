@@ -1,5 +1,6 @@
 ---
-title: Fleurs persistantes
+title: "Fleurs persistantes"
+description: "Recueil : Fleurs persistantes"
 layout: recueil
 ---
 

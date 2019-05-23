@@ -1,5 +1,6 @@
 ---
-title: Quand elle m'assalive
+title: "Quand elle m'assalive"
+description: "Poème"
 date: 2013-01-25
 recueil: meditations
 ---

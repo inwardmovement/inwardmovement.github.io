@@ -1,5 +1,6 @@
 ---
-title: je perds même le vide
+title: "je perds même le vide"
+description: "Poème"
 date: 2015-02-02
 recueil: erosphere
 ---

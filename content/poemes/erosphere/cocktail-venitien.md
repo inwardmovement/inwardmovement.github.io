@@ -1,5 +1,6 @@
 ---
-title: cocktail vénitien
+title: "cocktail vénitien"
+description: "Poème"
 date: 2018-08-10
 recueil: erosphere
 ---

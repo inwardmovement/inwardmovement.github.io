@@ -1,5 +1,6 @@
 ---
-title: double-face
+title: "double-face"
+description: "Poème"
 date: 2018-11-24
 recueil: erosphere
 ---

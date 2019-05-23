@@ -1,5 +1,6 @@
 ---
-title: portrait-robot
+title: "portrait-robot"
+description: "Poème"
 date: 2018-06-04
 recueil: erosphere
 ---

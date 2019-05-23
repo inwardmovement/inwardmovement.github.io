@@ -1,5 +1,6 @@
 ---
-title: tu aimes regarder le temps
+title: "tu aimes regarder le temps"
+description: "Poème"
 date: 2015-01-13
 recueil: erosphere
 ---

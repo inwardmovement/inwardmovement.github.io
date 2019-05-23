@@ -1,5 +1,6 @@
 ---
-title: À Émeline
+title: "À Émeline"
+description: "Poème"
 date: 2011-01-28
 recueil: superero
 ---

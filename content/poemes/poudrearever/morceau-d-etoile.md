@@ -1,5 +1,6 @@
 ---
-title: Morceau d'étoile
+title: "Morceau d'étoile"
+description: "Poème"
 date: 2012-01-03
 recueil: poudrearever
 ---

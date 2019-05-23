@@ -1,5 +1,6 @@
 ---
-title: la fin du monde
+title: "la fin du monde"
+description: "Poème"
 date: 2018-01-18
 recueil: erosphere
 ---

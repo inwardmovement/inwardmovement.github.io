@@ -1,5 +1,6 @@
 ---
-title: il s'accroche pour survivre
+title: "il s'accroche pour survivre"
+description: "Poème"
 date: 2015-01-07
 recueil: erosphere
 ---

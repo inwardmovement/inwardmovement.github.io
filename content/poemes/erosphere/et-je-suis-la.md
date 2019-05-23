@@ -1,5 +1,6 @@
 ---
-title: et je suis là
+title: "et je suis là"
+description: "Poème"
 date: 2015-02-07
 recueil: erosphere
 ---

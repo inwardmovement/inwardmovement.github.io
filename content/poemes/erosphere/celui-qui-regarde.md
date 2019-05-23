@@ -1,5 +1,6 @@
 ---
-title: celui qui regarde
+title: "celui qui regarde"
+description: "Poème"
 date: 2015-01-21
 recueil: erosphere
 ---

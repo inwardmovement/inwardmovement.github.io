@@ -1,5 +1,6 @@
 ---
-title: c'est fou
+title: "c'est fou"
+description: "Poème"
 date: 2015-01-12
 recueil: erosphere
 ---

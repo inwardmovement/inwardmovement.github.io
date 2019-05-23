@@ -1,5 +1,6 @@
 ---
-title: Divinum ordinem
+title: "Divinum ordinem"
+description: "Poème"
 date: 2011-01-25
 recueil: superero
 ---

@@ -1,5 +1,6 @@
 ---
-title: Odeur
+title: "Odeur"
+description: "Poème"
 date: 2012-01-29
 recueil: poudrearever
 ---

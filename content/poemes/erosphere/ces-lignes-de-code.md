@@ -1,5 +1,6 @@
 ---
-title: ces lignes de code
+title: "ces lignes de code"
+description: "Poème"
 date: 2015-02-04
 recueil: erosphere
 ---

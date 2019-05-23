@@ -1,5 +1,6 @@
 ---
-title: Érosphère
+title: "Érosphère"
+description: "Recueil : Érosphère"
 layout: recueil
 ---
 

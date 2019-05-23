@@ -1,5 +1,6 @@
 ---
-title: À Claire
+title: "À Claire"
+description: "Poème"
 date: 2009-02-24
 recueil: fleurspersistantes
 ---

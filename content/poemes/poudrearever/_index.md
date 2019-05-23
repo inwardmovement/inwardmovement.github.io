@@ -1,5 +1,6 @@
 ---
-title: Poudre à rêver
+title: "Poudre à rêver"
+description: "Recueil : Poudre à rêver"
 layout: recueil
 ---
 

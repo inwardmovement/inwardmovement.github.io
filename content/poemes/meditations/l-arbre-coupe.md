@@ -1,5 +1,6 @@
 ---
-title: L'arbre coupé
+title: "L'arbre coupé"
+description: "Poème"
 date: 2013-01-24
 recueil: meditations
 ---

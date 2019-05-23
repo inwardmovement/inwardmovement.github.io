@@ -1,5 +1,6 @@
 ---
-title: Le Maitre
+title: "Le Maitre"
+description: "Poème"
 date: 2011-01-27
 recueil: superero
 ---

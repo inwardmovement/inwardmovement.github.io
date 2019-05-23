@@ -1,5 +1,6 @@
 ---
-title: Les SuperEros
+title: "Les SuperEros"
+description: "Poème"
 date: 2011-01-08
 recueil: superero
 ---

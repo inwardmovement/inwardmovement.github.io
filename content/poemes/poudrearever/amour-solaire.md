@@ -1,5 +1,6 @@
 ---
-title: Amour solaire
+title: "Amour solaire"
+description: "Poème"
 date: 2012-01-17
 recueil: poudrearever
 ---

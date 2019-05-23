@@ -1,5 +1,6 @@
 ---
-title: coquillages
+title: "coquillages"
+description: "Poème"
 date: 2018-12-28
 recueil: erosphere
 ---

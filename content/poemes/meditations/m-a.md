@@ -1,5 +1,6 @@
 ---
-title: M/A
+title: "M/A"
+description: "Poème"
 date: 2013-02-06
 recueil: meditations
 ---

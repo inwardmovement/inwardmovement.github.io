@@ -1,5 +1,6 @@
 ---
-title: Passion
+title: "Passion"
+description: "Poème"
 date: 2012-01-12
 recueil: poudrearever
 ---

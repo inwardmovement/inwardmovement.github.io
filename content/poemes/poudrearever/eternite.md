@@ -1,5 +1,6 @@
 ---
-title: Éternité
+title: "Éternité"
+description: "Poème"
 date: 2012-01-06
 recueil: poudrearever
 ---

@@ -1,5 +1,6 @@
 ---
-title: me confronter à ce blanc
+title: "me confronter à ce blanc"
+description: "Poème"
 date: 2015-01-20
 recueil: erosphere
 ---

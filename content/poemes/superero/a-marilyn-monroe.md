@@ -1,5 +1,6 @@
 ---
-title: À Marilyn Monroe
+title: "À Marilyn Monroe"
+description: "Poème"
 date: 2011-01-03
 recueil: superero
 ---

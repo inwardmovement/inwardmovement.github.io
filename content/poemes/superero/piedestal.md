@@ -1,5 +1,6 @@
 ---
-title: Piédestal
+title: "Piédestal"
+description: "Poème"
 date: 2011-01-13
 recueil: superero
 ---

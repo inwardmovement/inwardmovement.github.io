@@ -1,5 +1,6 @@
 ---
-title: pantin
+title: "pantin"
+description: "Poème"
 date: 2018-12-04
 recueil: erosphere
 ---

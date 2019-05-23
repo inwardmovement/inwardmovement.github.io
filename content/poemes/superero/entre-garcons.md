@@ -1,5 +1,6 @@
 ---
-title: Entre garçons
+title: "Entre garçons"
+description: "Poème"
 date: 2011-02-01
 recueil: superero
 ---

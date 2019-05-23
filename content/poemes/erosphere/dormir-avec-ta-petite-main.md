@@ -1,5 +1,6 @@
 ---
-title: dormir avec ta petite main
+title: "dormir avec ta petite main"
+description: "Poème"
 date: 2015-01-08
 recueil: erosphere
 ---

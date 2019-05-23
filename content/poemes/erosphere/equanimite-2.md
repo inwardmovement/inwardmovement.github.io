@@ -1,5 +1,6 @@
 ---
-title: Équanimité II
+title: "Équanimité II"
+description: "Poème"
 date: 2015-01-31
 recueil: erosphere
 ---

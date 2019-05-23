@@ -1,5 +1,6 @@
 ---
-title: Je veux une coquine
+title: "Je veux une coquine"
+description: "Poème"
 date: 2011-02-03
 recueil: superero
 ---

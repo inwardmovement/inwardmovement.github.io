@@ -1,5 +1,6 @@
 ---
-title: Suppose
+title: "Suppose"
+description: "Poème"
 date: 2013-01-29
 recueil: meditations
 ---

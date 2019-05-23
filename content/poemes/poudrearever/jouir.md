@@ -1,5 +1,6 @@
 ---
-title: Jouir
+title: "Jouir"
+description: "Poème"
 date: 2012-01-13
 recueil: poudrearever
 ---

@@ -1,5 +1,6 @@
 ---
-title: viens j'ai la foi
+title: "viens j'ai la foi"
+description: "Poème"
 date: 2015-01-01
 recueil: erosphere
 ---

@@ -1,5 +1,6 @@
 ---
-title: Révolte
+title: "Révolte"
+description: "Poème"
 date: 2019-03-01
 recueil: erosphere
 ---

@@ -1,5 +1,6 @@
 ---
-title: À Chloé
+title: "À Chloé"
+description: "Poème"
 date: 2009-02-23
 recueil: fleurspersistantes
 ---

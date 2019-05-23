@@ -1,5 +1,6 @@
 ---
-title: Chevalier
+title: "Chevalier"
+description: "Poème"
 date: 2012-02-01
 recueil: poudrearever
 ---

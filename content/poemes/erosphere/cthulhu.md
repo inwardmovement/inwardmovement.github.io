@@ -1,5 +1,6 @@
 ---
-title: Cthulhu
+title: "Cthulhu"
+description: "Poème"
 date: 2018-05-24
 recueil: erosphere
 ---

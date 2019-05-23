@@ -1,5 +1,6 @@
 ---
-title: À ma manière
+title: "À ma manière"
+description: "Poème"
 date: 2013-01-23
 recueil: meditations
 ---

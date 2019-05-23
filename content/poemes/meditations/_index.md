@@ -1,5 +1,6 @@
 ---
-title: Méditations
+title: "Méditations"
+description: "Recueil : Méditations"
 layout: recueil
 ---
 

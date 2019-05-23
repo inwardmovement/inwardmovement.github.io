@@ -1,5 +1,6 @@
 ---
-title: Le secret
+title: "Le secret"
+description: "Poème"
 date: 2011-01-31
 recueil: superero
 ---

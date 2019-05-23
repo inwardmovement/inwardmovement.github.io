@@ -1,5 +1,6 @@
 ---
-title: Gamahuchage
+title: "Gamahuchage"
+description: "Poème"
 date: 2011-01-07
 recueil: superero
 ---

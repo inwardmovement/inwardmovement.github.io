@@ -1,5 +1,6 @@
 ---
-title: au cœur de l'hiver
+title: "au cœur de l'hiver"
+description: "Poème"
 date: 2018-06-03
 recueil: erosphere
 ---

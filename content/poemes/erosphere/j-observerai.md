@@ -1,5 +1,6 @@
 ---
-title: j'observerai
+title: "j'observerai"
+description: "Poème"
 date: 2015-02-03
 recueil: erosphere
 ---

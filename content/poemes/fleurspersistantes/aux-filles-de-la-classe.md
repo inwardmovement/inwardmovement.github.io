@@ -1,5 +1,6 @@
 ---
-title: Aux filles de la classe
+title: "Aux filles de la classe"
+description: "Poème"
 date: 2009-02-06
 recueil: fleurspersistantes
 ---

@@ -1,5 +1,6 @@
 ---
-title: rafraichissement
+title: "rafraichissement"
+description: "Poème"
 date: 2018-05-06
 recueil: erosphere
 ---

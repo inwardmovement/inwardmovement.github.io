@@ -1,5 +1,6 @@
 ---
-title: La drogue du rêveur
+title: "La drogue du rêveur"
+description: "Poème"
 date: 2012-01-11
 recueil: poudrearever
 ---

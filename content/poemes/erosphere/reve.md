@@ -1,5 +1,6 @@
 ---
-title: rêve
+title: "rêve"
+description: "Poème"
 date: 2018-05-14T00:00:01
 recueil: erosphere
 ---

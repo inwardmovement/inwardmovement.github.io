@@ -1,5 +1,6 @@
 ---
-title: Sidéral
+title: "Sidéral"
+description: "Poème"
 date: 2013-02-07
 recueil: meditations
 ---
