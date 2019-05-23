@@ -3,9 +3,9 @@
     <article>
       <h1>{{ .Title }}</h1><br>
         <ul>
-          {{ range .Data.Pages -}}
+          {{ range .Data.Pages }}
             <li><a href="{{.Permalink}}">{{.Title}}</a></li>
-          {{ end -}}
+          {{ end }}
         </ul>
     </article>
   </main>

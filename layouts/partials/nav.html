@@ -4,11 +4,11 @@
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Ouvre navigation principale"><span class="navbar-toggler-icon"></span></button>
     <div class="collapse navbar-collapse" id="navbar-collapse">
       <div class="navbar-nav mr-auto">
-        {{ $currentPage := . -}}
+        {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-          {{- $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $.Section) -}}
+          {{ $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $.Section) }}
             <a class="nav-item nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a>
-        {{ end -}}
+        {{ end }}
       </div>
       <div class="nav-right navbar-nav">
         <button type="button" class="btn btn-info" onclick="if(jQuery.browser.mobile){window.open('mailto:victor.dhamma@gmail.com','_self')}else{window.open('mailto:victor.dhamma@gmail.com')}">Contact <i class="material-icons">mail_outline</i></button>

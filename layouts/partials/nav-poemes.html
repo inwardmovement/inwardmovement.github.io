@@ -1,36 +1,36 @@
 <aside class="sidebar">
   <nav aria-label="Poems pagination">
     <ul class="pagination">
-      {{- if eq .File.BaseFileName "_index" -}}
-        {{- range first 1 .Data.Pages.ByDate -}}
+      {{ if eq .File.BaseFileName "_index" }}
+        {{ range first 1 .Data.Pages.ByDate }}
           <div style="height: 38px;"><li class="page-item"><a class="page-link" href="{{ .RelPermalink }}">commencer la lecture</a></li></div>
-        {{- end -}}
-      {{- else -}}
-        {{- $currentPage := . -}}
-        {{- range where .Site.Pages.ByDate "Params.recueil" .Params.recueil -}}
-          {{- if eq .RelPermalink $currentPage.RelPermalink -}}
+        {{ end }}
+      {{ else }}
+        {{ $currentPage := . }}
+        {{ range where .Site.Pages.ByDate "Params.recueil" .Params.recueil }}
+          {{ if eq .RelPermalink $currentPage.RelPermalink }}
             <li class="page-item{{if not .PrevInSection}} disabled noselect{{ end }}"><a class="page-link" href="{{if .PrevInSection}}{{.PrevInSection.RelPermalink}}{{end}}">précédent</a></li>
             <li class="page-item{{if not .NextInSection}} disabled noselect{{ end }}"><a class="page-link" href="{{if .NextInSection}}{{.NextInSection.RelPermalink}}{{end}}">suivant</a></li>
-          {{- end -}}
-        {{- end -}}
-      {{- end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
     </ul>
   </nav>
   <nav class="card" aria-label="Poems navigation">
     <div class="card-header">
       <ul>
-        {{- $currentPage := . }}
-        {{- if eq .File.BaseFileName "_index" -}}
-          {{- range .Data.Pages.ByDate -}}
-          {{- $isCurrent := eq .RelPermalink $currentPage.RelPermalink -}}
+        {{ $currentPage := . }}
+        {{ if eq .File.BaseFileName "_index" }}
+          {{ range .Data.Pages.ByDate }}
+          {{ $isCurrent := eq .RelPermalink $currentPage.RelPermalink }}
             <li><a{{ if $isCurrent }} class="current"{{ end }} href="{{ .RelPermalink }}">{{ .Title }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a></li>
-          {{- end -}}
-        {{- else -}}
-          {{- range where .Site.Pages.ByDate "Params.recueil" .Params.recueil -}}
-          {{- $isCurrent := eq .RelPermalink $currentPage.RelPermalink }}
+          {{ end }}
+        {{ else }}
+          {{ range where .Site.Pages.ByDate "Params.recueil" .Params.recueil }}
+          {{ $isCurrent := eq .RelPermalink $currentPage.RelPermalink }}
             <li><a{{ if $isCurrent }} class="current"{{ end }} href="{{ .RelPermalink }}">{{ .Title }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a></li>
-          {{- end -}}
-        {{- end }}
+          {{ end }}
+        {{ end }}
       </ul>
     </div>
   </nav>

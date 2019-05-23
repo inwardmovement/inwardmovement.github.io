@@ -1,17 +1,17 @@
 <meta name="author" content="{{ .Site.Params.author }}">
 <meta name="description" content="{{ .Site.Title }} : {{ .Site.Params.description }}">
-{{ hugo.Generator -}}
-{{- with (getenv "CI") }}
+{{ hugo.Generator }}
+{{ with (getenv "CI") }}
   <meta name="version" content="{{ substr (getenv "TRAVIS_COMMIT") 0 7 }}">
   <meta name="changelog" content="{{ getenv "TRAVIS_COMMIT_MESSAGE" }}">
-{{- end }}
+{{ end }}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
-{{- range .AlternativeOutputFormats }}
+{{ range .AlternativeOutputFormats }}
     {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
-{{- end }}
+{{ end }}
 {{ $bootstrap := resources.Get "css/bootstrap.css" }}
 {{ $app := resources.Get "css/app.css" }}
 {{ $main := slice $bootstrap $app | resources.Concat "main.css" }}

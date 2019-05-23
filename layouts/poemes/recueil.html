@@ -1,10 +1,10 @@
 {{ define "main" }}
-  {{ partial "nav-recueils" . -}}
+  {{ partial "nav-recueils" . }}
   <main class="container grid-poems">
-    {{ partial "nav-poemes" . -}}
+    {{ partial "nav-poemes" . }}
     <article>
       <h1 class="ds">{{ .Title }}</h1><br>
-        {{ .Content -}}
+        {{ .Content }}
     </article>
   </main>
   {{ partial "top-btn" . }}
