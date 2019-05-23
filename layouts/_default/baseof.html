@@ -7,9 +7,17 @@
   <header>
     {{ partial "nav" . }}
   </header>
-    {{ block "main" . }}{{ end }}
+  {{ block "main" . }}{{ end }}
   <footer>
     {{ partial "footer" . }}
   </footer>
+  {{ $jquery := resources.Get "js/jquery.js" }}
+  {{ $bootstrap := resources.Get "js/bootstrap.js" }}
+  {{ $app := resources.Get "js/app.js" }}
+  {{ $main := slice $jquery $bootstrap $app | resources.Concat "main.js" }}
+  {{ if not .Site.IsServer }}
+    {{ $main = $main | minify | fingerprint }}
+  {{ end }}
+  <script src="{{ $main.Permalink }}" integrity="{{ $main.Data.Integrity }}"></script>
 </body>
 </html>
