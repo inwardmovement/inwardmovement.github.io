@@ -37,4 +37,4 @@ comme ça que l'on se noie
 comme ça que la rencontre nous fait voir les profondeurs
 à coups d'éclats des yeux
 
-à coups d'ancre dessine
+à coup d'ancre dessine
