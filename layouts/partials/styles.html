@@ -1,0 +1,7 @@
+{{ $bootstrap := resources.Get "css/bootstrap.css" }}
+{{ $app := resources.Get "css/app.css" }}
+{{ $main := slice $bootstrap $app | resources.Concat "main.css" }}
+{{ if not .Site.IsServer }}
+  {{ $main = $main | minify | fingerprint }}
+{{ end }}
+<link rel="stylesheet" href="{{ $main.Permalink }}" integrity="{{ $main.Data.Integrity }}">

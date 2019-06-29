@@ -12,11 +12,5 @@
 {{ range .AlternativeOutputFormats }}
     {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
 {{ end }}
-{{ $bootstrap := resources.Get "css/bootstrap.css" }}
-{{ $app := resources.Get "css/app.css" }}
-{{ $main := slice $bootstrap $app | resources.Concat "main.css" }}
-{{ if not .Site.IsServer }}
-  {{ $main = $main | minify | fingerprint }}
-{{ end }}
-<link rel="stylesheet" href="{{ $main.Permalink }}" integrity="{{ $main.Data.Integrity }}">
+{{ partial "styles" . }}
 <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ if .IsHome }} | {{ .Site.Params.description }}{{ end }}</title>
