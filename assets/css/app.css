@@ -557,29 +557,41 @@ article p {
   .grid-poems article  {
     margin-left: 100px;
   }
-
-  article.home {
-    /* padding-top: 100px; */
-  }
 }
 
-.home-box-container {
-  display: flex;
-}
-
-.home-box-container > .box {
-  width: 50%;
+.home-box-container .box {
   text-align: left;
-  padding: 35px;
+  padding: 1.5rem;
 }
 
-.home-box-container > .box h2 {
+.home-box-container .box h2 {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 1.25rem;
 }
 
 .home-box-container > .box ul {
   margin-bottom: 0;
+}
+
+@media (min-width: 768px) {
+  .home-box-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .home-box-container .box {
+    text-align: left;
+    padding: 2rem;
+  }
+
+  .home-box-container .box h2 {
+    text-align: center;
+    margin-top: 1.25rem;
+  }
+
+  .home-box-container > .box ul {
+    margin-bottom: 0;
+  }
 }
 
 /************************************************************
