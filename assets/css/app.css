@@ -559,8 +559,27 @@ article p {
   }
 
   article.home {
-    padding-top: 100px;
+    /* padding-top: 100px; */
   }
+}
+
+.home-box-container {
+  display: flex;
+}
+
+.home-box-container > .box {
+  width: 50%;
+  text-align: left;
+  padding: 35px;
+}
+
+.home-box-container > .box h2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.home-box-container > .box ul {
+  margin-bottom: 0;
 }
 
 /************************************************************
