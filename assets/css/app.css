@@ -593,6 +593,10 @@ main.container.home {
   filter: brightness(170%);
 }
 
+.home-box-container {
+  margin-bottom: 1.5rem;
+}
+
 .home-box-container .box {
   text-align: left;
   padding: 1.5rem;
@@ -631,6 +635,45 @@ main.container.home {
     margin-bottom: 0;
   }
 }
+
+.home #social a {
+  margin-left: 0.25rem;
+}
+
+.home #social .twitter {
+    color: #fff;
+    background-color: #1DA1F2;
+    border-color: #1DA1F2;
+}
+  .home #social .twitter:hover {
+      color: #fff;
+      background-color: #1A90D9;
+      border-color: #1A90D9;
+  }
+
+.home #social .linkedin {
+    color: #fff;
+    background-color: #0077b5;
+    border-color: #0077b5;
+}
+
+  .home #social .linkedin:hover {
+      color: #fff;
+      background-color: #00659c;
+      border-color: #00659c;
+  }
+
+.home #social .github {
+    color: #fff;
+    background-color: #333;
+    border-color: #333;
+}
+
+  .home #social .github:hover {
+      color: #fff;
+      background-color: #1a1a1a;
+      border-color: #1a1a1a;
+  }
 
 /************************************************************
   BLOCKQUOTE

@@ -1,0 +1,14 @@
+<div id="social">
+  {{ with .Params.twitter }}
+    {{ $twitter := print "https://twitter.com/" . "/" }}
+    <a class="btn btn-sm twitter" href="{{ $twitter }}" role="button">Twitter</a>
+  {{ end }}
+  {{ with .Params.github }}
+    {{ $github := print "https://github.com/" . "/" }}
+    <a class="btn btn-sm github" href="{{ $github }}" role="button">GitHub</a>
+  {{ end }}
+  {{ with .Params.linkedin }}
+    {{ $linkedin := print "https://www.linkedin.com/in/" . "/" }}
+    <a class="btn btn-sm linkedin" href="{{ $linkedin }}" role="button">LinkedIn</a>
+  {{ end }}
+</div>

@@ -13,4 +13,4 @@
     {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
 {{ end }}
 {{ partial "styles" . }}
-<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ if .IsHome }} | {{ .Site.Params.description }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Title }}{{ end }} | {{ .Site.Title }}</title>

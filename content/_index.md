@@ -2,7 +2,10 @@
 title: "Salut =)"
 description: "Je m'appelle Victor Massé"
 images:
-  - "photo.png"
+  - photo.png
+twitter: inwardmovement
+linkedin: inwardmovement
+github: inwardmovement
 ---
 
 {{< home-box "Ce que je **fais**" >}}
@@ -18,7 +21,7 @@ images:
 
 ---
 
-- Développeur web chez [Metta Conseil Dev](https://dev.mettaconseil.fr)
+- Développeur web chez <!-- [Metta Conseil Dev](https://dev.mettaconseil.fr) --> Metta Conseil Dev *(bientôt)*
 
 ---
 
@@ -42,5 +45,5 @@ images:
 
 ---
 
-- Parentalité bienveillante
+- Éducation bienveillante
 {{< /home-box >}}
