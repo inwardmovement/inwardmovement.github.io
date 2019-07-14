@@ -521,7 +521,7 @@ article {
   margin-left: auto;
 }
 
-article.home {
+.home article {
   text-align: center;
   max-width: none;
 }
@@ -562,6 +562,10 @@ article p {
 /************************************************************
   HOME
 ************************************************************/
+main.container.home {
+  max-width: 1140px;
+}
+
 .home .presentation {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -586,7 +590,7 @@ article p {
 
 .home .presentation .photo img {
   width: 100px;
-  filter: brightness(1.7);
+  filter: brightness(170%);
 }
 
 .home-box-container .box {

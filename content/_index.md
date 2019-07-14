@@ -6,13 +6,41 @@ images:
 ---
 
 {{< home-box "Ce que je **fais**" >}}
-- caca 1
-- caca 1
-- caca 1
+- Membre actif de l'[Alliance Algosphère](https://algosphere.org/fr)
+
+---
+
+- Consultant en dév. personnel chez [Metta Conseil](https://mettaconseil.fr)
+
+---
+
+- Consultant en organisation chez [Metta Conseil Pro](https://pro.mettaconseil.fr)
+
+---
+
+- Développeur web chez [Metta Conseil Dev](https://dev.mettaconseil.fr)
+
+---
+
+- Auteur de [poèmes](poemes)
 {{< /home-box >}}
 
 {{< home-box "Ce qui **m'intéresse**" >}}
-- caca 2
-- caca 2
-- caca 2
+- Entrainement de l'esprit
+
+---
+
+- Philosophie analytique
+
+---
+
+- Relations interpersonnelles
+
+---
+
+- Méthode scientifique
+
+---
+
+- Parentalité bienveillante
 {{< /home-box >}}

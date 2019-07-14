@@ -21,27 +21,19 @@ blackfriday:
 footnoteReturnLinkContents: "↑"
 menu:
   main:
+    - Name: "Accueil"
+      URL: "/"
+      Identifier: "accueil"
+      weight: 1
     - Name: "Poèmes"
       URL: "/poemes/"
       Identifier: "poemes"
-      weight: 1
-    - Name: "Articles"
-      URL: "/articles/"
-      Identifier: "articles"
       weight: 2
   footer:
     - Name: "Mentions légales"
       URL: "/mentions-legales/"
       Identifier: "mentions-legales"
       weight: 1
-    - Name: "GitHub"
-      URL: "https://github.com/inwardmovement/inwardmovement.github.io/"
-      Identifier: "github"
-      weight: 2
-    - Name: "Site pro"
-      URL: "https://mettaconseil.fr"
-      Identifier: "mettaconseil"
-      weight: 3
   recueils:
     - Name: "Fleurs persistantes"
       URL: "/poemes/fleurspersistantes/"
