@@ -559,6 +559,36 @@ article p {
   }
 }
 
+/************************************************************
+  HOME
+************************************************************/
+.home .presentation {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.home .presentation div {
+  position: relative;
+}
+
+.home .presentation .text {
+  position: absolute;
+  bottom: 0;
+  text-align: left;
+  margin-bottom: 0.75rem;
+}
+
+.home .presentation .text p {
+  margin-bottom: 0 !important;
+}
+
+.home .presentation .photo img {
+  width: 100px;
+  filter: brightness(1.7);
+}
+
 .home-box-container .box {
   text-align: left;
   padding: 1.5rem;
@@ -567,6 +597,8 @@ article p {
 .home-box-container .box h2 {
   text-align: center;
   margin-top: 1.25rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
 }
 
 .home-box-container > .box ul {
@@ -587,6 +619,8 @@ article p {
   .home-box-container .box h2 {
     text-align: center;
     margin-top: 1.25rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
   }
 
   .home-box-container > .box ul {

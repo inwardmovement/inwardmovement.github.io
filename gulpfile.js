@@ -1,8 +1,10 @@
-const {src, dest, series} = require('gulp'),
-                replace   = require('gulp-replace'),
-                beautify  = require('gulp-pretty-html'),
-                exec      = require('child_process').exec,
-                del       = require('del');
+const { src, dest, series } = require('gulp'),
+      replace               = require('gulp-replace'),
+      beautify              = require('gulp-pretty-html'),
+      exec                  = require('child_process').exec,
+      imagemin              = require('gulp-imagemin'),
+      imgconv               = require('gulp-imgconv'),
+      del                   = require('del');
 
 function reset() {
   return del('public')
@@ -36,4 +38,13 @@ function html() {
     .pipe(dest('public'))
 }
 
-exports.default = series(reset, hugo, html);
+function imgGlobal() {
+  return src('public/img/**/*.*')
+    .pipe(imagemin([
+      imagemin.jpegtran({progressive: true}),
+      imagemin.optipng({optimizationLevel: 3}),
+    ]))
+    .pipe(dest('public/img'))
+}
+
+exports.default = series(reset, hugo, html, imgGlobal);

@@ -1,8 +1,25 @@
 {{ define "main" }}
   <main class="container">
     <article class="home">
-      <h1>{{ .Title }}</h1><br>
+      <div class="presentation">
+        <div class="photo">
+          {{ with .Params.images }}
+            {{ range first 1 . }}
+              {{ $photo := print "/img/" . }}
+              <img src="{{ $photo }}" class="rounded float-right" alt="Photo">
+            {{ end }}
+          {{ end }}
+        </div>
+        <div>
+          <div class="text"><br>
+            <h1>{{ .Title }}</h1>
+            <p>{{ .Description }}</p>
+          </div>
+        </div>
+      </div>
+      <div class="home-box-container">
         {{ .Content }}
+      </div>
     </article>
   </main>
   {{ partial "top-btn" . }}
