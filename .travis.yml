@@ -11,7 +11,7 @@ install:
   - npm i natives
 before_script:
   - npm install -g gulp-cli
-script: gulp
+script: hugo
 deploy:
   provider: pages
   local-dir: public
