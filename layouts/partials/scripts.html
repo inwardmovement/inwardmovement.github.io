@@ -1,8 +1,9 @@
 {{ $jquery := resources.Get "js/jquery.js" }}
+{{ $popper := resources.Get "js/popper.js" }}
 {{ $bootstrap := resources.Get "js/bootstrap.js" }}
 {{ $app := resources.Get "js/app.js" }}
-{{ $main := slice $jquery $bootstrap $app | resources.Concat "main.js" }}
+{{ $mainJS := slice $jquery $popper $bootstrap $app | resources.Concat "main.js" }}
 {{ if not .Site.IsServer }}
-  {{ $main = $main | minify | fingerprint }}
+  {{ $mainJS = $mainJS | minify | fingerprint }}
 {{ end }}
-<script src="{{ $main.Permalink }}" integrity="{{ $main.Data.Integrity }}"></script>
+<script src="{{ $mainJS.Permalink }}" integrity="{{ $mainJS.Data.Integrity }}"></script>
