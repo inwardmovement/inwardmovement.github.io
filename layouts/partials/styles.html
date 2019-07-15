@@ -1,7 +1,5 @@
-{{ $bootstrap := resources.Get "scss/bootstrap.scss" | resources.ToCSS }}
-{{ $app := resources.Get "scss/app.scss" | resources.ToCSS }}
-{{ $main := slice $bootstrap $app  | resources.Concat "main.css" }}
+{{ $mainCSS := resources.Get "scss/app.scss" | resources.ToCSS }}
 {{ if not .Site.IsServer }}
-  {{ $main = $main | minify | fingerprint }}
+  {{ $mainCSS = $mainCSS | minify | fingerprint }}
 {{ end }}
-<link rel="stylesheet" href="{{ $main.Permalink }}" integrity="{{ $main.Data.Integrity }}">
+<link rel="stylesheet" href="{{ $mainCSS.Permalink }}" integrity="{{ $mainCSS.Data.Integrity }}">
