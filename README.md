@@ -6,6 +6,16 @@
 ---
 
 Requirements:
-- ...
-- `npm install -g postcss-cli`
-- `npm install -g autoprefixer`
+- install [Hugo](https://gohugo.io/)
+- install [Node.js](https://nodejs.org/en/)
+- install PostCSS CLI globally: `npm i -g postcss-cli`
+- install Autoprefixer globally: `npm i -g autoprefixer`
+- install the dependencies: `npm i`
+
+To develop locally, run `hugo server`.
+
+Later improvements:
+- integrate Gulp post-processing inside Hugo pipes when it becomes possible, see [5632](https://github.com/gohugoio/hugo/issues/5632).
+
+Limitations:
+- we cannot use Bootstrap with `npm` for now as Hugo cannot create a JS "ressource" (to include it to its pipeline) from a `node_module`. See [5832](https://github.com/gohugoio/hugo/issues/5832) and [5567](https://github.com/gohugoio/hugo/issues/5567).
