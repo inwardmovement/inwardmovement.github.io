@@ -12,6 +12,8 @@ install:
   - npm i natives
 before_script:
   - npm install -g gulp-cli
+  - npm install -g postcss-cli
+  - npm install -g autoprefixer
 script: gulp
 deploy:
   provider: pages
