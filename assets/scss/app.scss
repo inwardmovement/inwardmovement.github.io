@@ -563,28 +563,43 @@ article {
 .home {
   .presentation {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
     grid-column-gap: 1rem;
-    margin-bottom: 1.5rem;
+
+    @include media-breakpoint-up(md) {
+      grid-template-rows: 1fr;
+      grid-template-columns: 1fr 1fr;
+      grid-column-gap: 1rem;
+      margin-bottom: 1.5rem;
+      }
 
     div {
       position: relative;
     }
 
     .text {
-      position: absolute;
-      bottom: 0;
-      text-align: left;
-      margin-bottom: 0.75rem;
-
       p {
         margin-bottom: 0 !important;
+      }
+
+      @include media-breakpoint-up(md) {
+        position: absolute;
+        bottom: 0;
+        text-align: left;
+        margin-bottom: 0.75rem;
       }
     }
 
     .photo img {
       width: 100px;
       filter: brightness(170%);
+
+      @include media-breakpoint-up(md) {
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 1rem;
+        float: right !important;
+      }
     }
   }
 
