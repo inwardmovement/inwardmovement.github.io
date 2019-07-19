@@ -3,7 +3,9 @@
     <ul class="pagination">
       {{ if eq .File.BaseFileName "_index" }}
         {{ range first 1 .Data.Pages.ByDate }}
-          <div style="height: 38px;"><li class="page-item"><a class="page-link" href="{{ .RelPermalink }}">commencer la lecture</a></li></div>
+          <div style="height: 38px;">
+            <li class="page-item"><a class="page-link" href="{{ .RelPermalink }}">commencer la lecture</a></li>
+          </div>
         {{ end }}
       {{ else }}
         {{ $currentPage := . }}

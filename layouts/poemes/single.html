@@ -3,6 +3,7 @@
   <main class="container grid-poems">
     {{ partial "nav-poemes" . }}
     <article>
+    {{ partial "back-btn" . }}<br><br>
       <h1>{{ .Title }}</h1><br>
         {{ .Content }}
     </article>
