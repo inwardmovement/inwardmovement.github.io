@@ -25,7 +25,7 @@ github: inwardmovement
 
 ---
 
-- Auteur de [poèmes](poemes)
+- J'écris des [poèmes](poemes) et des [articles](articles)
 {{< /home-box >}}
 
 {{< home-box "Ce qui **m'intéresse**" >}}

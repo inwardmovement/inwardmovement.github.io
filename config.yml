@@ -29,6 +29,10 @@ menu:
       URL: "/poemes/"
       Identifier: "poemes"
       weight: 2
+    - Name: "Articles"
+      URL: "/articles/"
+      Identifier: "articles"
+      weight: 3
   footer:
     - Name: "Mentions légales"
       URL: "/mentions-legales/"
