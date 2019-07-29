@@ -1,0 +1,18 @@
+{
+  "New poem": {
+		"scope": "plaintext,markdown",
+		"prefix": "po",
+		"body": [
+			"---",
+      "title: \"$1\"",
+      "description: \"Poème\"",
+      "date: $2",
+      "recueil: erosphere",
+      "---",
+      "",
+      "$0",
+      "",
+		],
+		"description": ""
+	}
+}
