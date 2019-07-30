@@ -12,7 +12,7 @@ zébrette anonyme
 tu cours les rues sans me croiser
 mais t'y peux rien
 
-l'amitité presque entamée
+l'amitié presque entamée
 tu crois que la montagne nous empêche de grimper
 
 parfois mieux vaut de pas savoir
