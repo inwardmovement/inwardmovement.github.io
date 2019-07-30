@@ -5,7 +5,7 @@ date: 2019-07-29
 recueil: erosphere
 ---
 
-*à Ludsine*
+*à L.*
 
 zébrette anonyme
 
