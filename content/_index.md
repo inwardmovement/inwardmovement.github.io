@@ -25,7 +25,7 @@ github: inwardmovement
 
 ---
 
-- J'écris des [poèmes](poemes) et des [articles](articles)
+- J'écris des [poèmes](poemes) et des [articles](articles), je fais de la [guitare électrique](https://www.youtube.com/user/arkay38/videos)
 {{< /home-box >}}
 
 {{< home-box "Ce qui **m'intéresse**" >}}
