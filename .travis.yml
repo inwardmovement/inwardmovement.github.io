@@ -1,4 +1,3 @@
-dist: xenial
 sudo: required
 language: node_js
 node_js:
@@ -11,9 +10,7 @@ install:
   - npm install
   - npm i natives
 before_script:
-  - npm install -g gulp-cli
-  - npm install -g postcss-cli
-  - npm install -g autoprefixer
+  - npm install -g gulp-cli postcss-cli autoprefixer
 script: gulp
 deploy:
   provider: pages
