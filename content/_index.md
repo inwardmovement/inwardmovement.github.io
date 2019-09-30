@@ -21,10 +21,6 @@ github: inwardmovement
 
 ---
 
-- Développeur web chez <!-- [Metta Conseil Dev](https://dev.mettaconseil.fr) --> Metta Conseil Dev *(bientôt)*
-
----
-
 - J'écris des [poèmes](poemes) et des [articles](articles), je fais de la [guitare électrique](https://www.youtube.com/user/arkay38/videos)
 {{< /home-box >}}
 
