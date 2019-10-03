@@ -1,0 +1,31 @@
+// Sketchy 4.3.1 (bootswatch.com)
+
+$border-radius-sketchy: 255px 25px 225px 25px/25px 225px 25px 255px;
+
+// Buttons =====================================================================
+
+.btn {
+  border-radius: $border-radius-sketchy;
+}
+
+// Indicators ==================================================================
+
+.badge {
+  border-radius: $border-radius-sketchy;
+
+  &-pill {
+    border-radius: 7rem 8rem 8rem 8rem / 4rem 5rem 6rem 6rem;
+  }
+}
+
+.alert {
+  border-radius: $border-radius-sketchy;
+}
+
+// Containers ==================================================================
+
+.tooltip {
+  &-inner {
+    border-radius: $border-radius-sketchy;
+  }
+}
