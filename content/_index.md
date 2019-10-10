@@ -1,6 +1,6 @@
 ---
 title: "Salut =)"
-description: "Je m'appelle Victor Massé"
+description: "Auteur, musicien, activiste, consultant"
 images:
   - photo.png
 twitter: inwardmovement
