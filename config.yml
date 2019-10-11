@@ -9,7 +9,7 @@ rssLimit: 10
 enableRobotsTXT: true
 disableKinds: ["taxonomy", "taxonomyTerm"]
 params:
-  description: "Victor Massé"
+  description: "Auteur, musicien, activiste, consultant"
   author: "Victor Massé"
 author:
   name: "Victor Massé"

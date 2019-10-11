@@ -1,5 +1,5 @@
 <meta name="author" content="{{ .Site.Params.author }}">
-<meta name="description" content="{{ .Site.Title }} : {{ .Site.Params.description }}">
+<meta name="description" content="{{ .Site.Params.description }}">
 {{ hugo.Generator }}
 {{ with (getenv "CI") }}
   <meta name="version" content="{{ substr (getenv "TRAVIS_COMMIT") 0 7 }}">
@@ -13,4 +13,4 @@
     {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
 {{ end }}
 {{ partial "styles" . }}
-<title>{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Title }}{{ end }} | {{ .Site.Title }}</title>
+<title>{{ if .IsHome }}{{ .Site.Title }} | {{ .Site.Params.description }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>

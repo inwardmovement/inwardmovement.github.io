@@ -1,6 +1,8 @@
 ---
-title: "Salut =)"
+title: "Inward Movement"
 description: "Auteur, musicien, activiste, consultant"
+customTitle: "Salut =)"
+presentation: "Je m'appelle Victor Massé"
 images:
   - photo.png
 twitter: inwardmovement
