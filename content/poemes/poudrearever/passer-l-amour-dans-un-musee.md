@@ -14,7 +14,7 @@ je la rattraperai par le cœur
 et je la brancherai au mien
 je nourrirai toutes ses faims
 de veine à veine — c'est pour toi
-et notre sang n'en fera qu'un
+et notre sang ne fera qu'un
 
 elle sera mon enfant ma femme et ma déesse
 je serai son refuge et sa bête
