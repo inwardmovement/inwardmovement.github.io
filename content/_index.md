@@ -15,11 +15,11 @@ github: inwardmovement
 
 ---
 
-- Consultant en dév. personnel chez [Metta Conseil](https://mettaconseil.fr)
+- Consultant en développement personnel chez [Metta Conseil](https://mettaconseil.fr)
 
 ---
 
-- Consultant en organisation chez [Metta Conseil Pro](https://pro.mettaconseil.fr)
+- Consultant en organisation et développeur web chez [Metta Conseil Pro](https://pro.mettaconseil.fr)
 
 ---
 
