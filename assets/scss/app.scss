@@ -114,6 +114,17 @@ p + .alert {
   margin-bottom: 0;
 }
 
+a[title].abbr , a[data-original-title].abbr {
+  color: inherit;
+  text-decoration: underline;
+  -webkit-text-decoration: underline dotted;
+  text-decoration: underline dotted;
+  cursor: help;
+  border-bottom: 0;
+  -webkit-text-decoration-skip-ink: none;
+  text-decoration-skip-ink: none;
+}
+
 /************************************************************
   CONTAINER
 ************************************************************/

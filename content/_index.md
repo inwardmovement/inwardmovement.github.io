@@ -19,7 +19,7 @@ github: inwardmovement
 
 ---
 
-- Consultant en organisation et développeur web chez [Metta Conseil Pro](https://pro.mettaconseil.fr)
+- Consultant en organisation et développeur <a class="abbr" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="C'est une nouvelle façon de créer des sites Web et applications offrant de meilleures performances, une sécurité accrue, une évolutivité à cout réduit et une meilleure expérience de développement." tabindex="0">JAMstack</a> chez [Metta Conseil Pro](https://pro.mettaconseil.fr)
 
 ---
 

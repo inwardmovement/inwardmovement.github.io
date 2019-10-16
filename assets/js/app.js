@@ -22,3 +22,13 @@ $('#recueils-collapse')
   .on('hide.bs.collapse', function () {
     this.style.display = "none";
   })
+
+// ENABLE POPOVERS
+$(function () {
+  $('[data-toggle="popover"]').popover()
+})
+
+// ENABLE TOOLTIPS
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
