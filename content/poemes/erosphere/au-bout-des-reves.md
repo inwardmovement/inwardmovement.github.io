@@ -13,7 +13,7 @@ s'acharne à dire la vie
 sur le ton du sourire
 
 elle observe elle en rit
-elle écrit et le crit
+elle écrit et le crie
 
 face à l'ombre étrange qui guette aux recoins
 
