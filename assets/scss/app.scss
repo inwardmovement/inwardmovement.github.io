@@ -323,11 +323,17 @@ main.container.article {
 
 .recueils-subtext {
   margin-top: -40px;
+  text-align: right;
 
   img {
     width: 30px;
     padding-bottom: 10px;
   }
+
+  @include media-breakpoint-up(md) {
+    text-align: center;
+  }
+
 }
 
 /************************************************************
