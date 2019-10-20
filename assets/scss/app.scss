@@ -330,10 +330,14 @@ main.container.article {
     padding-bottom: 10px;
   }
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: 395px) {
     text-align: center;
+    margin-left: 175px;
   }
 
+  @include media-breakpoint-up(md) {
+    margin-left: 0;
+  }
 }
 
 /************************************************************
