@@ -264,23 +264,25 @@ main.container.article {
   }
 }
 
-.nav-recueils {
+#nav-recueils {
   margin-bottom: 56px;
 
   .breadcrumb {
     border-radius: 0px;
     margin-bottom: 0px;
+    display: block;
+
+    @include media-breakpoint-up(md) {
+      .collapse {
+        display: flex;
+        justify-content: center;
+      }
+    }
 
     .breadcrumb-item + .breadcrumb-item::before {
       @include media-breakpoint-down(sm) {
         display: none;
       }
-    }
-  }
-
-  #recueils-collapse {
-    @include media-breakpoint-up(md) {
-      display: contents !important;
     }
   }
 
@@ -295,7 +297,7 @@ main.container.article {
 }
 
 @include media-breakpoint-down(sm) {
-  .nav-recueils {
+  #nav-recueils {
     ul li {
       width: 100%;
       padding-left: 0rem;

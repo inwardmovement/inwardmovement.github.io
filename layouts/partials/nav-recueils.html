@@ -1,7 +1,7 @@
-<nav class="nav-recueils" aria-label="Navigation recueils">
-  <ul class="breadcrumb">
-    <button type="button" class="btn btn-secondary d-md-none" data-toggle="collapse" data-target="#recueils-collapse" aria-controls="recueils-collapse" aria-expanded="false" aria-label="Ouvrir navigation recueils"><i class="material-icons" style="vertical-align: sub;">menu</i> Recueils</button>
-    <div id="recueils-collapse" class="collapse">
+<nav id="nav-recueils" aria-label="Navigation recueils">
+  <ul class="breadcrumb text-center">
+    <button class="btn btn-secondary d-md-none text-center" type="button" data-toggle="collapse" data-target="#recueils" aria-controls="recueils" aria-expanded="false" aria-label="Ouvrir navigation recueils"><i class="material-icons" style="vertical-align: sub;">menu</i> Recueils</button>
+    <div id="recueils" class="collapse">
       {{ $currentPage := . }}
       {{ range .Site.Menus.recueils }}
         {{ $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $currentPage.Params.recueil) }}
