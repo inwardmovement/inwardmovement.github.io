@@ -1,7 +1,7 @@
 {
 	"New article": {
 		"scope": "plaintext,markdown",
-		"prefix": "ar",
+		"prefix": "@a",
 		"body": [
 			"---",
       "title: \"$1\"",
