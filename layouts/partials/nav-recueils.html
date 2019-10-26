@@ -2,11 +2,13 @@
   <ul class="breadcrumb text-center">
     <button class="btn btn-secondary d-md-none text-center" type="button" data-toggle="collapse" data-target="#recueils" aria-controls="recueils" aria-expanded="false" aria-label="Ouvrir navigation recueils"><i class="material-icons" style="vertical-align: sub;">menu</i> Recueils</button>
     <div id="recueils" class="collapse">
-      {{ $currentPage := . }}
-      {{ range .Site.Menus.recueils }}
-        {{ $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $currentPage.Params.recueil) }}
-        <li class="breadcrumb-item{{ if $isCurrent }} active{{ end }}"><a href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a></li>
-      {{ end }}
+      <div id="recueils-items">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.recueils }}
+          {{ $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $currentPage.Params.recueil) }}
+          <li class="breadcrumb-item{{ if $isCurrent }} active{{ end }}"><a href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a></li>
+        {{ end }}
+      </div>
     </div>
   </ul>
 </nav>

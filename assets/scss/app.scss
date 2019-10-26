@@ -262,9 +262,13 @@ main.container.article {
   margin-right: 0 !important;
 }
 
+.navbar-nav {
+  padding-top: 0.25rem;
+}
+
 @include media-breakpoint-up(md) {
-  .navbar-collapse {
-    margin-top: initial;
+  .navbar-nav {
+    padding-top: initial;
   }
 }
 
@@ -307,10 +311,6 @@ main.container.article {
       padding-left: 0rem;
       line-height: 1.5;
 
-      &:first-of-type {
-        margin-top: 8px;
-      }
-
       a {
         display: block;
         line-height: 2.5;
@@ -324,6 +324,18 @@ main.container.article {
     .breadcrumb-item + .breadcrumb-item {
       padding-left: 0;
     }
+  }
+}
+
+#recueils-items {
+  padding-top: 0.75rem;
+}
+
+@include media-breakpoint-up(md) {
+  #recueils-items {
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
   }
 }
 
