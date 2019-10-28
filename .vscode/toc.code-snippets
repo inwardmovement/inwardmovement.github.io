@@ -1,0 +1,10 @@
+{
+  "toc": {
+		"scope": "plaintext,markdown",
+		"prefix": "toc",
+		"body": [
+      "{{< toc >}}"
+		],
+		"description": ""
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "quote": {
+		"scope": "plaintext,markdown",
+		"prefix": "quote",
+		"body": [
+      "{{< quote \"$1\" >}}",
+      "$0",
+			"{{< /quote >}}",
+		],
+		"description": ""
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "home-box": {
+		"scope": "plaintext,markdown",
+		"prefix": "home-box",
+		"body": [
+      "{{< home-box \"$1\" >}}",
+      "$0",
+			"{{< /home-box >}}",
+		],
+		"description": ""
+	}
+}
