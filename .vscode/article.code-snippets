@@ -6,7 +6,7 @@
 			"---",
       "title: \"$1\"",
       "description: \"$2\"",
-      "date: $3",
+      "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
       "categories:",
       "  - \"Relations interpersonnelles\"",
       "  - \"Philosophie analytique\"",

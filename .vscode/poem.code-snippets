@@ -6,7 +6,7 @@
 			"---",
       "title: \"$1\"",
       "description: \"Poème\"",
-      "date: $2",
+      "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
       "recueil: erosphere",
       "---",
       "",
