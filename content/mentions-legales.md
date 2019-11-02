@@ -14,6 +14,9 @@ San Francisco, CA 94107
 United States
 +1 (877) 448-4820
 
+# Cookies
+Ce site Internet n'utilise pas de cookies.
+
 # Données personnelles
 ## Point de contact
 Utiliser le bouton de contact.
