@@ -31,15 +31,15 @@ github: inwardmovement
 
 ---
 
-- Philosophie analytique
+- Progrès social
 
 ---
 
-- Relations interpersonnelles
+- Vision systémique / à long terme
 
 ---
 
-- Méthode scientifique
+- Intelligence collective
 
 ---
 
