@@ -749,10 +749,10 @@ blockquote {
   FOOTER
 ************************************************************/
 footer {
-  margin-top: 208px;
+  // margin-top: 208px;
 
   @include media-breakpoint-up(md) {
-    margin-top: 168px;
+    // margin-top: 168px;
   }
 }
 
