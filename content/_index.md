@@ -27,21 +27,25 @@ github: inwardmovement
 {{< /home-box >}}
 
 {{< home-box "Ce qui **m'intéresse**" >}}
-- Entrainement de l'esprit
+
+- Développement personnel
+  - entrainement de l'esprit
+  - scepticisme scientifique et philosophique
+  - philosophie analytique
 
 ---
 
 - Progrès social
+  - vision systémique / à long terme
+  - intelligence collective
+  - éducation bienveillante
 
 ---
 
-- Vision systémique / à long terme
+- Développement web
+  - UX / DX
+  - architecture de l'information
+  - design minimaliste
+  - JAMstack
 
----
-
-- Intelligence collective
-
----
-
-- Éducation bienveillante
 {{< /home-box >}}
