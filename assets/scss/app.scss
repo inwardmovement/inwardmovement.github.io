@@ -130,7 +130,7 @@ a[title].abbr , a[data-original-title].abbr {
 ************************************************************/
 main.container {
   max-width: 1140px;
-  margin-bottom: 112px;
+  margin-bottom: 7rem;
 }
 
 main.container.article {
@@ -236,7 +236,7 @@ main.container.article {
   NAV
 ************************************************************/
 .navbar {
-  margin-bottom: 56px;
+  margin-bottom: 3.5rem;
 
   .container {
     max-width: 1108px;
@@ -273,7 +273,7 @@ main.container.article {
 }
 
 #nav-recueils {
-  margin-bottom: 56px;
+  margin-bottom: 3.5rem;
 
   .breadcrumb {
     border-radius: 0px;
@@ -295,7 +295,7 @@ main.container.article {
   }
 
   ul {
-    margin-top: -56px;
+    margin-top: -3.5rem;
     justify-content: center;
 
     li.active a {
@@ -548,7 +548,6 @@ article {
 }
 
 .home article {
-  text-align: center;
   max-width: none;
 }
 
@@ -579,31 +578,27 @@ article {
 ************************************************************/
 .home {
   .presentation {
-    display: grid;
-    grid-template-rows: 1fr 1fr;
-    grid-column-gap: 1rem;
+    text-align: center;
 
     @include media-breakpoint-up(md) {
-      grid-template-rows: 1fr;
-      grid-template-columns: 1fr 1fr;
-      grid-column-gap: 1rem;
-      margin-bottom: 1.5rem;
+      display: flex;
+      column-gap: 1rem;
+      margin: 3.5rem 0;
+      text-align: left;
+
+      div {
+        width: 50%;
       }
 
-    div {
-      position: relative;
-    }
+      .text {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        padding-bottom: 0.75rem;
 
-    .text {
-      p {
-        margin-bottom: 0 !important;
-      }
-
-      @include media-breakpoint-up(md) {
-        position: absolute;
-        bottom: 0;
-        text-align: left;
-        margin-bottom: 0.75rem;
+        p {
+          margin-bottom: 0;
+        }
       }
     }
 
@@ -612,15 +607,45 @@ article {
       filter: brightness(170%);
 
       @include media-breakpoint-up(md) {
-        grid-template-rows: 1fr;
-        grid-template-columns: 1fr 1fr;
-        grid-column-gap: 1rem;
-        float: right !important;
+        float: right;
+      }
+    }
+  }
+
+  .home-box-container {
+    margin: 3rem 1.5rem 3.5rem 1.5rem;
+
+    .home-box {
+      margin-bottom: 3rem;
+
+      h2 {
+        text-align: center;
+        margin-top: 1.25rem;
+        padding: 0 1.25rem;
+      }
+
+      ul {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    .home-box-container {
+      display: flex;
+      column-gap: 4rem;
+      margin: 3.5rem 2rem;
+
+      .home-box {
+        margin-bottom: initial;
+        width: 50%;
       }
     }
   }
 
   #social {
+    text-align: center;
+
     a {
       margin-left: 0.25rem;
       font-weight: 600;
@@ -631,6 +656,7 @@ article {
       vertical-align: sub;
       fill: #fff;
     }
+
     .twitter {
       color: #fff;
       background-color: #1DA1F2;
@@ -642,6 +668,7 @@ article {
         border-color: #1A90D9;
       }
     }
+
     .linkedin {
       color: #fff;
       background-color: #0077B5;
@@ -653,6 +680,7 @@ article {
         border-color: #00659C;
       }
     }
+
     .github {
       color: #fff;
       background-color: #171515;
@@ -663,49 +691,6 @@ article {
         background-color: #3D3636;
         border-color: #3D3636;
       }
-    }
-  }
-}
-
-.home-box-container {
-  margin-bottom: 1.5rem;
-
-  .box {
-    text-align: left;
-    padding: 1.5rem;
-
-    h2 {
-      text-align: center;
-      margin-top: 1.25rem;
-      padding-left: 1.25rem;
-      padding-right: 1.25rem;
-    }
-  }
-
-  > .box ul {
-    margin-bottom: 0;
-  }
-}
-
-@include media-breakpoint-up(md) {
-  .home-box-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-
-    .box {
-      text-align: left;
-      padding: 2rem;
-
-      h2 {
-        text-align: center;
-        margin-top: 1.25rem;
-        padding-left: 1.25rem;
-        padding-right: 1.25rem;
-      }
-    }
-
-    > .box ul {
-      margin-bottom: 0;
     }
   }
 }
@@ -748,14 +733,6 @@ blockquote {
 /************************************************************
   FOOTER
 ************************************************************/
-footer {
-  // margin-top: 208px;
-
-  @include media-breakpoint-up(md) {
-    // margin-top: 168px;
-  }
-}
-
 .nav-footer {
   position: absolute;
   bottom: 0;
@@ -765,6 +742,7 @@ footer {
   .navbar-nav {
     -ms-flex-direction: column;
     flex-direction: column;
+    padding-top: initial;
 
     @include media-breakpoint-up(md) {
       -ms-flex-direction: row;
