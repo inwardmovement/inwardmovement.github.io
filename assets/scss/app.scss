@@ -582,9 +582,13 @@ article {
 
     @include media-breakpoint-up(md) {
       display: flex;
-      column-gap: 1rem;
+      // column-gap: 1rem; not yet supported in Chrome, Edge
       margin: 3.5rem 0;
       text-align: left;
+
+      div:nth-child(2) {
+        margin-left: 1rem; // fix column-gap not yet supported in Chrome, Edge
+      }
 
       div {
         width: 50%;
@@ -633,8 +637,12 @@ article {
   @include media-breakpoint-up(md) {
     .home-box-container {
       display: flex;
-      column-gap: 4rem;
+      // column-gap: 4rem; not yet supported in Chrome, Edge
       margin: 3.5rem 2rem;
+
+      .home-box:nth-child(2) {
+        margin-left: 4rem; // fix column-gap not yet supported in Chrome, Edge
+      }
 
       .home-box {
         margin-bottom: initial;
