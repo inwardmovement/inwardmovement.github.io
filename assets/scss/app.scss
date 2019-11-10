@@ -639,6 +639,7 @@ article {
       display: flex;
       // column-gap: 4rem; not yet supported in Chrome, Edge
       margin: 3.5rem 2rem;
+      align-items: flex-start;
 
       .home-box:nth-child(2) {
         margin-left: 4rem; // fix column-gap not yet supported in Chrome, Edge
