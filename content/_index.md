@@ -37,6 +37,7 @@ github: inwardmovement
 
 - Progrès social
   - vision systémique / à long terme
+  - systèmes de prise de décision
   - intelligence collective
   - éducation bienveillante
 
