@@ -46,7 +46,6 @@ github: inwardmovement
 - Développement web
   - UX / DX
   - architecture de l'information
-  - design minimaliste
   - JAMstack
 
 {{< /home-box >}}
