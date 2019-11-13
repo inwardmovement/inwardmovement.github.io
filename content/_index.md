@@ -39,7 +39,7 @@ github: inwardmovement
 
 - Progrès social
   - éthique <a class="abbr" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="Accordant la priorité à l'allègement de la souffrance." tabindex="0">algo-prioritariste</a>
-  - vision systémique / à long terme
+  - vision systémique / transversale / à long terme
   - stratégie et fertilisation croisée
   - intelligence collective
   - systèmes de prise de décision
