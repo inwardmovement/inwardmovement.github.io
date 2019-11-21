@@ -32,3 +32,17 @@ $(function () {
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 })
+
+// DISCORD COPY
+function copyDiscord(discordTag) {
+  navigator.clipboard.writeText(discordTag).then(function() {
+    /* success */
+    $('button.discord').tooltip('show');
+      setTimeout(function(){
+        $('button.discord').tooltip('hide')
+      }, 2000);
+  }, function() {
+    /* fail */
+  });
+}
+

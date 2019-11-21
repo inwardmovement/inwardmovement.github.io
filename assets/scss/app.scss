@@ -655,7 +655,7 @@ article {
   #social {
     text-align: center;
 
-    a {
+    a, button {
       margin-left: 0.25rem;
       font-weight: 600;
     }
@@ -666,27 +666,16 @@ article {
       fill: #fff;
     }
 
-    .twitter {
+    .discord {
       color: #fff;
-      background-color: #1DA1F2;
-      border-color: #1DA1F2;
+      background-color: #7289DA;
+      border-color: #7289DA;
+      font-family: $font-family-monospace;
 
       &:hover {
         color: #fff;
-        background-color: #1A90D9;
-        border-color: #1A90D9;
-      }
-    }
-
-    .linkedin {
-      color: #fff;
-      background-color: #0077B5;
-      border-color: #0077B5;
-
-      &:hover {
-        color: #fff;
-        background-color: #00659C;
-        border-color: #00659C;
+        background-color: lighten($color: #7289DA, $amount: 5);
+        border-color: lighten($color: #7289DA, $amount: 5);
       }
     }
 
@@ -697,8 +686,8 @@ article {
 
       &:hover {
         color: #fff;
-        background-color: #3D3636;
-        border-color: #3D3636;
+        background-color: lighten($color: #171515, $amount: 20);
+        border-color: lighten($color: #171515, $amount: 20);
       }
     }
   }

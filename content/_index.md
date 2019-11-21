@@ -5,9 +5,8 @@ customTitle: "Salut =)"
 presentation: "Je m'appelle Victor Massé"
 images:
   - photo.png
-twitter: inwardmovement
-linkedin: inwardmovement
 github: inwardmovement
+discord: Vic#6419
 ---
 
 {{< home-box "Ce qui **m'intéresse**" >}}
