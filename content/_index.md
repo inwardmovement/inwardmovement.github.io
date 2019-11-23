@@ -22,16 +22,13 @@ discord: Vic#6419
   - éthique <a class="abbr" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="Accordant la priorité à l'allègement de la souffrance." tabindex="0">algo-prioritariste</a>
   - vision systémique / transversale / à long terme
   - stratégie et fertilisation croisée
-  - intelligence collective
-  - systèmes de prise de décision
+  - intelligence collective et systèmes de prise de décision
   - éducation bienveillante
 
 ---
 
 - Développement web
-  - bonnes pratiques
-  - architecture de l'information
-  - design minimaliste
+  - UX design
   - <a class="abbr" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="C'est une nouvelle façon de créer des sites Web et applications offrant de meilleures performances, une sécurité accrue, une évolutivité à cout réduit et une meilleure expérience de développement." tabindex="0">JAMstack</a>
 
 {{< /home-box >}}
