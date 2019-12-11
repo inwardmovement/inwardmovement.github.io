@@ -27,6 +27,8 @@ function html() {
     }))
     .pipe(replace('&laquo;', '&laquo;&#160;'))
     .pipe(replace('&raquo;', '&#160;&raquo;'))
+    .pipe(replace('«', '&laquo;&#160;'))
+    .pipe(replace('»', '&#160;&raquo;'))
     .pipe(replace(' :', '&#160;:'))
     .pipe(replace(' ;', '&#160;;'))
     .pipe(replace(' !', '&#160;!'))
