@@ -13,11 +13,26 @@ params:
   author: "Victor Massé"
 author:
   name: "Victor Massé"
-blackfriday:
-  angledQuotes: true
-  extensions:
-    - hardLineBreak
-    - noEmptyLineBeforeBlock
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: true
+      unsafe: true
+      xHTML: false
+  tableOfContents:
+    startLevel: 1
+    endLevel: 5
 footnoteReturnLinkContents: "↑"
 menu:
   main:
