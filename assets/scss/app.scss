@@ -125,6 +125,12 @@ a[title].abbr , a[data-original-title].abbr {
   text-decoration-skip-ink: none;
 }
 
+@include media-breakpoint-down(xs) {
+  ol, ul, dl {
+    padding-left: 20px;
+  }
+}
+
 /************************************************************
   CONTAINER
 ************************************************************/
