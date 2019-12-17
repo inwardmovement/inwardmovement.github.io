@@ -1,7 +1,7 @@
 {
   "alert": {
 		"scope": "plaintext,markdown",
-		"prefix": "alert",
+		"prefix": "@alert",
 		"body": [
       "{{< alert \"$1\" >}}",
       "$0",

@@ -1,7 +1,7 @@
 {
   "New poem": {
 		"scope": "plaintext,markdown",
-		"prefix": "@p",
+		"prefix": "@poem",
 		"body": [
 			"---",
       "title: \"$1\"",

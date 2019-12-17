@@ -131,6 +131,14 @@ a[title].abbr , a[data-original-title].abbr {
   }
 }
 
+// Fix * interpreted as ul-li in production
+.grid-poems article ul {
+  padding-left: .5em;
+  padding-top: 1em;
+  list-style-type: "*";
+  font-size: 1.2em;
+}
+
 /************************************************************
   CONTAINER
 ************************************************************/

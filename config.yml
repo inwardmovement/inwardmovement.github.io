@@ -4,7 +4,7 @@ defaultContentLanguage: "fr"
 title: "Inward Movement"
 canonifyURLs: true
 disableFastRender: true
-disableLiveReload: false
+disableLiveReload: true
 metaDataFormat: yaml
 rssLimit: 10
 enableRobotsTXT: true

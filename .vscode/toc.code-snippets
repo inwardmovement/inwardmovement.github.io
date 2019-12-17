@@ -1,7 +1,7 @@
 {
   "toc": {
 		"scope": "plaintext,markdown",
-		"prefix": "toc",
+		"prefix": "@toc",
 		"body": [
       "{{< toc >}}"
 		],
