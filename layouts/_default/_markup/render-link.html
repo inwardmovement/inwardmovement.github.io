@@ -1,1 +1,0 @@
-<a href="{{ .Destination | safeURL }}"{{ if ne true (in (urls.Parse .Destination).Host "inwardmovement.github.io") }}{{ end }}>{{ .Text }}</a><br>
