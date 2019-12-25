@@ -1,4 +1,5 @@
 {{ $mainCSS := resources.Get "scss/app.scss" | resources.ToCSS | resources.PostCSS (dict "use" "autoprefixer") }}
+{{ $mainCSS = slice $mainCSS | resources.Concat "main.css" }}
 {{ if not .Site.IsServer }}
   {{ $mainCSS = $mainCSS | minify | fingerprint }}
 {{ end }}
