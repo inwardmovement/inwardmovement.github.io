@@ -9,7 +9,7 @@ env:
   CI: true
   NODE_VERSION: '12.14.0'
   HUGO_VERSION: '0.62.0'
-  PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN_GH_PAGES }}
+  GITHUB_PAT: ${{ secrets.PERSONAL_TOKEN_GH_PAGES }}
 
 jobs:
   build-and-deploy:
@@ -37,9 +37,8 @@ jobs:
       run: npm run build-prod
       if: success()
     - name: Deploy site
-      uses: peaceiris/actions-gh-pages@v2
-      env:
-        PERSONAL_TOKEN: ${{ env.PERSONAL_TOKEN }}
-        PUBLISH_BRANCH: master
-        PUBLISH_DIR: ./public
+      uses: crazy-max/ghaction-github-pages@v1
+      with:
+        target_branch: master
+        build_dir: public
       if: success()
