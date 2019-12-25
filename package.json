@@ -4,7 +4,9 @@
   "description": "Personal website",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "hugo server -DEF --i18n-warnings",
+    "build-dev": "hugo --buildDrafts --buildExpired --buildFuture --baseURL https://preview.algosphere.org/ --i18n-warnings && gulp",
+    "build-prod": "hugo --i18n-warnings --minify && gulp"
   },
   "repository": {
     "type": "git",
@@ -17,15 +19,13 @@
   },
   "homepage": "https://github.com/inwardmovement/inwardmovement.github.io",
   "devDependencies": {
-    "del": "^3.0.0",
     "gulp": "^4.0.2",
-    "gulp-imagemin": "^6.1.0",
-    "gulp-imgconv": "^0.6.4",
+    "gulp-imagemin": "^6.2.0",
     "gulp-pretty-html": "^2.0.10",
     "gulp-replace": "^0.6.1",
     "imagemin-gifsicle": "^6.0.1",
     "imagemin-jpegtran": "^6.0.0",
-    "imagemin-optipng": "^7.0.0",
+    "imagemin-optipng": "^7.1.0",
     "imagemin-svgo": "^7.0.0"
   }
 }

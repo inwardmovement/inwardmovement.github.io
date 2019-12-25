@@ -1,22 +1,7 @@
 const { src, dest, series } = require('gulp'),
       replace               = require('gulp-replace'),
       beautify              = require('gulp-pretty-html'),
-      exec                  = require('child_process').exec,
-      imagemin              = require('gulp-imagemin'),
-      imgconv               = require('gulp-imgconv'),
-      del                   = require('del');
-
-function reset() {
-  return del('public')
-}
-
-function hugo(fetch) {
-  exec('hugo', function (err, stdout, stderr) {
-    console.log(stdout);
-    console.log(stderr);
-    fetch(err);
-  })
-}
+      imagemin              = require('gulp-imagemin');
 
 function html() {
   return src('public/**/*.html')
@@ -35,8 +20,8 @@ function html() {
     .pipe(replace(' ?', '&#160;?'))
     .pipe(replace(' %', '&#160;%'))
     .pipe(replace(' €', '&#160;€'))
-    .pipe(replace(' <i ', '&#160;<i '))
-    .pipe(replace('</i> ', '</i>&#160;'))
+    .pipe(replace(' <svg', '&#160;<svg'))
+    .pipe(replace('</svg> ', '</svg>&#160;'))
     .pipe(dest('public'))
 }
 
@@ -49,4 +34,4 @@ function imgGlobal() {
     .pipe(dest('public/img'))
 }
 
-exports.default = series(reset, hugo, html, imgGlobal);
+exports.default = series(html, imgGlobal);

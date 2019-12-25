@@ -1,21 +1,22 @@
-[![Hugo version](https://img.shields.io/badge/Hugo-0.62.0-blue.svg)](https://gohugo.io/) 
-[![Bootstrap version](https://img.shields.io/badge/Bootstrap-4.3.1-blue.svg)](http://getbootstrap.com/) 
-[![Build status](https://travis-ci.org/inwardmovement/inwardmovement.github.io.svg)](https://travis-ci.org/inwardmovement/inwardmovement.github.io) 
-[![W3C validator status](https://img.shields.io/badge/W3C-check-lightgrey.svg)](https://validator.w3.org/check?uri=https://inwardmovement.github.io/) 
+## Versions
+ - Hugo `0.62.0`
+ - Bootstrap `4.4.1`
+ - Node.js `12.14.0`
 
----
+## CI/CD
+![ci-cd-source](https://github.com/inwardmovement/inwardmovement.github.io/workflows/ci-cd-source/badge.svg?branch=source)
 
-Requirements:
-- install [Hugo](https://gohugo.io/)
-- install [Node.js](https://nodejs.org/en/)
-- install PostCSS CLI globally: `npm i -g postcss-cli`
-- install Autoprefixer globally: `npm i -g autoprefixer`
-- install the dependencies: `npm i`
-
-To develop locally, run `hugo server`.
-
-Later improvements:
-- integrate Gulp post-processing inside Hugo pipes when it becomes possible, see [5632](https://github.com/gohugoio/hugo/issues/5632).
-
-Limitations:
-- we cannot use Bootstrap with `npm` for now as Hugo cannot create a JS "ressource" (to include it to its pipeline) from a `node_module`. See [5832](https://github.com/gohugoio/hugo/issues/5832) and [5567](https://github.com/gohugoio/hugo/issues/5567).
+## To develop locally
+- Install the corresponding version of [Hugo](https://gohugo.io/)
+- Install the corresponding version of [Node.js via nvm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+  - On Windows:
+    - Install [nvm-windows](https://github.com/coreybutler/nvm-windows#installation--upgrades)
+    - Run `nvm install [Node.js version]` (in an Admin shell)
+    - Run `nvm use [Node.js version]` (in an Admin shell)
+  - On OSX and Linux:
+    - Install [nvm](https://github.com/nvm-sh/nvm#installation-and-update)
+    - Run `nvm install [Node.js version]`
+    - Run `nvm use [Node.js version]`
+- Install dependencies: `npm i`
+- Install [Netlify CLI](https://docs.netlify.com/cli/get-started/), [gulp-cli](https://www.npmjs.com/package/gulp-cli), [PostCSS CLI](https://github.com/postcss/postcss-cli) and [Autoprefixer](https://github.com/postcss/autoprefixer) globally: `npm i -g netlify-cli gulp-cli postcss-cli autoprefixer`
+- Clone the repo and run `npm start` from root
