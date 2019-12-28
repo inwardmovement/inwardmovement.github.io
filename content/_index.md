@@ -4,9 +4,9 @@ description: "Auteur, musicien, activiste, consultant"
 customTitle: "Salut =)"
 presentation: "Je m'appelle Victor"
 images:
-  - photo.png
-github: inwardmovement
-discord: Vic#6419
+  - "photo.png"
+github: "inwardmovement"
+discord: "Vic#6419"
 ---
 
 {{< home-box "Ce qui **m'intéresse**" >}}
