@@ -10,6 +10,7 @@ env:
   NODE_VERSION: '12.14.0'
   HUGO_VERSION: '0.62.0'
   GITHUB_PAT: ${{ secrets.PERSONAL_TOKEN_GH_PAGES }}
+  GITHUB_COMMIT_MESSAGE: ${{ github.event.commits[0].message }}
 
 jobs:
   build-and-deploy:
