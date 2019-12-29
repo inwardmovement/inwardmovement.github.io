@@ -9,6 +9,7 @@ env:
   CI: true
   NODE_VERSION: '12.14.0'
   HUGO_VERSION: '0.62.0'
+  DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
   GITHUB_PAT: ${{ secrets.PERSONAL_TOKEN_GH_PAGES }}
   GITHUB_COMMIT_MESSAGE: ${{ github.event.commits[0].message }}
 
@@ -43,3 +44,9 @@ jobs:
         target_branch: master
         build_dir: public
       if: success()
+    - name: Notify Discord on failure
+      uses: rjstone/discord-webhook-notify@v1
+      if: failure()
+      with:
+        text: CI/CD failed
+        webhookUrl: ${{ env.DISCORD_WEBHOOK }}
