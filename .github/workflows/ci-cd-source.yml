@@ -48,5 +48,5 @@ jobs:
       uses: rjstone/discord-webhook-notify@v1
       if: success()
       with:
-        text: CI/CD success
+        text: CI/CD failed
         webhookUrl: ${{ env.DISCORD_WEBHOOK }}
