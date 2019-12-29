@@ -17,11 +17,7 @@ function html() {
     .pipe(replace(' €', '&#160;€'))
     .pipe(replace(' <svg', '&#160;<svg'))
     .pipe(replace('</svg> ', '</svg>&#160;'))
-    .pipe(beautify({
-      indent_size: 2,
-      preserve_newlines: false,
-      extra_liners: []
-    }))
+
     .pipe(dest('public'))
 }
 
