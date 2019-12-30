@@ -7,10 +7,10 @@
 
 <!-- External links -->
 <style>
-  {{ if .Site.IsServer }}
-    a[href*="//"]:not([href*="localhost"]):not(.no-external-icon)::after
+  {{ if (getenv "CI") }}
+    a[href^="http"]:not([href^="{{ .Site.BaseURL }}"]):not(.no-external-icon)::after
   {{ else }}
-    a[href*="//"]:not([href*="/inwardmovement.github.io"]):not(.no-external-icon)::after
+    a[href^="http"]:not([href^="http://localhost"]):not(.no-external-icon)::after
   {{ end }}
     {
       content: 'launch';
