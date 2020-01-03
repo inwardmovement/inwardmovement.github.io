@@ -39,11 +39,11 @@ discord: "Vic#6419"
 
 ---
 
-- Consultant en développement personnel chez [Metta Conseil](https://mettaconseil.fr)
+- Consultant en développement personnel chez [Metta Conseil](https://mettaconseil.com)
 
 ---
 
-- Consultant en organisation et développeur web chez [Metta Conseil Pro](https://pro.mettaconseil.fr)
+- Consultant en organisation et développeur web chez [Metta Conseil Pro](https://pro.mettaconseil.com)
 
 ---
 
