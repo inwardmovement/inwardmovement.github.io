@@ -11,7 +11,6 @@ env:
   HUGO_VERSION: '0.62.0'
   DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
   GITHUB_PAT: ${{ secrets.PERSONAL_TOKEN_GH_PAGES }}
-  GITHUB_COMMIT_MESSAGE: ${{ github.event.commits[0].message }}
 
 jobs:
   build-and-deploy:
