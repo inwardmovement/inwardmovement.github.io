@@ -45,4 +45,3 @@ function copyDiscord(discordTag) {
     /* fail */
   });
 }
-
