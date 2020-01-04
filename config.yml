@@ -3,7 +3,7 @@ languageCode: "fr"
 defaultContentLanguage: "fr"
 title: "Inward Movement"
 canonifyURLs: false
-relativeURLs : true
+relativeURLs: true
 disableFastRender: true
 disableLiveReload: true
 metaDataFormat: yaml

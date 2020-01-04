@@ -7,11 +7,7 @@
 
 <!-- External links -->
 <style>
-  {{ if (getenv "CI") }}
-    a[href^="http"]:not([href^="{{ .Site.BaseURL }}"]):not(.no-external-icon)::after
-  {{ else }}
-    a[href^="http"]:not([href^="http://localhost"]):not(.no-external-icon)::after
-  {{ end }}
+  a[href^="http"]:not([href^="{{ (urls.Parse .Page.Permalink).Scheme }}://{{ (urls.Parse .Page.Permalink).Host }}"]):not(.no-external-icon)::after
     {
       content: 'launch';
       padding-left: 4px;
