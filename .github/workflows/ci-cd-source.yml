@@ -6,7 +6,7 @@ on:
       - source
 
 env:
-  CI: true
+  PRODUCTION: true
   NODE_VERSION: '12.14.0'
   HUGO_VERSION: '0.62.2'
   DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
