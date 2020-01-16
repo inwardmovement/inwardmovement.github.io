@@ -676,10 +676,11 @@ article {
   }
 
   #social {
-    text-align: center;
+    display: flex;
+    justify-content: center;
 
     a, button {
-      margin-left: 0.25rem;
+      margin-right: 0.5em;
       font-weight: 600;
     }
 
