@@ -9,6 +9,24 @@ github: "inwardmovement"
 discord: "Vic#6419"
 ---
 
+{{< home-box "Ce que je **fais**" >}}
+
+- [Alliance Algosphère](https://algosphere.org/fr)
+  - Stratégie et amélioration continue
+  - Développement web
+
+---
+
+- [Metta Conseil](https://mettaconseil.com)
+  - Conseil en Organisation et Systèmes d'Information
+  - Développement web
+
+---
+
+- J'écris des [poèmes](poemes) et des [articles](articles), je fais de la [guitare électrique](https://www.youtube.com/user/arkay38/videos)
+
+{{< /home-box >}}
+
 {{< home-box "Ce qui **m'intéresse**" >}}
 
 - Développement personnel
@@ -30,23 +48,5 @@ discord: "Vic#6419"
 - Développement web
   - UX/DX
   - <a class="abbr" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="C'est une nouvelle façon de créer des sites Web et applications offrant de meilleures performances, une sécurité accrue, une évolutivité à cout réduit et une meilleure expérience de développement." tabindex="0">JAMstack</a>
-
-{{< /home-box >}}
-
-{{< home-box "Ce que je **fais**" >}}
-
-- Membre actif de l'[Alliance Algosphère](https://algosphere.org/fr)
-
----
-
-- Consultant en développement personnel chez [Metta Conseil](https://mettaconseil.com)
-
----
-
-- Consultant en organisation et développeur web chez [Metta Conseil Pro](https://pro.mettaconseil.com)
-
----
-
-- J'écris des [poèmes](poemes) et des [articles](articles), je fais de la [guitare électrique](https://www.youtube.com/user/arkay38/videos)
 
 {{< /home-box >}}
