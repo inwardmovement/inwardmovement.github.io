@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <main class="container">
+    <article>
+      <h1>{{ .Title }}</h1><br>
+        {{ range where .Site.Taxonomies.categories "Section" .Section }}
+          <h4>{{ .Page.Title }}</h4>
+          <ul>
+            {{ range .Pages.ByDate.Reverse }}
+              <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+            {{ end }}
+          </ul>
+        {{ end }}
+    </article>
+  </main>
+{{ end }}
