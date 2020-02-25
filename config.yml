@@ -9,7 +9,6 @@ disableLiveReload: true
 metaDataFormat: yaml
 rssLimit: 10
 enableRobotsTXT: true
-disableKinds: ["taxonomy", "taxonomyTerm"]
 params:
   description: "Auteur, musicien, activiste, consultant"
   author: "Victor Massé"
@@ -28,7 +27,7 @@ markup:
     parser:
       attribute: true
       autoHeadingID: true
-      autoHeadingIDType: github
+      autoHeadingIDType: blackfriday
     renderer:
       hardWraps: true
       unsafe: true
