@@ -14,15 +14,6 @@ function topFunction() {
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
 
-// MENU RECUEILS FIX
-$('#recueils-collapse')
-  .on('show.bs.collapse', function () {
-    this.style.display = "contents";
-})
-  .on('hide.bs.collapse', function () {
-    this.style.display = "none";
-  })
-
 // ENABLE POPOVERS
 $(function () {
   $('[data-toggle="popover"]').popover()
