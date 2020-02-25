@@ -1,7 +1,7 @@
 {{ define "main" }}
   {{ partial "nav-recueils" . }}
   <main class="container">
-    <div class="recueils-subtext text-muted ca"><img src="data:image/png;base64,{{ (resources.Get "/img/arrow.png" ).Content | base64Encode }}" alt="arrow"> choisis un recueil</div>
+    <div class="recueils-subtext text-muted ca"><img src="{{ (resources.Get "/img/arrow.png" ).RelPermalink }}" alt="arrow"> choisis un recueil</div>
     {{ .Content }}
   </main>
   {{ partial "top-btn" . }}

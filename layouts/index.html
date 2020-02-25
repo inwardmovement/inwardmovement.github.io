@@ -6,7 +6,7 @@
           {{ with .Params.images }}
             {{ range first 1 . }}
               {{ $photo := print "/img/" . }}
-              <img src="data:image/png;base64,{{ (resources.Get $photo ).Content | base64Encode }}" class="rounded" alt="Photo">
+              <img src="{{ (resources.Get $photo ).RelPermalink }}" class="rounded" alt="Photo">
             {{ end }}
           {{ end }}
         </div>
