@@ -8,7 +8,7 @@ on:
 env:
   PRODUCTION: true
   NODE_VERSION: '12.14.0'
-  HUGO_VERSION: '0.64.0'
+  HUGO_VERSION: '0.65.3'
   DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
   GITHUB_PAT: ${{ secrets.PERSONAL_TOKEN_GH_PAGES }}
 
@@ -51,4 +51,5 @@ jobs:
         webhookUrl: ${{ env.DISCORD_WEBHOOK }}
     - uses: actions/upload-artifact@v1
       with:
+        name: public
         path: public
