@@ -1,14 +1,6 @@
-## Versions
- - Hugo `0.65.3`
- - Bootstrap `4.4.1`
- - Node.js `12.14.0`
-
-## CI/CD
-![ci-cd-source](https://github.com/inwardmovement/inwardmovement.github.io/workflows/ci-cd-source/badge.svg?branch=source)
-
 ## To develop locally
-- Install the corresponding version of [Hugo](https://gohugo.io/)
-- Install the corresponding version of [Node.js via nvm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- Install [Hugo](https://gohugo.io/) (see version in [workflow file](/.github/workflows/ci-cd-source.yml))
+- Install [Node.js via nvm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (see version in [workflow file](/.github/workflows/ci-cd-source.yml))
   - On Windows:
     - Install [nvm-windows](https://github.com/coreybutler/nvm-windows#installation--upgrades)
     - Run `nvm install [Node.js version]` (in an Admin shell)
