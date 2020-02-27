@@ -9,7 +9,6 @@ env:
   PRODUCTION: true
   HUGO_VERSION: '0.65.3'
   NODE_VERSION: '12.14.0'
-  DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
   GITHUB_PAT: ${{ secrets.PERSONAL_TOKEN_GH_PAGES }}
 
 jobs:
@@ -49,9 +48,3 @@ jobs:
         name: public
         path: public
       if: success()
-    - name: Notify Discord on failure
-      uses: rjstone/discord-webhook-notify@v1
-      if: failure()
-      with:
-        text: CI/CD failed
-        webhookUrl: ${{ env.DISCORD_WEBHOOK }}
