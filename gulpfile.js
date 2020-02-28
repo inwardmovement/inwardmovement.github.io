@@ -27,7 +27,7 @@ function imgGlobal() {
   return src('public/img/**/*.*')
     .pipe(imagemin([
       imagemin.jpegtran({progressive: true}),
-      imagemin.optipng({optimizationLevel: 3}),
+      imagemin.optipng({optimizationLevel: 5}),
     ]))
     .pipe(dest('public/img'))
 }
