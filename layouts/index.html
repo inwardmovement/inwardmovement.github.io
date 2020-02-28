@@ -3,12 +3,7 @@
     <article>
       <div class="presentation">
         <div class="photo">
-          {{ with .Params.images }}
-            {{ range first 1 . }}
-              {{ $photo := print "/img/" . }}
-              <img src="{{ (resources.Get $photo ).RelPermalink }}" class="rounded" alt="Photo">
-            {{ end }}
-          {{ end }}
+          <img src="{{ (resources.Get "img/photo.png" ).RelPermalink }}" class="rounded" alt="Photo">
         </div>
         <div class="text"><br>
           <h1>{{ .Params.customTitle }}</h1>
