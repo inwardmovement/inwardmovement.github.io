@@ -3,6 +3,7 @@ title: "présence amoureuse"
 description: "Poème"
 date: 2019-06-06T08:00:33+02:00
 recueil: erosphere
+feature: true
 ---
 
 ne rien faire avec toi

@@ -44,7 +44,7 @@ je t'aime
 *
 
 montre-moi
-le saint calme qui t'habite
+le sain calme qui t'habite
 
 je m'élève et je m'allonge à ton contact
 
@@ -58,4 +58,4 @@ par abandon
 
 si bien que parfois je crois
 
-t'avoir en moi 
+t'avoir en moi

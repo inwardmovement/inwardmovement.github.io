@@ -3,6 +3,7 @@ title: "Minori"
 description: "Poème"
 date: 2019-11-11
 recueil: erosphere
+feature: true
 ---
 
 elle sera ma meilleure amie

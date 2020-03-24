@@ -3,6 +3,7 @@ title: "la fin du monde"
 description: "Poème"
 date: 2018-01-18
 recueil: erosphere
+feature: true
 ---
 
 quand tout sera éteint
