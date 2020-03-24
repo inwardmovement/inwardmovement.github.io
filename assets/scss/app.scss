@@ -148,7 +148,8 @@ a[title].abbr {
 }
 
 // Fix * interpreted as ul-li in production
-.grid-poems article ul {
+.grid-poems article ul,
+.poems article ul {
   padding-left: .5em;
   padding-top: 1em;
   list-style-type: "*";
