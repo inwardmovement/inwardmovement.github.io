@@ -23,6 +23,10 @@ discord: "Vic#6419"
 
 - J'écris des [poèmes](poemes) et des [articles](articles), je fais de la [guitare électrique](https://www.youtube.com/user/arkay38/videos)
 
+---
+
+- J'ai créé [KinkProfile](https://kinkprofile.netlify.app/)
+
 {{< /home-box >}}
 
 {{< home-box "Ce qui **m'intéresse**" >}}
