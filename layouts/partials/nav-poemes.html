@@ -8,6 +8,7 @@
           </div>
         {{ end }}
       {{ else }}
+        {{ partial "back-btn" . }}<br><br>
         {{ $currentPage := . }}
         {{ range where .Site.Pages.ByDate "Params.recueil" .Params.recueil }}
           {{ if eq .RelPermalink $currentPage.RelPermalink }}

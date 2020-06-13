@@ -159,6 +159,12 @@ a[title].abbr {
   display: none;
 }
 
+.grid-poems .back-btn {
+  width: 100%;
+  flex-basis: 100%;
+  margin-bottom: 1.25rem;
+}
+
 /************************************************************
   CONTAINER
 ************************************************************/
@@ -396,6 +402,7 @@ svg.bi {
   .pagination {
     justify-content: center;
     margin-top: 10px;
+    flex-wrap: wrap;
 
     @include media-breakpoint-up(md) {
         margin-top: 0;
@@ -417,7 +424,6 @@ svg.bi {
   nav.card {
     min-width: 210px;
     margin-bottom: 40px;
-    margin-top: 20px;
 
     ul {
       margin-bottom: 0px;
