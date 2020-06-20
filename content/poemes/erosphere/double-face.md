@@ -22,7 +22,7 @@ et fait dix mille trucs en même temps
 elle me conseille de me faire suivre
 et elle prend sa commission
 
-*
+\*
 
 bref on me dit dans l'oreillette
 que Margot est une agent double

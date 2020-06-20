@@ -14,7 +14,7 @@ et la nature nous guide à flots
 comme un habile jeu d'amants
 les yeux de l'un dans ceux de l'autre
 
-*
+\*
 
 et la route prend tout son sens
 

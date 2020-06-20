@@ -26,7 +26,7 @@ Nous sommes têtus
 Ce qu'il pleut de larmes
 Quand elles sourient
 
-*
+\*
 
 Chute vers le ciel
 La source des larmes

@@ -18,7 +18,7 @@ les cheveux sur le côté assise en tailleur aux yeux de tous
 à noter la parole qui doit l'être
 c'est pour la bonne cause
 
-*
+\*
 
 sa voix grave sait réciter la leçon
 adoucir les attaques

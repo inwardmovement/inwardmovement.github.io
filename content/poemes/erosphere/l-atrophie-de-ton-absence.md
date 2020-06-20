@@ -17,7 +17,7 @@ décrète jusqu'à ta présence
 
 l'état de souffrance
 
-*
+\*
 
 je trempe dans ton absence comme on nage dans le plâtre
 
@@ -25,7 +25,7 @@ je m'épave à grand feu quand je t'écrie ma plaie
 
 je me ruine de toi quand tu manques à mes eaux
 
-*
+\*
 
 et puis
 je finis par comprendre

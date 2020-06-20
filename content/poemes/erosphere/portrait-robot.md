@@ -17,7 +17,7 @@ de l'être bien
 
 de l'être avec
 
-*
+\*
 
 elle sait la violence de l'ignorance
 et a le gout des bons artistes

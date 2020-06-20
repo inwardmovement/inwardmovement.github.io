@@ -18,7 +18,7 @@ tu crois que la montagne nous empêche de grimper
 parfois mieux vaut de pas savoir
 où l'on va
 
-*
+\*
 
 résignation d'élan poli
 c'est la fatigue qui domine
@@ -34,7 +34,7 @@ de s'éviter
 c'est la marée des ancolies
 aux airs d'amours mollis
 
-*
+\*
 
 colère piégée souvent domine
 

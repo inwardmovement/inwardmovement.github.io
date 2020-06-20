@@ -17,7 +17,7 @@ un crime gratuit pour celle qui reste
 car elle n'a pas les armes de son adversaire
 c'est tirer dans son dos que choisir la plus forte
 
-*
+\*
 
 tant que tu fais chanter mon ventre
 elles sont toutes battues d'avance

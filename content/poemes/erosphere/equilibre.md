@@ -10,7 +10,7 @@ on se balance
 
 et l'amoureuse nous fait rêver
 
-*
+\*
 
 elle est comme nous
 on est comme elle
@@ -23,7 +23,7 @@ d'heureux enfants
 qui n'ont pas peur de rigoler
 ni d'être seuls
 
-*
+\*
 
 tu me connais je te connais
 mais on s'ignore assez pourtant

@@ -11,7 +11,7 @@ et prends mon rire
 on aura qu'à dire que c'est ça
 la vie
 
-*
+\*
 
 tu m'emmènes où
 
@@ -23,7 +23,7 @@ on va chasser les monstres
 les tiens les miens
 et en faire des amis
 
-*
+\*
 
 tu vois c'est ça la vie
 et on est jamais seuls

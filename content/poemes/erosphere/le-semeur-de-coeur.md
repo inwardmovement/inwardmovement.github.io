@@ -8,7 +8,7 @@ recueil: erosphere
 il marche de fille en fille
 semant pétales de cœur
 
-*
+\*
 
 les faisceaux de vie
 si proches du parallèle
@@ -16,7 +16,7 @@ si proches du parallèle
 mais toujours en un point
 se percutant et se quittant
 
-*
+\*
 
 il ne reste qu'un sentier parfumé
 et l'on hume les vapes

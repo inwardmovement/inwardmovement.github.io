@@ -11,7 +11,7 @@ on regarde un fragment de ce qu'elle a à nous dire
 la nature aux cent voix qui nous tourne la tête
 et on ose une brèche au-delà de ce monde
 
-*
+\*
 
 on est tous anonyme devant le spectacle fou
 devant la folle envie qui nous tire hors de nous

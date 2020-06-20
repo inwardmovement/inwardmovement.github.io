@@ -17,7 +17,7 @@ on sera un peu invisible aussi
 dans notre bulle qui n'éclate que pour grandir
 ensemble
 
-*
+\*
 
 montre-moi tes yeux briller de rire
 cadeau s'ignorant qui nourrit
@@ -30,7 +30,7 @@ on peut se regarder sans rien se dire
 
 et rien ne manque
 
-*
+\*
 
 comme frère et sœur de vie
 yeux dans les yeux c'est se parler
@@ -41,7 +41,7 @@ et être là jusqu'à jamais
 jusqu'à ce qu'on se perde en fleurs des yeux
 et en câlins
 
-*
+\*
 
 tu fais passer le temps
 comme une fusée poétique

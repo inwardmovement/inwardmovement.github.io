@@ -15,7 +15,7 @@ et j'espère de plus en plus
 
 pour elle
 
-*
+\*
 
 c'est le consentement ultime
 de se donner à elle
@@ -23,7 +23,7 @@ de se donner à elle
 et je disparaitrai
 quand elle m'abandonnera
 
-*
+\*
 
 je ferai tout
 

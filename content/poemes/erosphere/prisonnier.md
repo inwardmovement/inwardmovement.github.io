@@ -14,7 +14,7 @@ c'est par amour que l'on déclare forfait
 
 comment pourrait-on plus aimer
 
-*
+\*
 
 elle nous attache et nous dirige
 vers ses envies
@@ -28,7 +28,7 @@ mais plein d'amour
 
 on la suit
 
-*
+\*
 
 que sera-t-on quand elle nous aura fait sienne
 peu importe

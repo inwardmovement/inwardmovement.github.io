@@ -15,7 +15,7 @@ car il n'y a plus de sent
 
 tu as explosé il y a bien longtemps
 
-*
+\*
 
 il n'y a plus que le vent
 entre les étoiles

@@ -20,7 +20,7 @@ pour mon plus grand plaisir
 on joue et tu me charmes
 je me sens amoureux
 
-*
+\*
 
 chaque nuit tu es unique
 et j'ai hâte à te rêver
@@ -38,7 +38,7 @@ bravo la cours des rêves qui ne croit pas si bien rêver
 
 la plus lourde matière de l'univers c'est toi
 
-*
+\*
 
 nous sommes une équipe
 je te rêve et tu m'assèves

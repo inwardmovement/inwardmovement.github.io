@@ -14,7 +14,7 @@ comme le regard d'un Bouddha
 et moi qui lui intime "qu'attends-tu ?"
 brulant d'un feu sans flamme en mon sein inviolé
 
-*
+\*
 
 parfois pistolero prêt à régler le duel
 je me vois dans ses yeux reflet de mon désert

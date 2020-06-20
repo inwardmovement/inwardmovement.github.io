@@ -14,7 +14,7 @@ les ailes poussent aux pieds
 
 et nous visitons l'univers
 
-*
+\*
 
 retour aux sources en train volant
 

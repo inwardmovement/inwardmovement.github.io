@@ -21,7 +21,7 @@ parfois coupant tranchant comme la vie
 
 mais surtout amoureux
 
-*
+\*
 
 nos mains savantes qui tâtonnent
 sont comme amantes pour la roche

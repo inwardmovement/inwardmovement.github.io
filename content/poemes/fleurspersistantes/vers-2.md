@@ -18,7 +18,7 @@ Me noie en rouge
 C'est le ciel rouge
 De mes envies
 
-*
+\*
 
 Alors on garde le regard
 Pour lui parler de nos envies
@@ -26,7 +26,7 @@ Pour lui parler de nos envies
 Elle verra que nos yeux gris
 Vivront jusqu'à ses yeux fermés
 
-*
+\*
 
 Elle se retourne et comprend
 Que l'on contourne sa silhouette
@@ -34,7 +34,7 @@ Que l'on contourne sa silhouette
 Alors son regard nous dira
 Ce que le nôtre veut savoir
 
-*
+\*
 
 On voit des couleurs
 Qui brulent les yeux

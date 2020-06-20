@@ -13,7 +13,7 @@ l'absence de révolte dans l'ennui
 le calme plat de l'inactivité
 qui déborde
 
-*
+\*
 
 l'espoir frustré de retrouver l'âme sœur
 parmi tout ce temps long qui coule et qui s'étire
@@ -32,7 +32,7 @@ peut-être un jour
 
 à la lumière
 
-*
+\*
 
 condamnation n'est pas raison
 n'est pas ruser

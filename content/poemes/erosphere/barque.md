@@ -14,7 +14,7 @@ la réunion
 
 des contraires
 
-*
+\*
 
 dans ma barque je flotte
 et je n'ai rien à faire
@@ -23,7 +23,7 @@ il n'y a que le soleil qui se couche tous les jours
 
 à regarder
 
-*
+\*
 
 qu'on vienne me chercher
 

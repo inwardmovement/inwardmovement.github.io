@@ -11,7 +11,7 @@ quand elle regarde son copain
 la fille du métro
 se fond dans ses bras
 
-*
+\*
 
 c'est une foule familière
 pour elle
@@ -20,7 +20,7 @@ quand il est là
 
 et tout est confortable
 
-*
+\*
 
 ils sont partis
 je reste là

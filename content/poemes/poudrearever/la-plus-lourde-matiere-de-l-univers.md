@@ -11,7 +11,7 @@ regarde-moi pour y aller il faut briller des yeux
 Tombe amoureuse de ton rêve
 et regarde là-haut trouve ta planète
 
-*
+\*
 
 Je suis là pour t'inspirer
 un couple c'est une poésie
@@ -28,6 +28,6 @@ nous sommes fœtus de l'espace
 Nos rêves
 la plus lourde matière de l'univers
 
-*
+\*
 
 Aie ta planète à l'esprit

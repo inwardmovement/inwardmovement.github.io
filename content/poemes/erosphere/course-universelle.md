@@ -17,7 +17,7 @@ tant d'univers n'attendent qu'à t'inspirer
 
 tu dois choisir
 
-*
+\*
 
 mais où vas-tu
 

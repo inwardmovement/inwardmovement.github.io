@@ -12,7 +12,7 @@ celui sur le balcon par une nuit d'été
 
 et à tous nos souvenirs
 
-*
+\*
 
 ça fait mal quand tu es loin
 ça fait mal un instant
@@ -22,7 +22,7 @@ on aimerait que non
 
 quand c'est bon
 
-*
+\*
 
 et puis on redevient seul
 à aimer la solitude

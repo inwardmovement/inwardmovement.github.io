@@ -20,7 +20,7 @@ elle jouit d'être aimée comme personne
 
 ses mains sont belles dans toutes les positions
 
-*
+\*
 
 le sourire est enivrant et devient la plus belle parole
 tu es bien partout

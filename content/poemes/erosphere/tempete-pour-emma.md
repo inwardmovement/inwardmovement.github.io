@@ -30,7 +30,7 @@ tu es ma tempête
 
 Emma
 
-*
+\*
 
 puis demain les flots
 seront auroraux

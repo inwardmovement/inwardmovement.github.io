@@ -21,7 +21,7 @@ pour finir nous nous séparerons
 l'amour c'est trop pour moi
 et je t'ennuierais
 
-*
+\*
 
 monte dans les planètes
 tu n'as pas besoin de moi pour ça
@@ -35,7 +35,7 @@ je suis déjà là-haut
 il faut savoir être immobile à l'intérieur
 pour grimper
 
-*
+\*
 
 me voilà léger
 pour s'envoler c'est plus facile
@@ -48,7 +48,7 @@ la chaleur aussi
 le liquide aussi
 le reste aussi
 
-*
+\*
 
 on est toujours au soleil
 

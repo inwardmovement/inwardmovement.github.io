@@ -12,7 +12,7 @@ la fille avec qui tu as une connexion
 
 te montres ses mains et tu les trouves belles
 
-*
+\*
 
 tu les imagines en train de faire tout ce qu'elles font de plus intime
 elles ont leur âme à elles-seules
@@ -24,7 +24,7 @@ celle qui leur donne vie
 celle qui leur donne envie
 de bouger comme elles bougent
 
-*
+\*
 
 c'est une soirée littéraire sans mots
 

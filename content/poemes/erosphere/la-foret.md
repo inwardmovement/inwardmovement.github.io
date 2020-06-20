@@ -17,7 +17,7 @@ et pleure de secrets
 mais tu sais que c'est là
 que tout te fait aller
 
-*
+\*
 
 suis le chemin de la forêt
 et tu y trouveras tous tes amis perdus

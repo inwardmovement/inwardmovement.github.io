@@ -14,7 +14,7 @@ et goutte à goutte on s'aime
 
 liqueur de nos envies
 
-*
+\*
 
 princesse à qui on présente un jardin
 plein de baies
@@ -30,7 +30,7 @@ de ces mets d'amoureux
 
 sans crainte des tempêtes
 
-*
+\*
 
 et coule à flots notre eau
 qui semble ruisseler

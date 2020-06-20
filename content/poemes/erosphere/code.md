@@ -16,7 +16,7 @@ sous toutes ses formes
 
 ce qu'on sentait
 
-*
+\*
 
 il est musique
 à qui sait lire
@@ -33,7 +33,7 @@ nos illusions
 et tel sera
 l'effondrement
 
-*
+\*
 
 alors on boit le code
 et l'on s'y plie

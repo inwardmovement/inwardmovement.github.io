@@ -20,7 +20,7 @@ la jupe noire à peine ouverte
 
 comme pour inviter
 
-*
+\*
 
 ses jambes sont fières
 et nous ignorent

@@ -13,7 +13,7 @@ pour les joies
 
 du sexe
 
-*
+\*
 
 écarte les jambes et ose-moi t'aimer
 
@@ -29,7 +29,7 @@ et de ses tentacules amène aux contractions
 
 l'érosphère des amours
 
-*
+\*
 
 et la fille compris que Cthulhu su charmer
 le maitre insoupçonné de la cérémonie

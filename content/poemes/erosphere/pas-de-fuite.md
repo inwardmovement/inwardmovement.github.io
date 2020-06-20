@@ -9,7 +9,7 @@ pas de fuite
 
 c'est ton obsession
 
-*
+\*
 
 la fuite ne soulage pas
 
@@ -17,7 +17,7 @@ la fuite
 
 est fuite
 
-*
+\*
 
 maintenant tu sais repérer la fuite
 la moindre fuite

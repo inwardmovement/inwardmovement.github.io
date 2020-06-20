@@ -17,7 +17,7 @@ de sa couleur et de sa forme
 c'est la Recherche qu'on ne nomme
 dépouillée de sa coquille
 
-*
+\*
 
 vogue sur la mère
 en surface des secrets

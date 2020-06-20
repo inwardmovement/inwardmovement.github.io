@@ -19,7 +19,7 @@ de fleurs et de planètes
 
 qui te monte à la tête
 
-*
+\*
 
 à quand les vers ensemble
 qui nous montent à la gorge

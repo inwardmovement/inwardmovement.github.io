@@ -21,7 +21,7 @@ vers notre voie
 
 entre les hautes herbes et les déserts précoces
 
-*
+\*
 
 ensemble l'aventure est un terrain de jeu
 aux airs solennels pas sérieux
@@ -31,7 +31,7 @@ on parcourt les terres à dos de certitudes pas sûres d'elles
 
 on chasse les envies comme les paysages
 
-*
+\*
 
 j'écoute les orages quand on dort sous la tente
 

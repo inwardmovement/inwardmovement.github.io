@@ -12,7 +12,7 @@ les branchies bien ouvertes elle respire la sagesse
 
 et m'emmène avec elle
 
-*
+\*
 
 c'est la fille-nature par excellence
 
@@ -24,7 +24,7 @@ les rides sourient l'écorce chante
 
 et les racines ne sont qu'une
 
-*
+\*
 
 au bord de la sagesse on fait notre chemin
 pèlerins de l'extrême

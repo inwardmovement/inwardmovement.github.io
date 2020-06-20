@@ -8,7 +8,7 @@ recueil: poudrearever
 A force de trop regarder là-haut
 j'ai une poussière dans l'œil
 
-*
+\*
 
 Oh regarde il y a plein de gens comme ça ici
 ils ont tous les yeux qui brillent
@@ -18,7 +18,7 @@ mais on dirait qu'ils n'entendent pas
 
 Tu crois qu'ils tournent dans le vide eux aussi
 
-*
+\*
 
 On ne me l'a pas dit mais j'ai découvert tout seul
 un morceau d'étoile peut tomber des fois

@@ -16,7 +16,7 @@ car il ne les trouve pas dans la jungle immense
 il a lancé trop de bouteilles à la mer
 qui ne sont pas revenues
 
-*
+\*
 
 maintenant les bouteilles il en fait des cloches
 gling gling
@@ -26,7 +26,7 @@ il écrit des poèmes dessus
 
 pour lui
 
-*
+\*
 
 il imagine alors la personne rêvée
 venir le chercher dans sa chambre oubliée

@@ -12,7 +12,7 @@ nous transportent en enfance
 
 là où l'on tombe amoureux
 
-*
+\*
 
 on a envie de faire le poirier
 de jouer aux billes et de courir

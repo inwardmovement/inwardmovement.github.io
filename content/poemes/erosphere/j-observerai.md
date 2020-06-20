@@ -13,7 +13,7 @@ purifier l'esprit
 
 avec l'œil de feu
 
-*
+\*
 
 vagues d'aversions et vagues d'avidités
 tu es le Moïse qui tranche les eaux
@@ -23,7 +23,7 @@ en pleine tempête
 
 armé de l'Equanimus
 
-*
+\*
 
 tu mènes la flotte à travers les eaux
 et tout se passe dans ton antre

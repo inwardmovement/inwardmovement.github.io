@@ -14,7 +14,7 @@ sont les agréments de notre rendez-vous
 
 qui dure depuis toujours
 
-*
+\*
 
 on n'est jamais présent
 à l'autre autant qu'en ces moments
@@ -30,7 +30,7 @@ dans nos activités
 
 nos rêves partagés
 
-*
+\*
 
 ils ne seront plus là
 un jour ces bouts d'amour

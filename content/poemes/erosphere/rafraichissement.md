@@ -11,13 +11,13 @@ rafraichit parfois
 et l'on s'adonne à y surfer
 comme une vague se caresse
 
-*
+\*
 
 puis se dissipe la nébuleuse
 
 alors on danse jusqu'à se perdre
 
-*
+\*
 
 sourire annonce retour du vide
 

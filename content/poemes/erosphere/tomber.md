@@ -24,7 +24,7 @@ sommes dans les idées
 l'unité fait défaut
 et il faut bien vivre
 
-*
+\*
 
 crier ce n'est pas vivre
 c'est mourir trop tôt

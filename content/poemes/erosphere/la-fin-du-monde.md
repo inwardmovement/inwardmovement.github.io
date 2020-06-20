@@ -16,7 +16,7 @@ et nos affinités — seront-elles oubliées ?
 
 je crois qu'elles seront recyclées en poussières sidérales
 
-*
+\*
 
 alors à quoi bon voir les étoiles en toi
 
@@ -26,7 +26,7 @@ et moi qu'observateur
 autrement dit rien
 de solide
 
-*
+\*
 
 mais c'est notre matière la légèreté
 la plus lourde de l'univers

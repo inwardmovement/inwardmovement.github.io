@@ -15,7 +15,7 @@ et dénuder les anges qui sont trop timides
 
 on leur apprend l'amour ?
 
-*
+\*
 
 à l'assaut des couleurs
 qui brillent dans nos yeux
@@ -25,7 +25,7 @@ on garde le meilleur au tamis des plaisirs
 
 et on fera des lits une récréation
 
-*
+\*
 
 du fond de notre lit
 on sert la douce alliance

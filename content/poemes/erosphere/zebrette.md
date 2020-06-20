@@ -18,7 +18,7 @@ les mains nues
 
 et les mollets
 
-*
+\*
 
 elle sort de son silence
 et ne sait que sourire
@@ -33,7 +33,7 @@ mais elle ne le regarde pas
 
 (elle fait comme si de rien n'était)
 
-*
+\*
 
 elle a choisi ce rocher
 pour planter ses fleurs

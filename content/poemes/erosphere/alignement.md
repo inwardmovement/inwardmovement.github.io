@@ -18,7 +18,7 @@ quand on échange les envies
 
 c'est comme des planètes alignées
 
-*
+\*
 
 on mange la relation
 à coup de rêve et de réponse
@@ -30,7 +30,7 @@ comme un taureau et poisson-chèvre
 
 c'est l'inconnu mais c'est facile
 
-*
+\*
 
 nature est l'inconnu pour tous
 mais on y croit pourtant

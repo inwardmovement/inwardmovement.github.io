@@ -12,7 +12,7 @@ elle s'envole l'aimée
 
 au-dessus des épaves abandonnées
 
-*
+\*
 
 elle est dans son ciel
 elle est dans nos rêves
@@ -22,7 +22,7 @@ l'ectoplasmie nous colle aux yeux
 
 c'est un fantôme
 
-*
+\*
 
 elle a déjà les mains liées
 par son bonheur

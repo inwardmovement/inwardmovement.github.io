@@ -25,7 +25,7 @@ dans tous les sens
 
 on a envie
 
-*
+\*
 
 changeras-tu changeras-tu
 
@@ -39,7 +39,7 @@ et le serai-je moi
 ou plutôt
 lui sera-t-il fidèle à toi
 
-*
+\*
 
 j'aime
 

@@ -13,7 +13,7 @@ elle nous inspire
 
 et ses pieds savent me regarder
 
-*
+\*
 
 elle a les airs qu'on aime voir
 et puis des fleurs un peu partout

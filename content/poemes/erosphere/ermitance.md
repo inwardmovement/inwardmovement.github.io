@@ -15,7 +15,7 @@ et les couleurs de l'automne seront à lui
 
 le temps d'une vie
 
-*
+\*
 
 il s'y fera
 et se fera ermite
@@ -25,7 +25,7 @@ un peu de ci un peu de ça
 
 le tour est joué
 
-*
+\*
 
 la barbe longue comme le temps
 il est à l'aube de la mort

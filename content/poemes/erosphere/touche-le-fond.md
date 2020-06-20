@@ -13,14 +13,14 @@ retraite de l'âme
 
 il ne se passe rien qu'une contemplation
 
-*
+\*
 
 tu es un tas de cendres froides
 
 et tu abdiques au cesser prise
 tu capitules au laisser être
 
-*
+\*
 
 tu te laisses endormir
 et t'abandonnes au froid

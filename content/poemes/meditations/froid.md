@@ -28,7 +28,7 @@ car tout est bon de toi
 
 même la destruction
 
-*
+\*
 
 alors je tremble du ventre
 pour montrer comme je t'aime
@@ -48,7 +48,7 @@ silencieuse
 si solide
 elle
 
-*
+\*
 
 et je montrerai au monde
 

@@ -21,7 +21,7 @@ comme celui qui guette
 
 le lever du soleil et son coucher
 
-*
+\*
 
 la perfusion
 maintient l'artifice de la vie
@@ -31,7 +31,7 @@ ou plutôt pour le sien
 
 pour qu'on puisse combler tous ses petits besoins
 
-*
+\*
 
 je la guette
 que veut-elle maintenant

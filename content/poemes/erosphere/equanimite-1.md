@@ -12,7 +12,7 @@ cultivé jusqu'à ses branches luxuriantes
 
 que la sagesse rend plus jeune
 
-*
+\*
 
 et c'est la brèche à tout instant
 
@@ -21,7 +21,7 @@ comme un ermite sur son feu
 
 sans chasser le sourire
 
-*
+\*
 
 ce n'est jamais la chute incontrôlée
 
@@ -30,7 +30,7 @@ l'âme en paix
 
 les yeux dans les yeux
 
-*
+\*
 
 on porte vers l'infini
 

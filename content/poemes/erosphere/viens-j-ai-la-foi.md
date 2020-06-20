@@ -12,7 +12,7 @@ et j'ai les yeux fermés
 
 alors prend-moi la main
 
-*
+\*
 
 tu marches sur la voie invisible
 solide
@@ -23,7 +23,7 @@ car c'est la tienne
 
 car c'est toi
 
-*
+\*
 
 tout doux
 

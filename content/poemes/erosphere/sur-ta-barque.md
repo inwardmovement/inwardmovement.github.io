@@ -17,7 +17,7 @@ alors tu dérives
 
 tu lâche prise au vent
 
-*
+\*
 
 quelle est cette mer qui te porte
 
@@ -27,7 +27,7 @@ quelles sont les questions à te poser
 voire
 dois-tu t'en poser
 
-*
+\*
 
 tu laisses la main au vent
 au courant

@@ -14,7 +14,7 @@ mais à plusieurs il n'y a pas d'attente
 
 on n'attend que seul
 
-*
+\*
 
 et dans la chambre de l'attente
 parfois on s'endort

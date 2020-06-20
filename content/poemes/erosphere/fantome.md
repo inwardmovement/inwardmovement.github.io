@@ -15,7 +15,7 @@ elle se fait attendre et nous l'attendons
 
 et nous la rêvons
 
-*
+\*
 
 si elle n'est qu'un songe
 je la poursuivrai dans mes rêves
@@ -25,7 +25,7 @@ nous nous rapprocherons
 
 avoue que tu me cherches aussi
 
-*
+\*
 
 où es-tu
 quand es-tu

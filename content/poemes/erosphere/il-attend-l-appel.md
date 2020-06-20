@@ -13,19 +13,19 @@ guette ce qui arrivera
 
 ce qui jettera l'ancre en lui
 
-*
+\*
 
 en fait
 c'est un jeune sur un banc
 
-*
+\*
 
 il espère qu'il n'a pas encore tout vu
 qu'il est encore agrippable
 
 ou que des choses dignes d'intérêt le rencontreront
 
-*
+\*
 
 il espère
 

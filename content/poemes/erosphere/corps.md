@@ -14,7 +14,7 @@ méandres cérébraux
 le corps s'apaise
 quand l'œil s'y pose
 
-*
+\*
 
 le corps brule
 et le corps brille

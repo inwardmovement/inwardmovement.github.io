@@ -24,7 +24,7 @@ en fait
 
 tu t'es juste allongé
 
-*
+\*
 
 apprend-moi
 
@@ -41,7 +41,7 @@ mon cheval de bois
 
 je t'aime
 
-*
+\*
 
 montre-moi
 le sain calme qui t'habite

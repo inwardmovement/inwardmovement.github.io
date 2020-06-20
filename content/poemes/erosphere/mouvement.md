@@ -15,7 +15,7 @@ a révélé
 
 le néant
 
-*
+\*
 
 il fallait explorer cette contrée du monde
 pour savoir que faire
@@ -24,7 +24,7 @@ où aller
 
 et pourquoi
 
-*
+\*
 
 il n'y a donc pas d'absolu comme on l'entend
 juste la perte de soi
@@ -32,7 +32,7 @@ juste la perte de soi
 alors c'est à nous de donner le mouvement
 car le vide ne se comble de lui-même
 
-*
+\*
 
 il n'y a plus qu'à choisir
 vers où je veux aller
@@ -50,7 +50,7 @@ sûr d'avoir exploré sous nos pieds
 
 et de n'avoir pas vu le guide fantasmé
 
-*
+\*
 
 désormais seul et sûr de l'être
 

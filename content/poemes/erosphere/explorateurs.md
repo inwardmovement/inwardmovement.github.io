@@ -29,7 +29,7 @@ on visite des mondes que l'on croit si loins
 on s'extirpe comme on peut comme on veut
 de ce qui n'est pas nous
 
-*
+\*
 
 les poètes sont des explorateurs parce qu'ils en ont besoin
 c'est leur métier

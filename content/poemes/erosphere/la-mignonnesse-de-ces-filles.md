@@ -11,7 +11,7 @@ me fera toujours comme une brèche dans le cerveau
 liquéfié sur place de les voir
 et de ne pas leur dire
 
-*
+\*
 
 j'opte pour la passion du moment
 et l'oubli

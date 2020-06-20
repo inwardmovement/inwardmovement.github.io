@@ -10,14 +10,14 @@ tes pieds blancs et roses
 
 font de la peinture
 
-*
+\*
 
 tes chaussettes sales sont un trophée
 c'est ta manière à toi de peindre
 
 avec mes sentiments
 
-*
+\*
 
 tu es la reine du vide
 avec tes chaussettes blanches
@@ -26,7 +26,7 @@ on fait l'impasse
 
 sur tout le reste
 
-*
+\*
 
 et cette odeur qui me transporte
 et m'obnubile

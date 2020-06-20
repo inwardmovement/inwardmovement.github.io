@@ -14,7 +14,7 @@ du tout en un
 qui d'autre est attiré
 par le froid glacial de l'espace infini
 
-*
+\*
 
 il n'y a plus qu'à attendre le retour aux sources
 
@@ -24,7 +24,7 @@ comme si rien n'était
 
 ou que tout était juste
 
-*
+\*
 
 tout n'est plus qu'un balai
 de particules sourdes

@@ -16,7 +16,7 @@ je tourne dans le vide
 
 Nous nous rencontrerons peut-être là-haut
 
-*
+\*
 
 Je pense que tu es jeune belle intelligente
 que toi aussi tu aimes le calme du vide de l'espace
@@ -30,7 +30,7 @@ que je t'emmène chez moi
 Oui je sais c'est impossible car tu es une planète aussi
 alors on peut tourner l'un autour de l'autre non ?
 
-*
+\*
 
 Je crois quand même qu'on peut se rencontrer en bas
 te moque pas on sait jamais
