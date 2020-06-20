@@ -5,7 +5,8 @@
   "main": "gulpfile.js",
   "scripts": {
     "start": "hugo server -DEF --i18n-warnings",
-    "build-prod": "hugo --i18n-warnings && gulp"
+    "build-prod": "hugo --i18n-warnings && gulp",
+    "deploy": "netlify deploy --prod --dir public"
   },
   "repository": {
     "type": "git",
