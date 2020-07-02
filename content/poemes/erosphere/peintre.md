@@ -15,7 +15,7 @@ et la naissance des couleurs
 autant qu'il faut pour dire mon monde
 en plus d'images que d'idées
 
-*
+\*
 
 pas l'ombre d'une idée — parfaite poésie
 qui se transmet de veine à veine
