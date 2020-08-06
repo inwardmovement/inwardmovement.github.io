@@ -1,4 +1,4 @@
-public
-node_modules
-resources
-.netlify
+public/
+node_modules/
+resources/
+.netlify/
