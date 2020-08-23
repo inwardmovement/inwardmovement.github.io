@@ -293,6 +293,10 @@ svg.bi {
 }
 
 @include media-breakpoint-up(sm) {
+  .navbar {
+    // padding-bottom: 0;
+  }
+
   .navbar-nav {
     padding-top: initial;
     justify-content: flex-end;
@@ -300,6 +304,7 @@ svg.bi {
 
   .navbar-collapse {
     justify-content: flex-end;
+    height: 60px;
   }
 }
 
