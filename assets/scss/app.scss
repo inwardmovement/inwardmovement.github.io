@@ -259,27 +259,35 @@ svg.bi {
 /************************************************************
   NAV
 ************************************************************/
-.navbar {
-  margin-bottom: 3.5rem;
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1020;
 
-  .container {
-    max-width: 1108px;
-    padding-left: 0px;
-    padding-right: 0px;
-  }
+  .navbar {
+    margin-bottom: 3.5rem;
+    position: sticky;
+    top: 0;
 
-  .navbar-brand {
-    padding: 0;
-    display: flex;
-    align-items: center;
-  }
+    .container {
+      max-width: 1108px;
+      padding-left: 0px;
+      padding-right: 0px;
+    }
 
-  .btn {
-    margin-top: 8px;
-    margin-bottom: 8px;
+    .navbar-brand {
+      padding: 0;
+      display: flex;
+      align-items: center;
+    }
 
-    @include media-breakpoint-up(sm) {
-      margin: initial;
+    .btn {
+      margin-top: 8px;
+      margin-bottom: 8px;
+
+      @include media-breakpoint-up(sm) {
+        margin: initial;
+      }
     }
   }
 }
@@ -293,18 +301,68 @@ svg.bi {
 }
 
 @include media-breakpoint-up(sm) {
-  .navbar {
-    // padding-bottom: 0;
-  }
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 1020;
 
-  .navbar-nav {
-    padding-top: initial;
-    justify-content: flex-end;
-  }
+    .navbar {
+      padding-top: 0;
+      padding-bottom: 0;
 
-  .navbar-collapse {
-    justify-content: flex-end;
-    height: 60px;
+      .navbar-brand {
+        font-size: 1.5em;
+
+        img {
+          width: 50px;
+        }
+      }
+    }
+
+    .navbar-nav {
+      padding-top: initial;
+      justify-content: flex-end;
+
+        // à refactoriser
+        .nav-link:hover:not(.active) {
+          color: rgba(0, 0, 0, 0.5);
+        }
+
+        a,
+        .dropdown a {
+          &:hover,
+          &:focus {
+            background-color: $light;
+            color: rgba(0, 0, 0, 0.5);
+          }
+
+          &.active {
+            color: rgba(0, 0, 0, 0.7);
+            font-weight: 600;
+            text-decoration: none;
+            background-color: $light;
+          }
+        }
+
+        .dropdown-menu a:hover,
+        .dropdown-menu a:focus {
+          color: rgba(0, 0, 0, 0.9);
+        }
+
+      .nav-item {
+        display: flex;
+        align-items: center;
+        font-size: 1.05em;
+        padding-left: 1em !important;
+        padding-right: 1em !important;
+      }
+    }
+
+    .navbar-collapse {
+      justify-content: flex-end;
+      height: 70px;
+      align-items: stretch;
+    }
   }
 }
 

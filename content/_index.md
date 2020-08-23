@@ -21,7 +21,7 @@ discord: "Vic#6419"
 
 ---
 
-- J'écris des [poèmes](poemes) et des [articles](articles), je fais de la [guitare électrique](https://www.youtube.com/user/arkay38/videos)
+- J'écris des [poèmes](poems) et des [articles](articles), je fais de la [guitare électrique](https://www.youtube.com/user/arkay38/videos)
 
 {{< /home-box >}}
 
