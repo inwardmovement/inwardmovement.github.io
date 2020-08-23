@@ -3,8 +3,6 @@ title: "Inward Movement"
 description: "Developer, author, musician"
 customTitle: "Hi =)"
 presentation: "My name is Victor"
-github: "inwardmovement"
-discord: "Vic#6419"
 ---
 
 {{< home-box "What I do" >}}

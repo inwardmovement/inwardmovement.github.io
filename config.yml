@@ -11,6 +11,9 @@ enableEmoji: true
 params:
   description: "Developer, author, musician"
   author: "Victor Massé"
+  email: "victor.dhamma@gmail.com"
+  github: "inwardmovement"
+  discord: "Vic#6419"
 author:
   name: "Victor Massé"
 markup:
