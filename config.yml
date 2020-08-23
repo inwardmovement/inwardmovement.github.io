@@ -1,6 +1,4 @@
 baseURL: "https://inwardmovement.github.io/"
-languageCode: "fr"
-defaultContentLanguage: "fr"
 title: "Inward Movement"
 canonifyURLs: false
 relativeURLs: true
@@ -10,7 +8,7 @@ metaDataFormat: yaml
 rssLimit: 10
 enableRobotsTXT: true
 params:
-  description: "Auteur, musicien, activiste, consultant"
+  description: "Developer, author, musician"
   author: "Victor Massé"
 author:
   name: "Victor Massé"
@@ -38,41 +36,37 @@ markup:
 footnoteReturnLinkContents: "↑"
 menu:
   main:
-    - Name: "Accueil"
+    - Name: "Home"
       URL: "/"
-      Identifier: "accueil"
+      Identifier: "home"
       weight: 1
-    - Name: "Poèmes"
-      URL: "/poemes/"
-      Identifier: "poemes"
+    - Name: "Poems"
+      URL: "/poems/"
+      Identifier: "poems"
       weight: 2
-    - Name: "Articles"
-      URL: "/articles/"
-      Identifier: "articles"
-      weight: 3
   footer:
-    - Name: "Mentions légales"
-      URL: "/mentions-legales/"
-      Identifier: "mentions-legales"
+    - Name: "Legal notices"
+      URL: "/legal-notices/"
+      Identifier: "legal-notices"
       weight: 1
   recueils:
     - Name: "Fleurs persistantes"
-      URL: "/poemes/fleurspersistantes/"
+      URL: "/poems/fleurspersistantes/"
       Identifier: "fleurspersistantes"
       weight: 1
     - Name: "SuperEro"
-      URL: "/poemes/superero/"
+      URL: "/poems/superero/"
       Identifier: "superero"
       weight: 2
     - Name: "Poudre à rêver"
-      URL: "/poemes/poudrearever/"
+      URL: "/poems/poudrearever/"
       Identifier: "poudrearever"
       weight: 3
     - Name: "Méditations"
-      URL: "/poemes/meditations/"
+      URL: "/poems/meditations/"
       Identifier: "meditations"
       weight: 4
     - Name: "Érosphère"
-      URL: "/poemes/erosphere/"
+      URL: "/poems/erosphere/"
       Identifier: "erosphere"
       weight: 5

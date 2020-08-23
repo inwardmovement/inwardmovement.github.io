@@ -1,5 +1,7 @@
 ---
 title: "Poèmes"
 description: "Mes poèmes"
-aliases: /poems/
+cascade:
+  lang: fr
+aliases: /poemes/
 ---

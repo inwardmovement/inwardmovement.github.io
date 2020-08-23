@@ -1,8 +1,8 @@
 ---
 title: "Inward Movement"
-description: "Auteur, musicien, activiste, consultant"
-customTitle: "Salut =)"
-presentation: "Je m'appelle Victor"
+description: "Developer, author, musician"
+customTitle: "Hi =)"
+presentation: "My name is Victor"
 github: "inwardmovement"
 discord: "Vic#6419"
 ---

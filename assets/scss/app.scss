@@ -6,7 +6,6 @@ $theme-colors: (
 );
 
 @import "bootstrap/bootstrap";
-@import "sketchy/sketchy-custom";
 
 /************************************************************
   MISC
@@ -279,7 +278,7 @@ svg.bi {
     margin-top: 8px;
     margin-bottom: 8px;
 
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-up(sm) {
       margin: initial;
     }
   }
@@ -293,9 +292,14 @@ svg.bi {
   padding-top: 0.25rem;
 }
 
-@include media-breakpoint-up(md) {
+@include media-breakpoint-up(sm) {
   .navbar-nav {
     padding-top: initial;
+    justify-content: flex-end;
+  }
+
+  .navbar-collapse {
+    justify-content: flex-end;
   }
 }
 
@@ -685,20 +689,22 @@ article {
 
     a, button {
       margin-right: 0.5em;
-      font-weight: 600;
     }
 
     svg {
-      width: 1rem;
-      vertical-align: sub;
+      width: 1.5rem;
+      vertical-align: bottom;
       fill: #fff;
+
+      &.bi {
+        font-size: 1.5em;
+      }
     }
 
     .discord {
       color: #fff;
       background-color: #7289DA;
       border-color: #7289DA;
-      font-family: $font-family-monospace;
 
       &:hover {
         color: #fff;
@@ -716,18 +722,6 @@ article {
         color: #fff;
         background-color: lighten($color: #171515, $amount: 20);
         border-color: lighten($color: #171515, $amount: 20);
-      }
-    }
-
-    .rss {
-      color: #fff;
-      background-color: #f26522;
-      border-color: #f26522;
-
-      &:hover {
-        color: #fff;
-        background-color: lighten($color: #f26522, $amount: 5);
-        border-color: lighten($color: #f26522, $amount: 5);
       }
     }
   }

@@ -6,7 +6,7 @@
     <article>
       <hr style="margin-bottom: 3rem; margin-top: 3rem;">
       <h1 class="ds text-center">Extraits</h1><br>
-      {{ range where (where .Site.Pages "Type" "poemes") ".Params.feature" true }}
+      {{ range where (where .Site.Pages "Type" "poems") ".Params.feature" true }}
         <h2>{{ .Title }}</h2><br>
         {{ .Content }}
         <hr style="margin-bottom: 3rem; margin-top: 3rem;">

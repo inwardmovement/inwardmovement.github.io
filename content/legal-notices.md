@@ -1,7 +1,7 @@
 ---
-title: "Mentions légales"
-description: "Nos mentions légales"
-layout: mentions-legales
+title: "Legal notices"
+description: "Legal notices"
+layout: legal-notices
 ---
 
 # Propriété intellectuelle
