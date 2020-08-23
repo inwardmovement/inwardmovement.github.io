@@ -7,6 +7,7 @@ disableLiveReload: true
 metaDataFormat: yaml
 rssLimit: 10
 enableRobotsTXT: true
+enableEmoji: true
 params:
   description: "Developer, author, musician"
   author: "Victor Massé"

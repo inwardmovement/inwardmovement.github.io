@@ -160,8 +160,8 @@ a[title].abbr {
   CONTAINER
 ************************************************************/
 main.container {
-  max-width: 1140px;
-  margin-bottom: 7rem;
+  max-width: 992px;
+  margin-bottom: 10rem;
 }
 
 main.container.article {
@@ -262,7 +262,7 @@ svg.bi {
 header {
   position: sticky;
   top: 0;
-  z-index: 1020;
+  z-index: $zindex-sticky;
 
   .navbar {
     margin-bottom: 3.5rem;
@@ -270,9 +270,7 @@ header {
     top: 0;
 
     .container {
-      max-width: 1108px;
-      padding-left: 0px;
-      padding-right: 0px;
+      max-width: 992px;
     }
 
     .navbar-brand {
@@ -304,11 +302,10 @@ header {
   header {
     position: sticky;
     top: 0;
-    z-index: 1020;
+    z-index: $zindex-sticky;
 
     .navbar {
-      padding-top: 0;
-      padding-bottom: 0;
+      padding: 0;
 
       .navbar-brand {
         font-size: 1.5em;
@@ -674,7 +671,7 @@ article {
   .presentation {
     text-align: center;
 
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-up(sm) {
       display: flex;
       // column-gap: 1rem; not yet supported in Chrome, Edge
       margin: 3.5rem 0;
@@ -704,7 +701,7 @@ article {
       width: 100px;
       filter: brightness(170%);
 
-      @include media-breakpoint-up(md) {
+      @include media-breakpoint-up(sm) {
         float: right;
       }
     }
@@ -722,18 +719,23 @@ article {
         padding: 0 1.25rem;
       }
 
-      ul {
-        margin-bottom: 0;
+      .card-body {
+        padding-left: 1.25em;
+        padding-right: 1.25em;
+
+        p:last-child {
+          margin-bottom: 0;
+        }
       }
     }
   }
 
-  @include media-breakpoint-up(md) {
+  @include media-breakpoint-up(sm) {
     .home-box-container {
       display: flex;
       // column-gap: 4rem; not yet supported in Chrome, Edge
       margin: 3.5rem 2rem;
-      align-items: flex-start;
+      justify-content: center;
 
       .home-box:nth-child(2) {
         margin-left: 4rem; // fix column-gap not yet supported in Chrome, Edge
@@ -741,7 +743,12 @@ article {
 
       .home-box {
         margin-bottom: initial;
-        width: 50%;
+        width: 400px;
+
+        .card-body {
+          padding-left: 2.5em;
+          padding-right: 2.5em;
+        }
       }
     }
   }
@@ -752,6 +759,10 @@ article {
 
     a, button {
       margin-right: 0.5em;
+
+      &:last-child {
+        margin-right: 0;
+      }
     }
 
     svg {
