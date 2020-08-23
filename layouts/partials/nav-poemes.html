@@ -1,5 +1,5 @@
 <aside class="sidebar">
-  <nav aria-label="Poems pagination">
+  <nav class="nav-poems-pagination" aria-label="Poems pagination">
     <ul class="pagination">
       {{ if eq .File.BaseFileName "_index" }}
         {{ range first 1 .Data.Pages.ByDate }}
@@ -18,22 +18,20 @@
       {{ end }}
     </ul>
   </nav>
-  <nav class="card" aria-label="Poems navigation">
-    <div class="card-header">
-      <ul>
-        {{ $currentPage := . }}
-        {{ if eq .File.BaseFileName "_index" }}
-          {{ range .Data.Pages.ByDate }}
-          {{ $isCurrent := eq .RelPermalink $currentPage.RelPermalink }}
-            <li><a{{ if $isCurrent }} class="current"{{ end }} href="{{ .RelPermalink }}">{{ .Title }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a></li>
-          {{ end }}
-        {{ else }}
-          {{ range where .Site.Pages.ByDate "Params.recueil" .Params.recueil }}
-          {{ $isCurrent := eq .RelPermalink $currentPage.RelPermalink }}
-            <li><a{{ if $isCurrent }} class="current"{{ end }} href="{{ .RelPermalink }}">{{ .Title }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a></li>
-          {{ end }}
+  <nav class="nav-poems-navigation" aria-label="Poems navigation">
+    <div class="list-group">
+      {{ $currentPage := . }}
+      {{ if eq .File.BaseFileName "_index" }}
+        {{ range .Data.Pages.ByDate }}
+        {{ $isCurrent := eq .RelPermalink $currentPage.RelPermalink }}
+          <a class="list-group-item list-group-item-action{{ if $isCurrent }} active{{ end }}" href="{{ .RelPermalink }}">{{ .Title }}{{ if $isCurrent }} <span class="sr-only">(active)</span>{{ end }}</a>
         {{ end }}
-      </ul>
+      {{ else }}
+        {{ range where .Site.Pages.ByDate "Params.recueil" .Params.recueil }}
+        {{ $isCurrent := eq .RelPermalink $currentPage.RelPermalink }}
+        <a class="list-group-item list-group-item-action{{ if $isCurrent }} active{{ end }}" href="{{ .RelPermalink }}">{{ .Title }}{{ if $isCurrent }} <span class="sr-only">(active)</span>{{ end }}</a>
+        {{ end }}
+      {{ end }}
     </div>
   </nav>
 </aside>

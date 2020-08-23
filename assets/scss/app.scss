@@ -452,6 +452,7 @@ header {
   .pagination {
     justify-content: center;
     margin-top: 10px;
+    margin-bottom: 1.75rem;
     flex-wrap: wrap;
 
     @include media-breakpoint-up(md) {
@@ -459,30 +460,41 @@ header {
     }
   }
 
-  nav  {
-    display: grid;
+  .nav-poems-navigation {
+    .list-group {
+      border: 1px solid rgba(0,0,0,.125);
+      border-radius: $border-radius;
+      background-color: rgba(0,0,0,.03);
+      padding-top: .75rem;
+      padding-bottom: .75rem;
 
-    .card-header {
-      border-bottom: none;
+      .list-group-item {
+        padding-top: .25em;
+        padding-bottom: .25em;
+        background-color: transparent;
+        color: $link-color;
+        border: none;
 
-      ul {
-        list-style-type: none;
+        &:first-child {
+          border-top-left-radius: 0;
+          border-top-right-radius: 0;
+        }
+
+        &:last-child {
+          border-bottom-right-radius: 0;
+          border-bottom-left-radius: 0;
+        }
+
+        &:hover,
+        &.active {
+          background-color: #fff;
+        }
+
+        & + .list-group-item.active {
+          margin-top: 0;
+        }
       }
     }
-  }
-
-  nav.card {
-    min-width: 210px;
-    margin-bottom: 40px;
-
-    ul {
-      margin-bottom: 0px;
-      padding-left: 10px;
-    }
-  }
-
-  .current {
-    border-bottom: 1px dotted;
   }
 }
 
