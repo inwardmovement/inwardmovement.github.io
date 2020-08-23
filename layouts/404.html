@@ -1,8 +1,20 @@
-{{ define "main" }}
-  <main class="container">
-    <article>
-      <h1>Page non trouvée</h1><br>
-        <p>La page demandée n'existe pas.</p>
-    </article>
-  </main>
-{{ end }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Page not found</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      place-items: center;
+      cursor: default;
+    }
+  </style>
+</head>
+<body>
+  <h1>Page not found</h1>
+  <p>Go back to <a href="{{ .Site.BaseURL }}">homepage</a></p>
+</body>
+</html>
