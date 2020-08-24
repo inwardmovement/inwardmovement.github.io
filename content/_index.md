@@ -11,7 +11,7 @@ presentation: "My name is Victor"
 
 ---
 
-:black_nib: I write [poetry](poems)
+:black_nib: I write [poetry](poems/)
 
 ---
 
