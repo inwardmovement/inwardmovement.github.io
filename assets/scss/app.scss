@@ -4,6 +4,7 @@ $enable-responsive-font-sizes: true;
 $theme-colors: (
   "primary-alt": #3490dc
 );
+$primary-alt: map-get($map: $theme-colors, $key: primary-alt);
 
 @import "bootstrap/bootstrap";
 
@@ -359,68 +360,45 @@ header {
 
 #nav-recueils {
   margin-bottom: 3.5rem;
+  margin-top: -3.5rem;
 
-  .breadcrumb {
-    border-radius: 0px;
-    margin-bottom: 0px;
-    display: block;
-
-    @include media-breakpoint-up(md) {
-      .collapse {
-        display: flex;
-        justify-content: center;
-      }
-    }
-
-    .breadcrumb-item + .breadcrumb-item::before {
-      @include media-breakpoint-down(sm) {
-        display: none;
-      }
-    }
+  .btn {
+    border-radius: 0;
   }
 
-  ul {
-    margin-top: -3.5rem;
+  .nav-pills {
     justify-content: center;
+    background-color: $breadcrumb-bg;
 
-    li.active a {
-      color: #6c757d;
+    .nav-link {
+      border-radius: 0;
+
+      &.active, {
+        background-color: $primary-alt;
+      }
     }
  }
 }
 
-@include media-breakpoint-down(sm) {
+@include media-breakpoint-up(md) {
   #nav-recueils {
-    ul li {
-      width: 100%;
-      padding-left: 0rem;
-      line-height: 1.5;
+    .nav-pills {
+      display: flex;
 
-      a {
-        display: block;
-        line-height: 2.5;
+      .nav-item {
+
       }
-    }
-
-    .breadcrumb-item + .breadcrumb-item::before {
-      display: none;
-    }
-
-    .breadcrumb-item + .breadcrumb-item {
-      padding-left: 0;
     }
   }
 }
 
-#recueils-items {
-  padding-top: 0.75rem;
-}
-
-@include media-breakpoint-up(md) {
-  #recueils-items {
-    display: flex;
-    justify-content: center;
-    padding-top: 0;
+@include media-breakpoint-down(sm) {
+  #nav-recueils {
+    .nav-pills {
+      .nav-item {
+        width: 100%;
+      }
+    }
   }
 }
 
@@ -485,9 +463,20 @@ header {
           border-bottom-left-radius: 0;
         }
 
-        &:hover,
+        &:hover {
+          // background-color: #fff;
+          // background-color: $primary-alt;
+          color: $link-hover-color;
+        }
+
         &.active {
-          background-color: #fff;
+          background-color: $primary-alt;
+          color: #fff;
+          border-left: 1px solid $primary-alt;
+          border-right: 1px solid $primary-alt;
+          margin-left: -1px;
+          // margin-right: -2px;
+          min-width: calc(100% + 2px);
         }
 
         & + .list-group-item.active {
