@@ -5,9 +5,8 @@
 {{ $jquery := resources.Get "js/jquery.js" }}
 {{ $popper := resources.Get "js/popper.js" }}
 {{ $bootstrap := resources.Get "js/bootstrap.js" }}
-{{ $instantpage := resources.Get "js/instantpage.js" | js.Build }}
 {{ $app := resources.Get "js/app.js" }}
-{{ $mainJS := slice $jquery $popper $bootstrap $instantpage $app | resources.Concat "main.js" }}
+{{ $mainJS := slice $jquery $popper $bootstrap $app | resources.Concat "main.js" }}
 {{ with (getenv "PRODUCTION") }}
   {{ $mainJS = $mainJS | minify | fingerprint }}
 {{ end }}
