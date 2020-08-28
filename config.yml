@@ -8,6 +8,9 @@ metaDataFormat: yaml
 rssLimit: 10
 enableRobotsTXT: true
 enableEmoji: true
+disableKinds:
+- taxonomy
+- term
 params:
   description: "Developer, author, musician"
   author: "Victor Massé"
