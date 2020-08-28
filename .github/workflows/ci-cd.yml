@@ -3,7 +3,7 @@ name: ci-cd
 on:
   push:
     branches:
-      - source
+      - main
 
 env:
   PRODUCTION: true
@@ -39,6 +39,6 @@ jobs:
     - name: Deploy site
       uses: crazy-max/ghaction-github-pages@v1
       with:
-        target_branch: master
+        target_branch: gh-pages
         build_dir: public
       if: success()
