@@ -9,7 +9,7 @@ env:
   PRODUCTION: true
   HUGO_VERSION: '0.74.1'
   NODE_VERSION: '12.14.0'
-  GITHUB_PAT: ${{ secrets.PERSONAL_TOKEN_GH_PAGES }}
+  GH_PAT: ${{ secrets.PERSONAL_TOKEN_GH_PAGES }}
 
 jobs:
   build-and-deploy:
@@ -37,7 +37,7 @@ jobs:
       run: npm run build-prod
       if: success()
     - name: Deploy site
-      uses: crazy-max/ghaction-github-pages@v1
+      uses: crazy-max/ghaction-github-pages@v2.1.2
       with:
         target_branch: gh-pages
         build_dir: public
