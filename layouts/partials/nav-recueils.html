@@ -1,25 +1,10 @@
 <nav id="nav-recueils" aria-label="Navigation recueils">
-  <button
-    class="btn btn-block btn-info d-md-none text-center"
-    type="button"
-    data-toggle="collapse"
-    data-target="#recueils"
-    aria-controls="recueils"
-    aria-expanded="false"
-    aria-label="Ouvrir navigation recueils"
-  >
-    {{ (resources.Get "icons/book.svg").Content | safeHTML }} Recueil
-  </button>
-  <ul id="recueils" class="nav nav-pills collapse">
-    {{ $currentPage := . }} {{ range .Site.Menus.recueils }} {{ $isCurrent := or
-    (eq .URL $currentPage.RelPermalink) (eq .Identifier
-    $currentPage.Params.recueil) }}
-    <li class="nav-item">
-      <a class="nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}"
-        >{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(active)</span>{{
-        end }}</a
-      >
-    </li>
-    {{ end }}
-  </ul>
+  <button class="btn btn-block btn-info d-md-none text-center" type="button" data-toggle="collapse" data-target="#recueils" aria-controls="recueils" aria-expanded="false" aria-label="Ouvrir navigation recueils">{{ (resources.Get "icons/book.svg").Content | safeHTML }} Recueil</button>
+    <ul id="recueils" class="nav nav-pills collapse">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.recueils }}
+        {{ $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $currentPage.Params.recueil) }}
+        <li class="nav-item"><a class="nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(active)</span>{{ end }}</a></li>
+      {{ end }}
+    </ul>
 </nav>
