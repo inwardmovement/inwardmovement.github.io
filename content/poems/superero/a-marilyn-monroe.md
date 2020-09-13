@@ -3,6 +3,7 @@ title: "À Marilyn Monroe"
 description: "Poème"
 date: 2011-01-03
 recueil: superero
+feature: false
 ---
 
 Pourquoi t'es-tu donné la fin autoclamée ?

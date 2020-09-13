@@ -3,6 +3,7 @@ title: "vent sidéral"
 description: "Poème"
 date: 2017-12-09
 recueil: erosphere
+feature: false
 ---
 
 comme une dérive dans l'espace

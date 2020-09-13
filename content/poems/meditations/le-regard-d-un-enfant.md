@@ -3,6 +3,7 @@ title: "Le regard d'un enfant"
 description: "Poème"
 date: 2013-01-26
 recueil: meditations
+feature: false
 ---
 
 il y a ce quelque chose dans le regard d'un enfant

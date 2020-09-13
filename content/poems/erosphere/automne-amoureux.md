@@ -3,6 +3,7 @@ title: "l'automne amoureux"
 description: "Poème"
 date: 2018-10-07
 recueil: erosphere
+feature: false
 ---
 
 je t'attends par cette nuit d'automne

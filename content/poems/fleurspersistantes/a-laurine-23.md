@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-27
 recueil: fleurspersistantes
+feature: false
 ---
 
 Comme un bouche-à-bouche au cœur

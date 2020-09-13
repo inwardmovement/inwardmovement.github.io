@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-08
 recueil: fleurspersistantes
+feature: false
 ---
 
 Je m'imagine, tombé par terre, tout affaibli,

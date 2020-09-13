@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-01
 recueil: fleurspersistantes
+feature: false
 ---
 
 Je suis loin de toi. Pourtant tu es là. Secret.

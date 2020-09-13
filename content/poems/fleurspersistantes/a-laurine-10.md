@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-11
 recueil: fleurspersistantes
+feature: false
 ---
 
 Tu fais partie de la nature, comme une fleur,

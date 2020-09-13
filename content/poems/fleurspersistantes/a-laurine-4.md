@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-05
 recueil: fleurspersistantes
+feature: false
 ---
 
 Une fois j'ai vu ton pied, nu, hors de son soulier,

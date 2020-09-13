@@ -3,6 +3,7 @@ title: "Aux filles de la classe"
 description: "Poème"
 date: 2009-02-06
 recueil: fleurspersistantes
+feature: false
 ---
 
 Vos visages sont les plus beaux langages

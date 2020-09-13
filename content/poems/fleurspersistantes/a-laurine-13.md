@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-14
 recueil: fleurspersistantes
+feature: false
 ---
 
 Un mot suffit à faire couler

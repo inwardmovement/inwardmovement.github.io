@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-19
 recueil: fleurspersistantes
+feature: false
 ---
 
 Rien moins que des lettres à toi sont ces poèmes :

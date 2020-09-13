@@ -3,6 +3,7 @@ title: "Dévotion"
 description: "Poème"
 date: 2011-01-11
 recueil: superero
+feature: false
 ---
 
 Je mets mon visage à tes pieds

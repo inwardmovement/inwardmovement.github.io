@@ -3,6 +3,7 @@ title: "Iceberg"
 description: "Poème"
 date: 2013-02-02
 recueil: meditations
+feature: false
 ---
 
 *à Emma*

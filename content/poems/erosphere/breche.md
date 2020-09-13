@@ -3,6 +3,7 @@ title: "Brèche"
 description: "Poème"
 date: 2015-01-22
 recueil: erosphere
+feature: false
 ---
 
 *pour accompagner une peinture d'un ami*

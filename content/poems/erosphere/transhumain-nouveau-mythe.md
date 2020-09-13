@@ -3,6 +3,7 @@ title: "transhumain nouveau mythe"
 description: "Poème"
 date: 2020-02-17
 recueil: erosphere
+feature: false
 ---
 
 la flamme de la connaissance dans les mains

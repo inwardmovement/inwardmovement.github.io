@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-21
 recueil: fleurspersistantes
+feature: false
 ---
 
 J'ai enfin trouvé la raison de mon ennui,

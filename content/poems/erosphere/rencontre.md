@@ -3,6 +3,7 @@ title: "Rencontre"
 description: "Poème"
 date: 2016-10-09
 recueil: erosphere
+feature: false
 ---
 
 on n'a pas besoin de courir

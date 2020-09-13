@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-20
 recueil: fleurspersistantes
+feature: false
 ---
 
 Je commence à chercher les journées de soleil,

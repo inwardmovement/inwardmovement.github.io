@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-02
 recueil: fleurspersistantes
+feature: false
 ---
 
 Laurine, ma douce, chaque fois que je te vois, je tombe.

@@ -3,6 +3,7 @@ title: "Équanimité I"
 description: "Poème"
 date: 2015-01-30
 recueil: erosphere
+feature: false
 ---
 
 et il trouva la porte vers l'infini

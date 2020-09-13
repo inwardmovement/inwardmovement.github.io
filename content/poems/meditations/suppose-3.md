@@ -3,6 +3,7 @@ title: "Suppose 3"
 description: "Poème"
 date: 2013-01-31
 recueil: meditations
+feature: false
 ---
 
 *à Emma*

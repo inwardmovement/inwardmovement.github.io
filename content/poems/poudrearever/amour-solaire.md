@@ -3,6 +3,7 @@ title: "Amour solaire"
 description: "Poème"
 date: 2012-01-17
 recueil: poudrearever
+feature: false
 ---
 
 *à Emma et Coline*

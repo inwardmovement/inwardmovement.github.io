@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-24
 recueil: fleurspersistantes
+feature: false
 ---
 
 Un jour allongé dans un champ

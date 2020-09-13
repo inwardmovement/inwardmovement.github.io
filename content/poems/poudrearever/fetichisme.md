@@ -3,6 +3,7 @@ title: "Fétichisme"
 description: "Poème"
 date: 2012-01-27
 recueil: poudrearever
+feature: false
 ---
 
 Tes pieds si nus sont une obscénité

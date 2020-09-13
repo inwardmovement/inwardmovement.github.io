@@ -3,6 +3,7 @@ title: "sagesse d'automne"
 description: "Poème"
 date: 2018-10-21
 recueil: erosphere
+feature: false
 ---
 
 sous les feuilles de l'automne

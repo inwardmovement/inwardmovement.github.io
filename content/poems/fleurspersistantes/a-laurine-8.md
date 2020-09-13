@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-09
 recueil: fleurspersistantes
+feature: false
 ---
 
 Ô ma Laurine, tu es mon fantasme divin,

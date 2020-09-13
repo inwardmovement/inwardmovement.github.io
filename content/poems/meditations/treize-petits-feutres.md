@@ -3,6 +3,7 @@ title: "Treize petits feutres"
 description: "Poème"
 date: 2013-02-11
 recueil: meditations
+feature: false
 ---
 
 Treize petits feutres

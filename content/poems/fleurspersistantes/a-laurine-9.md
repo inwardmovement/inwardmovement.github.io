@@ -3,6 +3,7 @@ title: "À Laurine"
 description: "Poème"
 date: 2009-01-10
 recueil: fleurspersistantes
+feature: false
 ---
 
 Dans l'ennui de mon attente,
