@@ -4,4 +4,3 @@
   {{ $mainCSS = $mainCSS | minify | fingerprint }}
 {{ end }}
 <link rel="stylesheet" href="{{ $mainCSS.RelPermalink }}" integrity="{{ $mainCSS.Data.Integrity }}">
-

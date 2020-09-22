@@ -1,4 +1,4 @@
-name: ci-cd
+name: ci-cd-main
 
 on:
   push:
@@ -25,7 +25,7 @@ jobs:
     - name: Install dependencies
       run: |
         npm ci
-        npm i -g gulp-cli postcss-cli autoprefixer
+        npm i -g gulp-cli postcss-cli@7 autoprefixer@9
       if: success()
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
