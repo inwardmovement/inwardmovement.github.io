@@ -213,13 +213,11 @@ main.container.article {
   ICONS
 ************************************************************/
 svg.bi {
-  font-size: 1.1em;
-  vertical-align: text-bottom;
-  width: 1.25em;
+  vertical-align: baseline;
 
   &.bi-box-arrow-up-right {
-    vertical-align: sub;
-    margin-left: .1em;
+    margin-left: .3em;
+    margin-bottom: -.1em;
   }
 }
 

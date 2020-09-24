@@ -1,3 +1,3 @@
 {
-  "github-actions.workflows.pinned.workflows": [".github/workflows/ci-cd.yml"],
+  "github-actions.workflows.pinned.workflows": [".github/workflows/deploy-main.yml"],
 }
