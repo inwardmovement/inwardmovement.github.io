@@ -22,7 +22,7 @@
     "gulp": "^4.0.2",
     "gulp-imagemin": "^6.2.0",
     "gulp-pretty-html": "^2.0.10",
-    "gulp-replace": "^0.6.1",
+    "gulp-replace": "^1.0.0",
     "imagemin-gifsicle": "^6.0.1",
     "imagemin-jpegtran": "^6.0.0",
     "imagemin-optipng": "^7.1.0",
