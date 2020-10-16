@@ -1,11 +1,9 @@
 <aside class="sidebar">
   <nav class="nav-poems-pagination" aria-label="Poems pagination">
-    <ul class="pagination">
+    <ul class="pagination ">
       {{ if eq .File.BaseFileName "_index" }}
         {{ range first 1 .Data.Pages.ByDate }}
-          <div style="height: 38px;">
-            <li class="page-item"><a class="page-link" href="{{ .RelPermalink }}">commencer la lecture</a></li>
-          </div>
+          <li class="page-item"><a class="page-link" href="{{ .RelPermalink }}">commencer la lecture</a></li>
         {{ end }}
       {{ else }}
       {{ $currentPage := . }}

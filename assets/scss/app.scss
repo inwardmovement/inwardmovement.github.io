@@ -434,10 +434,6 @@ header {
     margin-top: 10px;
     margin-bottom: 1.75rem;
     flex-wrap: wrap;
-
-    @include media-breakpoint-up(md) {
-        margin-top: 0;
-    }
   }
 
   .nav-poems-navigation {
@@ -484,6 +480,32 @@ header {
         & + .list-group-item.active {
           margin-top: 0;
         }
+      }
+    }
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .sidebar {
+    .pagination {
+      margin-top: 0;
+    }
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .sidebar {
+    // .pagination-lg styles
+    .pagination {
+      .page-item:first-child .page-link {
+        border-top-left-radius: .3rem;
+        border-bottom-left-radius: .3rem;
+      }
+
+      .page-link {
+        padding: .75rem 1.5rem;
+        font-size: 1.25rem;
+        line-height: 1.5;
       }
     }
   }
