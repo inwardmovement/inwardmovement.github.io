@@ -1,7 +1,7 @@
 ---
 title: "chaussettes à fleurs"
 description: "Poème"
-date: 2020-10-19
+date: 2020-10-18
 recueil: erosphere
 feature: false
 ---

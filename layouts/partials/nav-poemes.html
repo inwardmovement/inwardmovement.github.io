@@ -1,6 +1,6 @@
 <aside class="sidebar">
   <nav class="nav-poems-pagination" aria-label="Poems pagination">
-    <ul class="pagination ">
+    <ul class="pagination">
       {{ if eq .File.BaseFileName "_index" }}
         {{ range first 1 .Data.Pages.ByDate }}
           <li class="page-item"><a class="page-link" href="{{ .RelPermalink }}">commencer la lecture</a></li>

@@ -40,7 +40,6 @@ markup:
   tableOfContents:
     startLevel: 1
     endLevel: 5
-footnoteReturnLinkContents: "↑"
 menu:
   main:
     - Name: "Home"
