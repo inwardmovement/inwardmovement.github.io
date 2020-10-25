@@ -1,0 +1,17 @@
+{
+  "new-recueil": {
+		"scope": "markdown",
+		"prefix": "New recueil",
+		"body": [
+      "---",
+      "title: \"$1\"",
+      "description: \"Recueil : $1\"",
+      "layout: recueil",
+      "---",
+      "",
+      "En cours d'écriture",
+      ""
+		],
+		"description": ""
+	}
+}

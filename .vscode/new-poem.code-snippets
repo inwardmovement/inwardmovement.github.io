@@ -1,6 +1,6 @@
 {
   "new-poem": {
-		"scope": "plaintext,markdown",
+		"scope": "markdown",
 		"prefix": "New poem",
 		"body": [
 			"---",
