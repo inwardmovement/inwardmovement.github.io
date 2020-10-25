@@ -12,3 +12,6 @@
 - Install dependencies: `npm i`
 - Install [Netlify CLI](https://docs.netlify.com/cli/get-started/), [gulp-cli](https://www.npmjs.com/package/gulp-cli), [PostCSS CLI](https://github.com/postcss/postcss-cli) and [Autoprefixer](https://github.com/postcss/autoprefixer) globally: `npm i -g netlify-cli gulp-cli postcss-cli autoprefixer`
 - Clone the repo and run `npm start` from root
+
+## Workflow buttons
+To show workflow buttons in status bar in VSCode, install the [Power Tools](https://marketplace.visualstudio.com/items?itemName=ego-digital.vscode-powertools) extension.
