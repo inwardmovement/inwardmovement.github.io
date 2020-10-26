@@ -25,4 +25,3 @@ je crois que tes pas lisses en font la voie tentante
 où se dérobent les futurs combats
 
 et les chaussettes à pois en sont les garde-vie
-
