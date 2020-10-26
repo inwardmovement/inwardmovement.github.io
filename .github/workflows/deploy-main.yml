@@ -26,7 +26,6 @@ jobs:
       run: |
         npm ci --no-optional
         npm i -g gulp-cli postcss-cli@7 autoprefixer@9
-        npm list --depth=0 && npm list -g --depth=0
       if: success()
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
@@ -42,4 +41,10 @@ jobs:
       with:
         target_branch: gh-pages
         build_dir: public
+      if: success()
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: my-artifact
+        path: /
       if: success()
