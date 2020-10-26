@@ -42,9 +42,3 @@ jobs:
         target_branch: gh-pages
         build_dir: public
       if: success()
-    - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v2
-      with:
-        name: my-artifact
-        path: ${{ env.GITHUB_WORKSPACE }}/
-      if: success()
