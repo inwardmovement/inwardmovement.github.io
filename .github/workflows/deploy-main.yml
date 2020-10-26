@@ -24,7 +24,7 @@ jobs:
       if: success()
     - name: Install dependencies
       run: |
-        npm ci
+        npm ci --no-optional
         npm i -g gulp-cli postcss-cli@7 autoprefixer@9
       if: success()
     - name: Setup Hugo
