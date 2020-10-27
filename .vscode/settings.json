@@ -2,7 +2,8 @@
   "github-actions.workflows.pinned.workflows": [".github/workflows/deploy-main.yml"],
   "ego.power-tools": {
     "values": {
-      "currentRecueil": "erosphere",
+      "addPoemRecueil": "erosphere",
+      "addPoemRecueilsDir": "content/poems/",
       "currentTime": {
         "code": "$m().format()",
         "type": "code"
@@ -10,17 +11,10 @@
     },
     "buttons": [
       {
-        "text": "$(pencil) poème",
+        "text": "$(pencil) poem",
         "action": {
           "type": "script",
           "script": "addPoem.js"
-        }
-      },
-      {
-        "text": "$(book) recueil",
-        "action": {
-          "type": "script",
-          "script": "addRecueil.js"
         }
       }
     ]
