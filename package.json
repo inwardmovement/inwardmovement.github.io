@@ -29,6 +29,8 @@
     "imagemin-optipng": "^7.1.0",
     "imagemin-svgo": "^7.1.0"
   },
-  "optionalDependencies": {},
+  "optionalDependencies": {
+    "slugify": "^1.4.5"
+  },
   "peerDependencies": {}
 }
