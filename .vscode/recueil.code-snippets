@@ -1,7 +1,7 @@
 {
-  "new-recueil": {
+  "recueil": {
 		"scope": "markdown",
-		"prefix": "New recueil",
+		"prefix": "recueil",
 		"body": [
       "---",
       "title: \"$1\"",
