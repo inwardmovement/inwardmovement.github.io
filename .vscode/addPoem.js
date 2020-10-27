@@ -20,13 +20,11 @@ exports.execute = async (args) => {
         edit.createFile(poemURI, {ignoreIfExists: true})
         vscode.workspace.applyEdit(edit)
 
-        vscode.window.showInformationMessage('' + poemURI)
-
         // boucle notif si fichier existe déjà > input slug (suggère "...-2/3/... .md")
         // prefill file > workspace.fs.writeFile
-        // event listener onDidCreateFiles > open file > https://stackoverflow.com/a/39183552/6430293 > showInformationMessage
-        // vscode.window.showInformationMessage(vscode.window.activeTextEditor.document.uri + ' created')
-        // > but uri from workspace root
+        // event listener onDidCreateFiles > notif + open file > https://stackoverflow.com/a/39183552/6430293
+        vscode.window.showInformationMessage((vscode.window.activeTextEditor.document.uri).toString().substring((vscode.workspace.workspaceFolders[0].uri).toString().length).substring(1) + ' created')
+        // mais notif basé sur le fichier créé dans edit, pas sur fichier actif
         // gestion des erreurs
       }
   })
