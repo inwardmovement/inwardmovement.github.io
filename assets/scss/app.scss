@@ -215,9 +215,10 @@ main.container.article {
 svg.bi {
   vertical-align: baseline;
 
-  &.bi-box-arrow-up-right {
-    margin-left: .3em;
-    margin-bottom: -.1em;
+  &.bi-arrow-up-right {
+    vertical-align: sub;
+    margin-left: .1em;
+    margin-bottom: .1em;
   }
 
   &.bi-book {
