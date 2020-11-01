@@ -1,0 +1,41 @@
+{
+  "poem": {
+		"scope": "markdown",
+		"prefix": "poem",
+		"body": [
+			"---",
+      "title: \"$1\"",
+      "description: \"Poème\"",
+      "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE${CURRENT_HOUR/(.*)/T$1/}:$CURRENT_MINUTE:$CURRENT_SECOND+02:00",
+      "recueil: erosphere",
+      "feature: false",
+      "---",
+      "",
+      "$0",
+      "",
+		]
+  },
+  "recueil": {
+		"scope": "markdown",
+		"prefix": "recueil",
+		"body": [
+      "---",
+      "title: \"$1\"",
+      "description: \"Recueil : $1\"",
+      "layout: recueil",
+      "---",
+      "",
+      "En cours d'écriture",
+      ""
+		]
+  },
+  "quote": {
+		"scope": "markdown",
+		"prefix": "quote",
+		"body": [
+      "{{< quote \"$1\" >}}",
+      "$0",
+			"{{< /quote >}}",
+		]
+	}
+}
