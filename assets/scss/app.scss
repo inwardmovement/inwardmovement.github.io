@@ -376,7 +376,7 @@ header {
     .nav-link {
       border-radius: 0;
 
-      &.active, {
+      &.active {
         background-color: $primary-alt;
       }
     }
@@ -387,10 +387,6 @@ header {
   #nav-recueils {
     .nav-pills {
       display: flex;
-
-      .nav-item {
-
-      }
     }
   }
 }
@@ -720,6 +716,8 @@ article {
     .photo img {
       width: 100px;
       filter: brightness(170%);
+      // fix blur on Chrome
+      image-rendering: -webkit-optimize-contrast;
 
       @include media-breakpoint-up(sm) {
         float: right;
