@@ -18,7 +18,6 @@
     "url": "https://github.com/inwardmovement/inwardmovement.github.io/issues"
   },
   "homepage": "https://github.com/inwardmovement/inwardmovement.github.io",
-  "dependencies": {},
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-imagemin": "^6.2.0",
@@ -28,7 +27,5 @@
     "imagemin-jpegtran": "^6.0.0",
     "imagemin-optipng": "^7.1.0",
     "imagemin-svgo": "^7.1.0"
-  },
-  "optionalDependencies": {},
-  "peerDependencies": {}
+  }
 }
