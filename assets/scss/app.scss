@@ -775,8 +775,12 @@ article {
     display: flex;
     justify-content: center;
 
-    a, button {
-      margin-right: 0.5em;
+    .btn {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-right: .5em;
+      padding: .5em;
 
       &:last-child {
         margin-right: 0;
@@ -784,12 +788,11 @@ article {
     }
 
     svg {
-      width: 1.5rem;
-      vertical-align: bottom;
+      width: 2rem;
       fill: #fff;
 
       &.bi {
-        font-size: 1.5em;
+        font-size: 1.75em;
       }
     }
 
