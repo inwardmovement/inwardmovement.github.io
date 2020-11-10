@@ -20,12 +20,7 @@
   "homepage": "https://github.com/inwardmovement/inwardmovement.github.io",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-imagemin": "^7.1.0",
     "gulp-pretty-html": "^2.0.10",
-    "gulp-replace": "^1.0.0",
-    "imagemin-gifsicle": "^7.0.0",
-    "imagemin-jpegtran": "^6.0.0",
-    "imagemin-optipng": "^8.0.0",
-    "imagemin-svgo": "^8.0.0"
+    "gulp-replace": "^1.0.0"
   }
 }

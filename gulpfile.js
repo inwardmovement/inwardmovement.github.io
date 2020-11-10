@@ -1,7 +1,6 @@
 const { src, dest, series } = require('gulp'),
       replace               = require('gulp-replace'),
-      beautify              = require('gulp-pretty-html'),
-      imagemin              = require('gulp-imagemin');
+      beautify              = require('gulp-pretty-html')
 
 function html() {
   return src('public/**/*.html')
@@ -23,13 +22,4 @@ function html() {
     .pipe(dest('public'))
 }
 
-function imgGlobal() {
-  return src('public/img/**/*.*')
-    .pipe(imagemin([
-      imagemin.jpegtran({progressive: true}),
-      imagemin.optipng({optimizationLevel: 5}),
-    ]))
-    .pipe(dest('public/img'))
-}
-
-exports.default = series(html, imgGlobal);
+exports.default = html
