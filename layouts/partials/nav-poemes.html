@@ -7,7 +7,7 @@
         {{ end }}
       {{ else }}
       {{ $currentPage := . }}
-      {{ range where .Site.Pages.ByDate "Params.recueil" .Params.recueil }}
+      {{ range where .Site.RegularPages.ByDate "Params.recueil" .Params.recueil }}
       {{ if eq .RelPermalink $currentPage.RelPermalink }}
       <li class="page-item{{if not .PrevInSection}} disabled noselect{{ end }}"><a class="page-link" href="{{if .PrevInSection}}{{.PrevInSection.RelPermalink}}{{end}}">précédent</a></li>
       <li class="page-item{{if not .NextInSection}} disabled noselect{{ end }}"><a class="page-link" href="{{if .NextInSection}}{{.NextInSection.RelPermalink}}{{end}}">suivant</a></li>
@@ -25,7 +25,7 @@
           <a class="list-group-item list-group-item-action{{ if $isCurrent }} active{{ end }}" href="{{ .RelPermalink }}">{{ .Title }}{{ if $isCurrent }} <span class="sr-only">(active)</span>{{ end }}</a>
         {{ end }}
       {{ else }}
-        {{ range where .Site.Pages.ByDate "Params.recueil" .Params.recueil }}
+        {{ range where .Site.RegularPages.ByDate "Params.recueil" .Params.recueil }}
         {{ $isCurrent := eq .RelPermalink $currentPage.RelPermalink }}
         <a class="list-group-item list-group-item-action{{ if $isCurrent }} active{{ end }}" href="{{ .RelPermalink }}">{{ .Title }}{{ if $isCurrent }} <span class="sr-only">(active)</span>{{ end }}</a>
         {{ end }}
