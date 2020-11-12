@@ -6,7 +6,7 @@ printrecueil: superero
 weight: 2
 ---
 
-Écrits entre 2011 et 2012. Poèmes amoureux et érotiques.
+Écrits entre 2011 et 2012.
 
 {{% quote "Paul Éluard" %}}
   Il suffit d'avancer pour vivre

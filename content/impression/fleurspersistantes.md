@@ -6,7 +6,7 @@ printrecueil: fleurspersistantes
 weight: 1
 ---
 
-Écrits entre 2009 et 2011. Poèmes amoureux et érotiques.
+Écrits entre 2009 et 2011.
 
 {{% quote "Paul Éluard" %}}
   Je suis devant ce paysage féminin

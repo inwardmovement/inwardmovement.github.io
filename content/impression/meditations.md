@@ -6,7 +6,7 @@ printrecueil: meditations
 weight: 4
 ---
 
-Écrits entre 2013 et 2014. Poèmes introspectifs et amoureux.
+Écrits entre 2013 et 2014.
 
 {{% quote "Charles Juliet" %}}
   Un jour
