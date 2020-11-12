@@ -1,9 +1,6 @@
 ---
 title: "La plus lourde matière de l'univers"
-description: "Poème"
 date: 2012-01-04
-recueil: poudrearever
-feature: false
 ---
 
 Viens avec moi je t'emmène dans les étoiles

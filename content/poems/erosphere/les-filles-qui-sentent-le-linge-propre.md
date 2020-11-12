@@ -1,9 +1,6 @@
 ---
 title: "les filles qui sentent le linge propre"
-description: "Poème"
 date: 2016-01-24
-recueil: erosphere
-feature: false
 ---
 
 les filles qui sentent le linge propre

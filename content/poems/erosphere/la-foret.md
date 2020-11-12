@@ -1,9 +1,6 @@
 ---
 title: "la forêt"
-description: "Poème"
 date: 2018-01-20
-recueil: erosphere
-feature: false
 ---
 
 quand tu lèves les yeux

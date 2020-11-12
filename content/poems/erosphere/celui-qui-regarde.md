@@ -1,9 +1,6 @@
 ---
 title: "celui qui regarde"
-description: "Poème"
 date: 2015-01-21
-recueil: erosphere
-feature: false
 ---
 
 celui qui regarde la Réalité

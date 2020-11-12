@@ -1,9 +1,6 @@
 ---
 title: "sur l'herbe verte"
-description: "Poème"
 date: 2016-01-17
-recueil: erosphere
-feature: false
 ---
 
 sur l'herbe verte

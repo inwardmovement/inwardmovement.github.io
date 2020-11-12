@@ -1,9 +1,6 @@
 ---
 title: "À Laurine"
-description: "Poème"
 date: 2009-01-07
-recueil: fleurspersistantes
-feature: false
 ---
 
 J'espère bien que ces mots te feront voyager

@@ -1,9 +1,6 @@
 ---
 title: "Odeur"
-description: "Poème"
 date: 2012-01-29
-recueil: poudrearever
-feature: false
 ---
 
 Tu n'imagines pas ton odeur

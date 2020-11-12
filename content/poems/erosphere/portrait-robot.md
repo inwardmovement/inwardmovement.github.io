@@ -1,9 +1,6 @@
 ---
 title: "portrait-robot"
-description: "Poème"
 date: 2018-06-04
-recueil: erosphere
-feature: false
 ---
 
 elle est bien seule

@@ -1,9 +1,6 @@
 ---
 title: "Amant"
-description: "Poème"
 date: 2011-01-12
-recueil: superero
-feature: false
 ---
 
 Suis-je digne de ton corps ?

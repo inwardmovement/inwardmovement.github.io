@@ -1,8 +1,6 @@
 ---
 title: "Quête sidérale"
-description: "Poème"
 date: 2015-01-29
-recueil: erosphere
 feature: true
 ---
 

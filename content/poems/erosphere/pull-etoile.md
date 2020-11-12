@@ -1,9 +1,6 @@
 ---
 title: "pull étoilé"
-description: "Poème"
 date: 2019-06-14T20:34:14+02:00
-recueil: erosphere
-feature: false
 ---
 
 *à Orane*

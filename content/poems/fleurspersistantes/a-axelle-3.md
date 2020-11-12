@@ -1,9 +1,6 @@
 ---
 title: "À Axelle"
-description: "Poème"
 date: 2009-02-13
-recueil: fleurspersistantes
-feature: false
 ---
 
 Serait-ce mon amie une offense à nos liens

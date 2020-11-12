@@ -1,9 +1,6 @@
 ---
 title: "À Laurine"
-description: "Poème"
 date: 2009-01-18
-recueil: fleurspersistantes
-feature: false
 ---
 
 Puisque tu dis que j'ai perdu

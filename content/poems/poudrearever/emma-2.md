@@ -1,9 +1,6 @@
 ---
 title: "Emma II"
-description: "Poème"
 date: 2012-02-09
-recueil: poudrearever
-feature: false
 ---
 
 Avec toi Emma le temps se densifie

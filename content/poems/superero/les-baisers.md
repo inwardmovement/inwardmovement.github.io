@@ -1,9 +1,6 @@
 ---
 title: "Les baisers"
-description: "Poème"
 date: 2011-01-30
-recueil: superero
-feature: false
 ---
 
 Amis je vous propose, en réponse à <abbr title="Membre d'un forum de poésie">Patgui</abbr>,

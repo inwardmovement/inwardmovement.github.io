@@ -1,9 +1,6 @@
 ---
 title: "j'observerai"
-description: "Poème"
 date: 2015-02-03
-recueil: erosphere
-feature: false
 ---
 
 j'observerai jusqu'à l'infini

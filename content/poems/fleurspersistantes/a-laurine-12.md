@@ -1,9 +1,6 @@
 ---
 title: "À Laurine"
-description: "Poème"
 date: 2009-01-13
-recueil: fleurspersistantes
-feature: false
 ---
 
 Je montre ma passion,

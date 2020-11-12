@@ -1,9 +1,6 @@
 ---
 title: "la fulgurante envie"
-description: "Poème"
 date: 2015-01-28
-recueil: erosphere
-feature: false
 ---
 
 la fulgurante envie

@@ -1,9 +1,6 @@
 ---
 title: "À l'école"
-description: "Poème"
 date: 2011-01-15
-recueil: superero
-feature: false
 ---
 
 Tiens prend ma langue

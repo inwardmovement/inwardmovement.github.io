@@ -1,9 +1,6 @@
 ---
 title: "tour du monde"
-description: "Poème"
 date: 2019-06-30T12:13:30+02:00
-recueil: erosphere
-feature: false
 ---
 
 *à Erelle*

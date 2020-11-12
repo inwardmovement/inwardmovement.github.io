@@ -1,9 +1,6 @@
 ---
 title: "La brosse à picots"
-description: "Poème"
 date: 2013-01-27
-recueil: meditations
-feature: false
 ---
 
 celle qui se faisait plaisir avec le manche d'une brosse à picots

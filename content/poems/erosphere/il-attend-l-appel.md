@@ -1,9 +1,6 @@
 ---
 title: "il attend l'appel"
-description: "Poème"
 date: 2015-01-06
-recueil: erosphere
-feature: false
 ---
 
 il attend l'appel

@@ -1,9 +1,6 @@
 ---
 title: "L'orée"
-description: "Poème"
 date: 2013-02-09
-recueil: meditations
-feature: false
 ---
 
 *à Emma*

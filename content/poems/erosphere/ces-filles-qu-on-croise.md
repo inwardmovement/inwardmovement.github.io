@@ -1,9 +1,6 @@
 ---
 title: "ces filles qu'on croise"
-description: "Poème"
 date: 2015-01-23
-recueil: erosphere
-feature: false
 ---
 
 ces filles qu'on croise

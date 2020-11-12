@@ -1,9 +1,6 @@
 ---
 title: "Ouverture"
-description: "Poème"
 date: 2012-01-24
-recueil: poudrearever
-feature: false
 ---
 
 Si j'avais su qu'une fille pût ouvrir mon cœur

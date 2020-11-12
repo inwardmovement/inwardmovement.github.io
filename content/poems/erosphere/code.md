@@ -1,9 +1,6 @@
 ---
 title: "code"
-description: "Poème"
 date: 2018-01-06
-recueil: erosphere
-feature: false
 ---
 
 le code s'efface

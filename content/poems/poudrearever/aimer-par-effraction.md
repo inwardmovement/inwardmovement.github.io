@@ -1,9 +1,6 @@
 ---
 title: "Aimer par effraction"
-description: "Poème"
 date: 2012-02-07
-recueil: poudrearever
-feature: false
 ---
 
 *à Emma*

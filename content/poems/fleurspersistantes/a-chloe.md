@@ -1,9 +1,6 @@
 ---
 title: "À Chloé"
-description: "Poème"
 date: 2009-02-21
-recueil: fleurspersistantes
-feature: false
 ---
 
 Chloé : lit ce portrait

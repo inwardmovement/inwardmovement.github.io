@@ -1,9 +1,6 @@
 ---
 title: "la forme de l'eau"
-description: "Poème"
 date: 2018-05-16
-recueil: erosphere
-feature: false
 ---
 
 *à Leslie*

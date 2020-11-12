@@ -1,9 +1,6 @@
 ---
 title: "matrice"
-description: "Poème"
 date: 2020-04-24
-recueil: erosphere
-feature: false
 ---
 
 dans mon carré de rêve

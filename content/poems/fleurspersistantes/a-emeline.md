@@ -1,9 +1,6 @@
 ---
 title: "À Émeline"
-description: "Poème"
 date: 2009-01-22
-recueil: fleurspersistantes
-feature: false
 ---
 
 Nous allons dans la rue, léger vent de minuit,

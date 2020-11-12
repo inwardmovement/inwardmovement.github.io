@@ -1,9 +1,6 @@
 ---
 title: "À Mylène"
-description: "Poème"
 date: 2011-01-22
-recueil: superero
-feature: false
 ---
 
 M'autoriserais-tu à respirer ton corps ?

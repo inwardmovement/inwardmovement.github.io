@@ -2,6 +2,9 @@
 title: "Poudre à rêver"
 description: "Recueil : Poudre à rêver"
 layout: recueil
+cascade:
+  recueil: poudrearever
+  description: "Poème"
 ---
 
 Écrits entre 2012 et 2013.

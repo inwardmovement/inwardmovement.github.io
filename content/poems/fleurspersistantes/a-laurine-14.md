@@ -1,9 +1,6 @@
 ---
 title: "À Laurine"
-description: "Poème"
 date: 2009-01-15
-recueil: fleurspersistantes
-feature: false
 ---
 
 Petites mains mignonnes

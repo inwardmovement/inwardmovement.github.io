@@ -1,9 +1,6 @@
 ---
 title: "Transmutation"
-description: "Poème"
 date: 2011-01-17
-recueil: superero
-feature: false
 ---
 
 Tentacules tragiques de mon émotion

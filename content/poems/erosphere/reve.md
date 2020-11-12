@@ -1,9 +1,6 @@
 ---
 title: "rêve"
-description: "Poème"
 date: 2018-05-14T00:00:01
-recueil: erosphere
-feature: false
 ---
 
 on apprend à ne plus rêver

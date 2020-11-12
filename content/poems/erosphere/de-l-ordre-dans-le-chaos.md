@@ -1,9 +1,6 @@
 ---
 title: "de l'ordre dans le chaos"
-description: "Poème"
 date: 2018-12-05
-recueil: erosphere
-feature: false
 ---
 
 à coups de cœurs

@@ -1,9 +1,6 @@
 ---
 title: "comme on plante un drapeau"
-description: "Poème"
 date: 2015-01-02
-recueil: erosphere
-feature: false
 ---
 
 comme on plante un drapeau

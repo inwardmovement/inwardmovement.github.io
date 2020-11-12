@@ -1,9 +1,6 @@
 ---
 title: "Trac II"
-description: "Poème"
 date: 2012-01-15
-recueil: poudrearever
-feature: false
 ---
 
 je suis là pour toi

@@ -1,9 +1,6 @@
 ---
 title: "la grotte"
-description: "Poème"
 date: 2019-06-26T10:50:40+02:00
-recueil: erosphere
-feature: false
 ---
 
 ne s'attendre à rien

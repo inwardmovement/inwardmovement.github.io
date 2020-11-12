@@ -1,9 +1,6 @@
 ---
 title: "Corps"
-description: "Poème"
 date: 2015-02-11
-recueil: erosphere
-feature: false
 ---
 
 toujours le premier geste

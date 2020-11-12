@@ -1,9 +1,6 @@
 ---
 title: "Piédestal"
-description: "Poème"
 date: 2011-01-13
-recueil: superero
-feature: false
 ---
 
 Toi l'étrangère sur le quai

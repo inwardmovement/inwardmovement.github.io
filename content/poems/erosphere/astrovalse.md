@@ -1,9 +1,6 @@
 ---
 title: "astrovalse"
-description: "Poème"
 date: 2020-04-23
-recueil: erosphere
-feature: false
 ---
 
 *à Agathe*

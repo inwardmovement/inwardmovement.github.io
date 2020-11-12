@@ -1,9 +1,6 @@
 ---
 title: "La Muse et le garçon"
-description: "Poème"
 date: 2009-02-14
-recueil: fleurspersistantes
-feature: false
 ---
 
 La Muse

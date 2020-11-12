@@ -1,9 +1,6 @@
 ---
 title: "Soleil sur la forêt"
-description: "Poème"
 date: 2017-11-11
-recueil: erosphere
-feature: false
 ---
 
 face au couchant

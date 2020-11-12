@@ -1,9 +1,6 @@
 ---
 title: "sur le toit"
-description: "Poème"
 date: 2015-06-01
-recueil: erosphere
-feature: false
 ---
 
 courir après les filles

@@ -1,9 +1,6 @@
 ---
 title: "Là-haut"
-description: "Poème"
 date: 2012-01-02
-recueil: poudrearever
-feature: false
 ---
 
 Nous nous rencontrerons peut-être là-haut

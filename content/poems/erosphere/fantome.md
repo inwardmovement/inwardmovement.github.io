@@ -1,9 +1,6 @@
 ---
 title: "fantôme"
-description: "Poème"
 date: 2018-09-18
-recueil: erosphere
-feature: false
 ---
 
 l'inconnue

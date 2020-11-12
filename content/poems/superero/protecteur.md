@@ -1,9 +1,6 @@
 ---
 title: "Protecteur"
-description: "Poème"
 date: 2011-01-16
-recueil: superero
-feature: false
 ---
 
 J'oublie la morsure de tes dents sur mon cœur

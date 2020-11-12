@@ -1,9 +1,6 @@
 ---
 title: "attente"
-description: "Poème"
 date: 2018-09-15T00:00:01
-recueil: erosphere
-feature: false
 ---
 
 la nature me dit d'attendre

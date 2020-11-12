@@ -1,9 +1,6 @@
 ---
 title: "Scène érotique II"
-description: "Poème"
 date: 2011-01-02
-recueil: superero
-feature: false
 ---
 
 Ce soir elle l'invita chez elle

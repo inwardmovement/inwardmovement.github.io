@@ -1,9 +1,6 @@
 ---
 title: "Brasier"
-description: "Poème"
 date: 2013-02-04
-recueil: meditations
-feature: false
 ---
 
 *à Emma*

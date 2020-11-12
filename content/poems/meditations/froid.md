@@ -1,9 +1,6 @@
 ---
 title: "Froid"
-description: "Poème"
 date: 2013-02-03
-recueil: meditations
-feature: false
 ---
 
 *à Emma*

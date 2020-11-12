@@ -1,9 +1,6 @@
 ---
 title: "Érotis"
-description: "Poème"
 date: 2020-09-07
-recueil: erosphere
-feature: false
 ---
 
 *à Anaïs*

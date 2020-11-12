@@ -1,9 +1,6 @@
 ---
 title: "la forme du feu"
-description: "Poème"
 date: 2020-06-16
-recueil: erosphere
-feature: false
 ---
 
 *à Gwendoline*

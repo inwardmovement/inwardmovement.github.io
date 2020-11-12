@@ -1,9 +1,6 @@
 ---
 title: "La romance érotique"
-description: "Poème"
 date: 2009-02-16
-recueil: fleurspersistantes
-feature: false
 ---
 
 De quoi se cache-t-on ?

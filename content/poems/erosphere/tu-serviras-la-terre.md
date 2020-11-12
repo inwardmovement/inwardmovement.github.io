@@ -1,9 +1,6 @@
 ---
 title: "tu serviras la Terre"
-description: "Poème"
 date: 2015-01-25
-recueil: erosphere
-feature: false
 ---
 
 tu serviras la Terre

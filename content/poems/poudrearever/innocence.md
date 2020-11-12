@@ -1,9 +1,6 @@
 ---
 title: "Innocence"
-description: "Poème"
 date: 2012-01-23
-recueil: poudrearever
-feature: false
 ---
 
 J'aime quand on court pieds nus dans l'herbe

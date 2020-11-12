@@ -1,9 +1,6 @@
 ---
 title: "Chevalier"
-description: "Poème"
 date: 2012-02-01
-recueil: poudrearever
-feature: false
 ---
 
 Mais quel plaisir d'être au service de ces dames

@@ -1,9 +1,6 @@
 ---
 title: "prisonnier"
-description: "Poème"
 date: 2018-06-09
-recueil: erosphere
-feature: false
 ---
 
 *à Ambre*

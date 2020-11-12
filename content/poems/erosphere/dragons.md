@@ -1,9 +1,6 @@
 ---
 title: "dragons"
-description: "Poème"
 date: 2020-05-04
-recueil: erosphere
-feature: false
 ---
 
 j'ai déjà monté cette montagne

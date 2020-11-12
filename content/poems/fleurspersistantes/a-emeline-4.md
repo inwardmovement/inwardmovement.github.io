@@ -1,9 +1,6 @@
 ---
 title: "À Émeline"
-description: "Poème"
 date: 2009-02-01
-recueil: fleurspersistantes
-feature: false
 ---
 
 Quand tu écris

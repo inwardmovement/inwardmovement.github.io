@@ -1,9 +1,6 @@
 ---
 title: "Attache-moi si tu peux"
-description: "Poème"
 date: 2012-02-02
-recueil: poudrearever
-feature: false
 ---
 
 *à Emma et Coline*

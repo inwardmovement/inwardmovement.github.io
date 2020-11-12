@@ -1,9 +1,6 @@
 ---
 title: "objectif lune"
-description: "Poème"
 date: 2020-04-22
-recueil: erosphere
-feature: false
 ---
 
 *à Agathe*

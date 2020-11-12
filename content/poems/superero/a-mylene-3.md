@@ -1,9 +1,6 @@
 ---
 title: "À Mylène"
-description: "Poème"
 date: 2011-01-19
-recueil: superero
-feature: false
 ---
 
 En cette nuit d'hiver, tu me dis ça : "qui sait ?"

@@ -1,9 +1,6 @@
 ---
 title: "Suppose 4"
-description: "Poème"
 date: 2013-02-01
-recueil: meditations
-feature: false
 ---
 
 *à Emma*

@@ -1,9 +1,6 @@
 ---
 title: "À Laurine"
-description: "Poème"
 date: 2009-01-28
-recueil: fleurspersistantes
-feature: false
 ---
 
 Je caresse ta chaussette

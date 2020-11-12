@@ -1,9 +1,6 @@
 ---
 title: "Sous tes pieds"
-description: "Poème"
 date: 2011-01-14
-recueil: superero
-feature: false
 ---
 
 Tu m'écrases de ta vertu

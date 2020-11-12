@@ -2,6 +2,9 @@
 title: "Érosphère"
 description: "Recueil : Érosphère"
 layout: recueil
+cascade:
+  recueil: erosphere
+  description: "Poème"
 ---
 
 En cours d'écriture

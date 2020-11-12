@@ -1,9 +1,6 @@
 ---
 title: "Claque"
-description: "Poème"
 date: 2012-01-09
-recueil: poudrearever
-feature: false
 ---
 
 elle m'a regardé avec un sourire et des yeux tellement ouverts

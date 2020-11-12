@@ -1,9 +1,6 @@
 ---
 title: "Vers"
-description: "Poème"
 date: 2009-02-19
-recueil: fleurspersistantes
-feature: false
 ---
 
 C'est le ciel rouge

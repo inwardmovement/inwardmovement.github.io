@@ -1,9 +1,6 @@
 ---
 title: "Trac I"
-description: "Poème"
 date: 2012-01-07
-recueil: poudrearever
-feature: false
 ---
 
 Cette espèce de trac

@@ -1,9 +1,6 @@
 ---
 title: "La fille de l'automne"
-description: "Poème"
 date: 2015-12-11
-recueil: erosphere
-feature: false
 ---
 
 sur son banc

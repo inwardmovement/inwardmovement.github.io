@@ -1,9 +1,6 @@
 ---
 title: "Mon amour"
-description: "Poème"
 date: 2012-01-31
-recueil: poudrearever
-feature: false
 ---
 
 Il n'y a rien à faire ici

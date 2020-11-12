@@ -1,9 +1,6 @@
 ---
 title: "explorateurs"
-description: "Poème"
 date: 2020-06-12
-recueil: erosphere
-feature: false
 ---
 
 *à Gwendoline*

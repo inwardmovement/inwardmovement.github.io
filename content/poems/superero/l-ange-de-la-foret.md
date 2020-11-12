@@ -1,9 +1,6 @@
 ---
 title: "L'Ange de la forêt"
-description: "Poème"
 date: 2011-01-18
-recueil: superero
-feature: false
 ---
 
 Elle est nue elle avance

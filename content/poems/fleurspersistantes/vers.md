@@ -1,9 +1,6 @@
 ---
 title: "Vers"
-description: "Poème"
 date: 2009-02-11
-recueil: fleurspersistantes
-feature: false
 ---
 
 Donne vie à mon rêve

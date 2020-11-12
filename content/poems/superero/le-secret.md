@@ -1,9 +1,6 @@
 ---
 title: "Le secret"
-description: "Poème"
 date: 2011-01-31
-recueil: superero
-feature: false
 ---
 
 Intuition me susurre que Muse est unique

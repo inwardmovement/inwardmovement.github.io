@@ -1,9 +1,6 @@
 ---
 title: "À Émeline"
-description: "Poème"
 date: 2009-02-04
-recueil: fleurspersistantes
-feature: false
 ---
 
 Je suis en classe et je rêve

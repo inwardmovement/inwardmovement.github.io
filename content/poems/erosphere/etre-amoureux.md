@@ -1,9 +1,6 @@
 ---
 title: "être amoureux"
-description: "Poème"
 date: 2020-11-10T22:28:43+02:00
-recueil: erosphere
-feature: false
 ---
 
 quand t'es amoureux tout lévite

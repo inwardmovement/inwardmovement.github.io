@@ -1,9 +1,6 @@
 ---
 title: "peintre"
-description: "Poème"
 date: 2020-07-01
-recueil: erosphere
-feature: false
 ---
 
 arc-en-ciel de nuit

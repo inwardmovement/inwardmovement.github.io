@@ -1,9 +1,6 @@
 ---
 title: "les abandonnés"
-description: "Poème"
 date: 2020-11-10T09:20:50+02:00
-recueil: erosphere
-feature: false
 ---
 
 conscient de tout ce que l'ennui nous fait rater

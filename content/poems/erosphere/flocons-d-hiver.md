@@ -1,9 +1,6 @@
 ---
 title: "flocons d'hiver"
-description: "Poème"
 date: 2020-10-23T08:54:49+02:00
-recueil: erosphere
-feature: false
 ---
 
 les flocons d'hiver baptisent notre amour

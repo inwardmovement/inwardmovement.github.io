@@ -1,9 +1,6 @@
 ---
 title: "Éternité"
-description: "Poème"
 date: 2012-01-06
-recueil: poudrearever
-feature: false
 ---
 
 Quand on monte ensemble dans le ciel

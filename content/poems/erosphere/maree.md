@@ -1,9 +1,6 @@
 ---
 title: "marée"
-description: "Poème"
 date: 2019-07-29
-recueil: erosphere
-feature: false
 ---
 
 *à L.*

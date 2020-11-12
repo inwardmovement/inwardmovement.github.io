@@ -2,6 +2,9 @@
 title: "Méditations"
 description: "Recueil : Méditations"
 layout: recueil
+cascade:
+  recueil: meditations
+  description: "Poème"
 ---
 
 Écrits entre 2013 et 2014.

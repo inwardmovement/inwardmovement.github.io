@@ -1,9 +1,6 @@
 ---
 title: "Repos"
-description: "Poème"
 date: 2012-01-22
-recueil: poudrearever
-feature: false
 ---
 
 J'aime quand tu te reposes sur moi

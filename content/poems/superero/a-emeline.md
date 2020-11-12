@@ -1,9 +1,6 @@
 ---
 title: "À Émeline"
-description: "Poème"
 date: 2011-01-28
-recueil: superero
-feature: false
 ---
 
 Parfois je rends visite à ce jardin secret

@@ -1,9 +1,6 @@
 ---
 title: "parfois"
-description: "Poème"
 date: 2015-01-11
-recueil: erosphere
-feature: false
 ---
 
 parfois

@@ -1,9 +1,6 @@
 ---
 title: "À Mylène"
-description: "Poème"
 date: 2011-01-24
-recueil: superero
-feature: false
 ---
 
 Ça y est suis fou de toi

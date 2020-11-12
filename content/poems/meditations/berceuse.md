@@ -1,9 +1,6 @@
 ---
 title: "Berceuse"
-description: "Poème"
 date: 2013-02-10
-recueil: meditations
-feature: false
 ---
 
 *à Emma*

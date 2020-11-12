@@ -1,9 +1,6 @@
 ---
 title: "Lélie"
-description: "Poème"
 date: 2018-05-14
-recueil: erosphere
-feature: false
 ---
 
 l'étrangère qu'on semble connaitre

@@ -1,9 +1,6 @@
 ---
 title: "Soleil"
-description: "Poème"
 date: 2013-02-08
-recueil: meditations
-feature: false
 ---
 
 *à Emma*

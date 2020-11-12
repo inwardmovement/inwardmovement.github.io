@@ -1,9 +1,6 @@
 ---
 title: "Jouir"
-description: "Poème"
 date: 2012-01-13
-recueil: poudrearever
-feature: false
 ---
 
 Comment la rendre folle

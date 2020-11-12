@@ -1,9 +1,6 @@
 ---
 title: "Le pervers"
-description: "Poème"
 date: 2011-01-09
-recueil: superero
-feature: false
 ---
 
 Quand on regarde les filles sortir du collège

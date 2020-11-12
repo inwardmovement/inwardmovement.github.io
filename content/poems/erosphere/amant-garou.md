@@ -1,9 +1,6 @@
 ---
 title: "amant-garou"
-description: "Poème"
 date: 2020-03-21
-recueil: erosphere
-feature: false
 ---
 
 *à Sophie*

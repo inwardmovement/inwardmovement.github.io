@@ -1,9 +1,6 @@
 ---
 title: "À Mylène"
-description: "Poème"
 date: 2011-01-04
-recueil: superero
-feature: false
 ---
 
 Je veux être ton serviteur

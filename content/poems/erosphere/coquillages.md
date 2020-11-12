@@ -1,9 +1,6 @@
 ---
 title: "coquillages"
-description: "Poème"
 date: 2018-12-28
-recueil: erosphere
-feature: false
 ---
 
 *à Lera*

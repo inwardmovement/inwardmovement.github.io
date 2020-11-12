@@ -1,9 +1,6 @@
 ---
 title: "don"
-description: "Poème"
 date: 2018-06-10
-recueil: erosphere
-feature: false
 ---
 
 *à Ambre*

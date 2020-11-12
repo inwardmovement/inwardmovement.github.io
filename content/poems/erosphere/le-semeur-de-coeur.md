@@ -1,9 +1,6 @@
 ---
 title: "Le semeur de cœur"
-description: "Poème"
 date: 2015-12-21
-recueil: erosphere
-feature: false
 ---
 
 il marche de fille en fille

@@ -1,9 +1,6 @@
 ---
 title: "mouvement"
-description: "Poème"
 date: 2018-08-21
-recueil: erosphere
-feature: false
 ---
 
 mis à nu

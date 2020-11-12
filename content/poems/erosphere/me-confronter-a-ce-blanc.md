@@ -1,9 +1,6 @@
 ---
 title: "me confronter à ce blanc"
-description: "Poème"
 date: 2015-01-20
-recueil: erosphere
-feature: false
 ---
 
 me confronter à ce blanc qui tue

@@ -1,9 +1,6 @@
 ---
 title: "se quitter"
-description: "Poème"
 date: 2018-12-02
-recueil: erosphere
-feature: false
 ---
 
 je me rappelle d'un moment à venir

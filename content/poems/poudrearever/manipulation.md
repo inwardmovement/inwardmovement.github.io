@@ -1,9 +1,6 @@
 ---
 title: "Manipulation"
-description: "Poème"
 date: 2012-01-05
-recueil: poudrearever
-feature: false
 ---
 
 Fille je t'aime

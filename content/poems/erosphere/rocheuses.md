@@ -1,9 +1,6 @@
 ---
 title: "rocheuses"
-description: "Poème"
 date: 2019-03-18
-recueil: erosphere
-feature: false
 ---
 
 *à Isa*

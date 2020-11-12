@@ -1,9 +1,6 @@
 ---
 title: "Regards"
-description: "Poème"
 date: 2015-11-08
-recueil: erosphere
-feature: false
 ---
 
 les voix muettes se disent les mots

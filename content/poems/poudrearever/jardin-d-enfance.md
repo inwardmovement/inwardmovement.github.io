@@ -1,9 +1,6 @@
 ---
 title: "Jardin d'enfance"
-description: "Poème"
 date: 2012-01-10
-recueil: poudrearever
-feature: false
 ---
 
 tu sais c'est comme le jardin dans notre enfance

@@ -1,9 +1,6 @@
 ---
 title: "Équanimité II"
-description: "Poème"
 date: 2015-01-31
-recueil: erosphere
-feature: false
 ---
 
 et la parole n'a plus sa place

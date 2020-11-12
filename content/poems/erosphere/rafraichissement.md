@@ -1,9 +1,6 @@
 ---
 title: "rafraichissement"
-description: "Poème"
 date: 2018-05-06
-recueil: erosphere
-feature: false
 ---
 
 le vaste vide

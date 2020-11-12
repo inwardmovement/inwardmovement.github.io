@@ -1,9 +1,6 @@
 ---
 title: "Le spéléologue"
-description: "Poème"
 date: 2011-01-10
-recueil: superero
-feature: false
 ---
 
 Nous fantasmons, Mesdames, d'être spéléologues,

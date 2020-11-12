@@ -1,9 +1,6 @@
 ---
 title: "tu flirtes avec le vide"
-description: "Poème"
 date: 2015-01-05
-recueil: erosphere
-feature: false
 ---
 
 tu flirtes avec le vide

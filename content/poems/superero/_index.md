@@ -2,6 +2,9 @@
 title: "SuperEro"
 description: "Recueil : SuperEro"
 layout: recueil
+cascade:
+  recueil: superero
+  description: "Poème"
 ---
 
 Écrits entre 2011 et 2012.

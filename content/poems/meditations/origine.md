@@ -1,9 +1,6 @@
 ---
 title: "Origine"
-description: "Poème"
 date: 2013-02-12
-recueil: meditations
-feature: false
 ---
 
 *à Emma*

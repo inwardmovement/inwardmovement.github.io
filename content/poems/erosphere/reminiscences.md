@@ -1,9 +1,6 @@
 ---
 title: "réminiscences"
-description: "Poème"
 date: 2019-10-25
-recueil: erosphere
-feature: false
 ---
 
 *à Mylène*
