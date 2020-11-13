@@ -1,7 +1,8 @@
 {{ define "main" }}
   <main class="container container-404">
-    <div class="alert alert-404 alert-warning shadow-sm" role="alert">
+    <div class="alert alert-404 alert-warning shadow-sm text-center" role="alert">
       <h4 class="alert-heading">{{ .Title }}</h4>
+      <p>The page you ask for does not exist</p>
     </div>
   </main>
   {{ partial "top-btn" . }}
