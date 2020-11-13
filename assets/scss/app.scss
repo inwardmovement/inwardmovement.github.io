@@ -911,14 +911,12 @@ blockquote {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-right: 15px;
+  padding-left: 15px;
+  max-width: 600px;
+  margin-top: 5em;
 
   .alert-heading {
     margin-bottom: 0;
-  }
-}
-
-@include media-breakpoint-up(xl) {
-  .alert-404 {
-    margin-top: 10em;
   }
 }
