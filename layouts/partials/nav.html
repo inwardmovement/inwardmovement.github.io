@@ -1,12 +1,12 @@
 <nav class="navbar navbar-expand-sm navbar-light shadow-sm bg-white" aria-label="Main navigation">
   <div class="container">
-    <a class="navbar-brand" href="{{ "/" }}"><img id="logo" src="{{ (resources.Get "/img/logo.png" ).RelPermalink }}" width="40" class="d-inline-block" style="margin-right: .5em;" alt="logo">{{ .Site.Title }}</a>
+    <a class="navbar-brand" href="{{ "/" }}"><img id="logo" src="{{ (resources.Get "/img/logo.png" ).Permalink }}" width="40" class="d-inline-block" style="margin-right: .5em;" alt="logo">{{ .Site.Title }}</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Ouvre navigation principale"><span class="navbar-toggler-icon"></span></button>
     <div class="collapse navbar-collapse" id="navbar-collapse">
       <div class="navbar-nav">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-          {{ $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $.Section) }}
+          {{ $isCurrent := or (eq .URL $currentPage.Permalink) (eq .Identifier $.Section) }}
             <a class="nav-item nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a>
         {{ end }}
       </div>

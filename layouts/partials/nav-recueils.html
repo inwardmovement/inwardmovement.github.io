@@ -3,7 +3,7 @@
     <ul id="recueils" class="nav nav-pills collapse">
       {{ $currentPage := . }}
       {{ range .Site.Menus.recueils }}
-        {{ $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $currentPage.Params.recueil) }}
+        {{ $isCurrent := or (eq .URL $currentPage.Permalink) (eq .Identifier $currentPage.Params.recueil) }}
         <li class="nav-item"><a class="nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(active)</span>{{ end }}</a></li>
       {{ end }}
     </ul>

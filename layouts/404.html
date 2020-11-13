@@ -1,35 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta name="author" content="{{ .Site.Params.author }}">
-  <meta name="description" content="{{ .Site.Params.description }}">
-  {{ hugo.Generator }}
-  {{ with (getenv "PRODUCTION") }}
-    <meta name="version" content="{{ substr (getenv "GITHUB_SHA") 0 7 }}">
-  {{ end }}
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="google-site-verification" content="j9kZFqG19i8xULwMaL5HfHjW3klxp44Lrf7iW6lAGOk" />
-  {{ template "_internal/opengraph.html" . }}
-  {{ template "_internal/twitter_cards.html" . }}
-  {{ range .AlternativeOutputFormats }}
-      {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
-  {{ end }}
-  {{ $mainCSS := resources.Get "scss/app.scss" | resources.ToCSS | resources.PostCSS (dict "use" "autoprefixer") }}
-  {{ $mainCSS = slice $mainCSS | resources.Concat "main.css" }}
-  {{ with (getenv "PRODUCTION") }}
-    {{ $mainCSS = $mainCSS | minify | fingerprint }}
-  {{ end }}
-  <link rel="stylesheet" href="{{ $mainCSS.Permalink }}" integrity="{{ $mainCSS.Data.Integrity }}">
-  <link href="{{ (resources.Get "/img/logo.png" ).Permalink }}" rel="icon" type="image/x-icon" />
-  <title>{{ .Title }} | {{ .Site.Title }}</title>
-</head>
-<body>
+{{ define "main" }}
   <main class="container">
     <article>
-      <h1>{{ .Title }}</h1>
-      <p>Go to <a href="{{ .Site.BaseURL }}">homepage</a></p>
+      <h1>{{ .Title }}</h1><br>
     </article>
   </main>
-</body>
-</html>
+  {{ partial "top-btn" . }}
+{{ end }}

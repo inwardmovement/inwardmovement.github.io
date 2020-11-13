@@ -6,7 +6,7 @@
           <h4>{{ .Page.Title }}</h4>
           <ul>
             {{ range .Pages.ByDate.Reverse }}
-              <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+              <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
             {{ end }}
           </ul>
         {{ end }}
