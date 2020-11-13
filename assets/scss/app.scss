@@ -123,6 +123,9 @@ dd {
   }
 }
 
+.alert {
+  border-radius: 0;
+}
 
 p + .alert {
   margin-top: 2.5rem;
