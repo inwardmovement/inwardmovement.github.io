@@ -1,7 +1,7 @@
 baseURL: "https://inwardmovement.github.io/"
 title: "Inward Movement"
 canonifyURLs: false
-relativeURLs: true
+relativeURLs: false
 disableFastRender: true
 disableLiveReload: true
 metaDataFormat: yaml
