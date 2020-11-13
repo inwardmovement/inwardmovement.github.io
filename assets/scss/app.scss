@@ -906,17 +906,23 @@ blockquote {
 /************************************************************
   404
 ************************************************************/
-.alert-404 {
-  height: 5em;
+.container-404 {
   display: flex;
   justify-content: center;
-  align-items: center;
-  padding-right: 15px;
-  padding-left: 15px;
-  max-width: 600px;
-  margin-top: 5em;
 
-  .alert-heading {
-    margin-bottom: 0;
+  .alert-404 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    height: 5em;
+    max-width: 600px;
+    margin-top: 5em;
+    padding-right: 15px;
+    padding-left: 15px;
+
+    .alert-heading {
+      margin-bottom: 0;
+    }
   }
 }
