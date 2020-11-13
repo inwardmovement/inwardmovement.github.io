@@ -4,7 +4,7 @@
       <div class="alert alert-light text-center" role="alert">
         {{ .Content }}
       </div><br>
-      <h3>Poèmes :</h3>
+      <h3>Recueils :</h3>
       <ul>
         {{ range where .Data.Pages.ByWeight "Params.print" "poemes" }}
           <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>

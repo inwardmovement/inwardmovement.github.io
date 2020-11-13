@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <head>
-  {{- partial "head" . -}}
+  {{ partial "head" . }}
 </head>
 <body>
-  <h1 class="ds">{{.Title}}</h1><br>
+  <h1 class="ds">{{ .Title }}</h1><br>
   {{ .Content }}
 
-  {{ range where .Site.Pages.ByDate "Params.recueil" .Params.printrecueil }}
+  {{ range where .Site.RegularPages.ByDate "Params.recueil" .Params.printrecueil }}
     <h4>{{.Title}}</h4><br>
     {{ .Content }}
   {{ end }}
