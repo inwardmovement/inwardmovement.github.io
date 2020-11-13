@@ -902,3 +902,23 @@ blockquote {
     display: none !important;
   }
 }
+
+/************************************************************
+  404
+************************************************************/
+.alert-404 {
+  height: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .alert-heading {
+    margin-bottom: 0;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+  .alert-404 {
+    margin-top: 10em;
+  }
+}
