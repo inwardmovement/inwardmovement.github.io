@@ -1,7 +1,6 @@
 {
   "poem": {
 		"scope": "markdown",
-		"prefix": "poem",
 		"body": [
 			"---",
       "title: \"$1\"",
@@ -14,7 +13,6 @@
   },
   "recueil": {
 		"scope": "markdown",
-		"prefix": "recueil",
 		"body": [
       "---",
       "title: \"$1\"",
@@ -28,7 +26,6 @@
   },
   "quote": {
 		"scope": "markdown",
-		"prefix": "quote",
 		"body": [
       "{{< quote \"$1\" >}}",
       "$0",
