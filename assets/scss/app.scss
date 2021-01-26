@@ -1,5 +1,3 @@
-$btn-transition: none;
-// $breadcrumb-divider: url(data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iYmkgYmktY2hldnJvbi1jb21wYWN0LXJpZ2h0IiB3aWR0aD0iMWVtIiBoZWlnaHQ9IjFlbSIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSJjdXJyZW50Q29sb3IiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+DQogIDxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTguNzc2IDMuNTUzYS41LjUgMCAwMS42NzEuMjIzbDMgNmEuNS41IDAgMDEwIC40NDhsLTMgNmEuNS41IDAgMTEtLjg5NC0uNDQ4TDExLjQ0IDEwIDguNTUzIDQuMjI0YS41LjUgMCAwMS4yMjMtLjY3MXoiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPg0KPC9zdmc+);
 $enable-responsive-font-sizes: true;
 $theme-colors: (
   "primary-alt": #3490dc
@@ -98,13 +96,19 @@ dd {
   }
 }
 
+// Hide top-btn on mobile
+.top-btn {
+  visibility: hidden;
+}
+
 @include media-breakpoint-up(md) {
   .top-btn {
+    visibility: visible;
     display: none;
+    position: fixed;
     justify-content: center;
     align-items: center;
-    position: fixed;
-    bottom: 5rem;
+    bottom: 8rem;
     right: 5rem;
     height: 3.5em;
     width: 3.5em;
@@ -156,11 +160,7 @@ a[title].abbr {
 ************************************************************/
 main.container {
   max-width: 992px;
-  margin-bottom: 10rem;
-}
-
-main.container.article {
-  margin-bottom: 168px;
+  margin-bottom: 3.5em;
 }
 
 /************************************************************
@@ -226,6 +226,12 @@ svg.bi {
   }
 }
 
+.pagination {
+  svg.bi {
+    vertical-align: middle;
+  }
+}
+
 /************************************************************
   FONTS
 ************************************************************/
@@ -261,7 +267,7 @@ header {
   position: sticky;
   top: 0;
   z-index: $zindex-sticky;
-  margin-bottom: 3.5rem;
+  margin-bottom: 3.5em;
 
   .navbar {
     position: sticky;
@@ -297,8 +303,9 @@ header {
       color: rgba(0, 0, 0, 0.5);
     }
 
-    a,
-    .dropdown a {
+    a {
+      transition: $btn-transition;
+
       &:hover,
       &:focus {
         background-color: $light;
@@ -311,11 +318,6 @@ header {
         text-decoration: none;
         background-color: $light;
       }
-    }
-
-    .dropdown-menu a:hover,
-    .dropdown-menu a:focus {
-      color: rgba(0, 0, 0, 0.9);
     }
 
     .nav-item {
@@ -389,13 +391,7 @@ header {
 ************************************************************/
 .sidebar {
   grid-area: sidebar;
-
-  .pagination {
-    justify-content: center;
-    margin-top: 10px;
-    margin-bottom: 1.75rem;
-    flex-wrap: wrap;
-  }
+  margin-top: 2.5em;
 
   .nav-poems-navigation {
     .list-group {
@@ -448,26 +444,27 @@ header {
 
 @include media-breakpoint-up(md) {
   .sidebar {
-    .pagination {
-      margin-top: 0;
-    }
+    margin-top: 0;
   }
 }
 
-@include media-breakpoint-down(sm) {
-  .sidebar {
-    // .pagination-lg styles
-    .pagination {
-      .page-item:first-child .page-link {
-        border-top-left-radius: .3rem;
-        border-bottom-left-radius: .3rem;
-      }
+/************************************************************
+  POEMS PAGINATION
+************************************************************/
+.nav-poems-pagination {
+  position: fixed;
+  bottom: 0;
+  z-index: $zindex-fixed;
+  width: 100%;
+  text-align: center;
 
-      .page-link {
-        padding: .75rem 1.5rem;
-        font-size: 1.25rem;
-        line-height: 1.5;
-      }
+  .pagination {
+    background-color: $white;
+
+    .btn {
+      width: 100%;
+      border-radius: 0;
+      transition: $btn-transition;
     }
   }
 }
@@ -531,27 +528,6 @@ article {
 
   h1.ds {
     margin-bottom: .5rem;
-  }
-}
-
-.article {
-  h1 {
-    font-weight: 300;
-
-    &:first-child {
-      text-align: center;
-      font-weight: initial;
-    }
-  }
-
-  h2 {
-    font-size: 1.06rem;
-    font-weight: 600;
-  }
-
-  h3 {
-    font-size: 1.06rem;
-    font-style: italic;
   }
 }
 
@@ -635,12 +611,6 @@ article {
     padding-right: 15px;
     padding-left: 15px;
     max-width: 600px;
-  }
-}
-
-@include media-breakpoint-up(md) {
-  .article article {
-    max-width: 655px;
   }
 }
 
@@ -859,15 +829,12 @@ blockquote {
   FOOTER
 ************************************************************/
 .nav-footer {
-  position: absolute;
-  bottom: 0;
   width: 100%;
-  margin-bottom: 0;
   text-align: center;
+  padding: 1em;
 
-  a {
-    display: block;
-    padding: 1em;
+  &.pagination-poems {
+    margin-bottom: 48px;
   }
 }
 

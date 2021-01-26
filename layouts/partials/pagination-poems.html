@@ -1,0 +1,19 @@
+<nav class="nav-poems-pagination" aria-label="Poems pagination">
+    {{ if eq .File.BaseFileName "_index" }}
+      {{ range first 1 .Data.Pages.ByDate }}
+        <div class="pagination">
+          <a class="btn btn-lg btn-primary-alt" href="{{ .Permalink }}">Lire</a>
+        </div>
+      {{ end }}
+    {{ else }}
+    {{ $currentPage := . }}
+    {{ range where .Site.RegularPages.ByDate "Params.recueil" .Params.recueil }}
+      {{ if eq .Permalink $currentPage.Permalink }}
+        <div class="pagination">
+          <a class="btn btn-lg btn-primary-alt{{if not .PrevInSection}} disabled noselect" tabindex="-1{{ end }}" href="{{if .PrevInSection}}{{.PrevInSection.Permalink}}{{end}}" aria-label="Précédent">{{ (resources.Get "icons/chevron-left.svg").Content | safeHTML }}</a>
+          <a class="btn btn-lg btn-primary-alt{{if not .NextInSection}} disabled noselect" tabindex="-1{{ end }}" href="{{if .NextInSection}}{{.NextInSection.Permalink}}{{end}}" aria-label="Suivant">{{ (resources.Get "icons/chevron-right.svg").Content | safeHTML }}</a>
+        </div>
+      {{ end }}
+    {{ end }}
+    {{ end }}
+</nav>

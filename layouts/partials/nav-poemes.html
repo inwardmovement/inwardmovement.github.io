@@ -1,21 +1,4 @@
 <aside class="sidebar">
-  <nav class="nav-poems-pagination" aria-label="Poems pagination">
-    <ul class="pagination">
-      {{ if eq .File.BaseFileName "_index" }}
-        {{ range first 1 .Data.Pages.ByDate }}
-          <li class="page-item"><a class="page-link" href="{{ .Permalink }}">commencer la lecture</a></li>
-        {{ end }}
-      {{ else }}
-      {{ $currentPage := . }}
-      {{ range where .Site.RegularPages.ByDate "Params.recueil" .Params.recueil }}
-      {{ if eq .Permalink $currentPage.Permalink }}
-      <li class="page-item{{if not .PrevInSection}} disabled noselect{{ end }}"><a class="page-link" href="{{if .PrevInSection}}{{.PrevInSection.Permalink}}{{end}}">précédent</a></li>
-      <li class="page-item{{if not .NextInSection}} disabled noselect{{ end }}"><a class="page-link" href="{{if .NextInSection}}{{.NextInSection.Permalink}}{{end}}">suivant</a></li>
-      {{ end }}
-      {{ end }}
-      {{ end }}
-    </ul>
-  </nav>
   <nav class="nav-poems-navigation" aria-label="Poems navigation">
     <div class="list-group">
       {{ $currentPage := . }}

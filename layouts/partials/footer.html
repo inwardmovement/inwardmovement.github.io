@@ -1,4 +1,4 @@
-<nav id="footer" class="navbar-light bg-light nav-footer" aria-label="Footer navigation">
+<nav id="footer" class="navbar-light bg-light nav-footer{{ with (.Scratch.Get "pagination") }} pagination-poems{{ end }}" aria-label="Footer navigation">
   {{ $currentPage := . }}
   {{ range .Site.Menus.footer }}
     <a class="text-muted" href="{{ .URL }}">{{ .Name }}</a>

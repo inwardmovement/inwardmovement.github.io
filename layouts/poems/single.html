@@ -7,4 +7,6 @@
     </article>
   </main>
   {{ partial "top-btn" . }}
+  {{ .Scratch.Set "pagination" "true" }}
+    {{ partial "pagination-poems" . }}
 {{ end }}
