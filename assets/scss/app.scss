@@ -794,6 +794,18 @@ article {
       }
     }
 
+    .youtube {
+      color: #fff;
+      background-color: #FF0000;
+      border-color: #FF0000;
+
+      &:hover {
+        color: #fff;
+        background-color: darken($color: #FF0000, $amount: 8);
+        border-color: darken($color: #FF0000, $amount: 8);
+      }
+    }
+
     .rss {
       color: #fff;
       background-color: #f26522;

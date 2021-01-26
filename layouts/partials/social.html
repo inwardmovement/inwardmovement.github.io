@@ -1,11 +1,14 @@
 <div id="social">
   {{ with .Site.Params.discord }}
-    <a class="btn discord rounded-circle no-external-icon" href="https://discordapp.com/users/{{ . }}/">{{ (resources.Get "img/discord.svg").Content | safeHTML }}<span class="sr-only">Discord</span></a>
+    <a class="btn discord rounded-circle no-external-icon" href="https://discordapp.com/users/{{ . }}/">{{ (resources.Get "img/discord.svg").Content | safeHTML }}<span class="sr-only">Discord profile</span></a>
+  {{ end }}
+  {{ with .Site.Params.youtube }}
+    <a class="btn youtube rounded-circle no-external-icon" href="https://www.youtube.com/user/{{ . }}/">{{ (resources.Get "img/youtube.svg").Content | safeHTML }}<span class="sr-only">Youtube channel</span></a>
   {{ end }}
   {{ with .Site.Params.github }}
-    <a class="btn github rounded-circle no-external-icon" href="https://github.com/{{ . }}/">{{ (resources.Get "img/github.svg").Content | safeHTML }}<span class="sr-only">GitHub</span></a>
+    <a class="btn github rounded-circle no-external-icon" href="https://github.com/{{ . }}/">{{ (resources.Get "img/github.svg").Content | safeHTML }}<span class="sr-only">GitHub profile</span></a>
   {{ end }}
   {{ with .Site.Params.email }}
-    <a class="btn btn-info rounded-circle no-external-icon" href="mailto:{{ . }}">{{ (resources.Get "icons/envelope-fill.svg").Content | safeHTML }}<span class="sr-only">Email</span></a>
+    <a class="btn btn-info rounded-circle no-external-icon" href="mailto:{{ . }}">{{ (resources.Get "icons/envelope-fill.svg").Content | safeHTML }}<span class="sr-only">Send an email</span></a>
   {{ end }}
 </div>
