@@ -1,5 +1,5 @@
 <nav id="nav-recueils" aria-label="Navigation recueils">
-  <button class="btn btn-block btn-primary-alt btn-lg d-md-none text-center" type="button" data-toggle="collapse" data-target="#recueils" aria-controls="recueils" aria-expanded="false" aria-label="Ouvrir navigation recueils">{{ (resources.Get "icons/book.svg").Content | safeHTML }} Recueils</button>
+  <button class="btn btn-block btn-primary-alt btn-lg d-md-none text-center" type="button" data-toggle="collapse" data-target="#recueils" aria-controls="recueils" aria-expanded="false" aria-label="Ouvrir navigation recueils">Recueils {{ (resources.Get "icons/chevron-down.svg").Content | safeHTML }}</button>
     <ul id="recueils" class="nav nav-pills collapse">
       {{ $currentPage := . }}
       {{ range .Site.Menus.recueils }}

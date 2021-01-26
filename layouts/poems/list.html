@@ -1,10 +1,7 @@
 {{ define "main" }}
-  {{ partial "nav-recueils" . }}
   <main class="container poems">
-    <div class="recueils-subtext text-muted ca"><img src="{{ (resources.Get "/img/arrow.png" ).Permalink }}" alt="arrow"> choisis un recueil</div>
     {{ .Content }}
     <article>
-      <hr style="margin-bottom: 3rem; margin-top: 3rem;">
       <h1 class="ds text-center">Extraits</h1><br>
       {{ range where (where .Site.Pages "Type" "poems") ".Params.feature" true }}
         <h2>{{ .Title }}</h2><br>

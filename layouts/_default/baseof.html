@@ -4,8 +4,11 @@
   {{ partial "head" . }}
 </head>
 <body>
-  <header>
+  <header class="shadow-sm">
     {{ partial "nav" . }}
+    {{ if eq .Section "poems"}}
+      {{ partial "nav-recueils" . }}
+    {{ end }}
   </header>
   {{ block "main" . }}{{ end }}
   <footer>

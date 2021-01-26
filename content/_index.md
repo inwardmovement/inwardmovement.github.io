@@ -2,7 +2,7 @@
 title: "Inward Movement"
 description: "Developer, author, musician"
 customTitle: "Hi =)"
-presentation: "My name is Victor"
+presentation: "I'm Victor"
 ---
 
 {{< home-box "What I do" >}}
