@@ -6,7 +6,7 @@
       <div class="navbar-nav">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-          {{ $isCurrent := or (eq .URL $currentPage.Permalink) (eq .Identifier $.Section) }}
+          {{ $isCurrent := or (eq .URL $currentPage.RelPermalink) (eq .Identifier $.Section) }}
             <a class="nav-item nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(current)</span>{{ end }}</a>
         {{ end }}
       </div>
