@@ -3,7 +3,7 @@
 <head>
   {{ partial "head" . }}
 </head>
-<body>
+<body{{ if .IsHome }} style="background-color: var(--home-bg-color);"{{ end }}>
   <header class="shadow-sm">
     {{ partial "nav" . }}
     {{ if eq .Section "poems"}}

@@ -2,16 +2,15 @@
   <main class="container home">
     <article>
       <div class="presentation">
-        <div class="logo">
-          <img src="{{ (resources.Get "img/logo.png" ).Permalink }}" class="img-thumbnail rounded" alt="Photo">
-        </div>
-        <div class="text">
+        <div>
           <h1>{{ .Params.customTitle }}</h1>
-          <h4>{{ .Params.presentation }}</h4>
+          <p>{{ .Params.presentation }}</p>
         </div>
       </div>
-      <div class="home-box-container">
-        {{ .Content }}
+      <div class="box">
+        <div>
+          {{ .Content }}
+        </div>
       </div>
       {{ partial "social" . }}
     </article>

@@ -2,20 +2,11 @@
 title: "Inward Movement"
 description: "Developer, author, musician"
 customTitle: "Hi =)"
-presentation: "I'm Victor"
+presentation: "I'm Victor Massé"
 ---
 
-{{< home-box >}}
+:computer: dev <a href="https://algosphere.org" class="no-external-icon">@Algosphere</a>
 
-dev <a href="https://algosphere.org" class="no-external-icon">@Algosphere</a>
+:black_nib: I write french poetry
 
----
-
-I write french poetry
-
----
-
-I play the guitar
-
-{{< /home-box >}}
-
+:metal: I play the guitar
