@@ -4,7 +4,7 @@
   {{ partial "head" . }}
   <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 </head>
-<body{{ if .IsHome }} style="background-color: var(--home-bg-color);"{{ end }}>
+<body>
   <header class="shadow-sm">
     {{ block "header" . }}
       {{ partial "nav" . }}
