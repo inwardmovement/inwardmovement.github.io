@@ -1,3 +1,7 @@
+{{ define "header" }}
+  {{ partial "nav" . }}
+  {{ partial "nav-recueils" . }}
+{{ end }}
 {{ define "main" }}
   <main class="container grid-poems">
     {{ partial "nav-poemes" . }}
@@ -7,6 +11,9 @@
     </article>
   </main>
   {{ partial "top-btn" . }}
+{{ end }}
+{{ define "footer" }}
   {{ .Scratch.Set "pagination" "true" }}
-    {{ partial "pagination-poems" . }}
+  {{ partial "nav-footer" . }}
+  {{ partial "pagination-poems" . }}
 {{ end }}

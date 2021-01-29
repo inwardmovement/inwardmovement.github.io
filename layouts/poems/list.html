@@ -1,8 +1,12 @@
+{{ define "header" }}
+  {{ partial "nav" . }}
+  {{ partial "nav-recueils" . }}
+{{ end }}
 {{ define "main" }}
   <main class="container poems">
     {{ .Content }}
     <article>
-      <h1 class="ds text-center">Extraits</h1><br>
+      <h1 class="text-center ds">Extraits</h1><br>
       {{ range where (where .Site.Pages "Type" "poems") ".Params.feature" true }}
         <h2>{{ .Title }}</h2><br>
         {{ .Content }}

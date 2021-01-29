@@ -6,14 +6,15 @@
 </head>
 <body{{ if .IsHome }} style="background-color: var(--home-bg-color);"{{ end }}>
   <header class="shadow-sm">
-    {{ partial "nav" . }}
-    {{ if eq .Section "poems"}}
-      {{ partial "nav-recueils" . }}
+    {{ block "header" . }}
+      {{ partial "nav" . }}
     {{ end }}
   </header>
   {{ block "main" . }}{{ end }}
   <footer>
-    {{ partial "footer" . }}
+    {{ block "footer" . }}
+      {{ partial "nav-footer" . }}
+    {{ end }}
   </footer>
 {{ partial "scripts" . }}
 </body>
