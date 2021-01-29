@@ -1,0 +1,36 @@
+#nav-recueils {
+  .btn {
+    border-radius: 0;
+  }
+
+  .nav-pills {
+    justify-content: center;
+    background-color: $breadcrumb-bg;
+
+    .nav-link {
+      border-radius: 0;
+
+      &.active {
+        background-color: $primary-alt;
+      }
+    }
+ }
+}
+
+@include media-breakpoint-up(md) {
+  #nav-recueils {
+    .nav-pills {
+      display: flex;
+    }
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  #nav-recueils {
+    .nav-pills {
+      .nav-item {
+        width: 100%;
+      }
+    }
+  }
+}

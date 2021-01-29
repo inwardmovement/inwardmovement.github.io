@@ -1,0 +1,28 @@
+blockquote {
+  padding-top: 0.5rem;
+  padding-right: 1rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  border-left: 5px solid #eceeef;
+  color: #6c757d;
+
+  p:last-of-type {
+    margin-bottom: 0 !important;
+  }
+
+  .blockquote-footer {
+    font-style: normal;
+    margin-top: 1.25rem;
+    color: #212529;
+    font-size: inherit;
+  }
+}
+
+.blockquote {
+  font-size: inherit;
+}
+
+.grid-poems blockquote {
+  font-style: italic;
+  margin-top: 2.5rem;
+}

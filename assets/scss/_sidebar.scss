@@ -1,0 +1,49 @@
+.sidebar {
+  grid-area: sidebar;
+  margin-top: var(--default-spacing);
+
+  .nav-poems-navigation {
+    .list-group {
+      border: 1px solid rgba(0,0,0,.125);
+      border-radius: $border-radius;
+      background-color: rgba(0,0,0,.03);
+      padding-top: .75rem;
+      padding-bottom: .75rem;
+
+      .list-group-item {
+        padding-top: .25em;
+        padding-bottom: .25em;
+        background-color: transparent;
+        color: $link-color;
+        border: none;
+
+        &:first-child {
+          border-top-left-radius: 0;
+          border-top-right-radius: 0;
+        }
+
+        &:last-child {
+          border-bottom-right-radius: 0;
+          border-bottom-left-radius: 0;
+        }
+
+        &:hover {
+          color: $link-hover-color;
+        }
+
+        &.active {
+          background-color: $primary-alt;
+          color: #fff;
+          border-left: 1px solid $primary-alt;
+          border-right: 1px solid $primary-alt;
+          margin-left: -1px;
+          min-width: calc(100% + 2px);
+        }
+
+        & + .list-group-item.active {
+          margin-top: 0;
+        }
+      }
+    }
+  }
+}

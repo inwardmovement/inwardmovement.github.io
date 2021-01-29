@@ -1,0 +1,32 @@
+article {
+  grid-area: content;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+
+  p {
+    margin-bottom: 1.25rem;
+  }
+}
+
+.grid-poems article  {
+    margin: 0;
+
+    @include media-breakpoint-down(sm) {
+      *:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    @include media-breakpoint-up(md) {
+      margin-left: 100px;
+    }
+  }
+
+@include media-breakpoint-up(md) {
+  article {
+    padding-right: 15px;
+    padding-left: 15px;
+    max-width: 600px;
+  }
+}

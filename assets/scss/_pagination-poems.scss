@@ -1,0 +1,17 @@
+.pagination-poems {
+  position: fixed;
+  bottom: 0;
+  z-index: $zindex-fixed;
+  width: 100%;
+  text-align: center;
+
+  .pagination {
+    background-color: $white;
+
+    .btn {
+      width: 100%;
+      border-radius: 0;
+      transition: $btn-transition;
+    }
+  }
+}

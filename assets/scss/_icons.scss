@@ -1,0 +1,31 @@
+svg.bi {
+  vertical-align: baseline;
+
+  &.bi-arrow-up-right {
+    vertical-align: sub;
+    margin-left: .1em;
+    margin-bottom: .1em;
+  }
+
+  &.bi-chevron-down {
+    vertical-align: sub;
+    margin-left: .25rem;
+  }
+}
+
+.pagination {
+  svg.bi {
+    vertical-align: middle;
+  }
+}
+
+.btn {
+  svg.bi {
+    transition: transform ease-in-out .15s;
+  }
+
+  &[aria-expanded=true]
+  svg.bi.bi-chevron-down {
+    transform: rotate(-180deg);
+  }
+}

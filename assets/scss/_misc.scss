@@ -1,0 +1,125 @@
+html {
+  position: relative;
+  min-height: 100vh;
+  overflow-y: scroll !important;
+}
+
+body {
+  cursor: default;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main.container {
+  max-width: 992px;
+  margin-bottom: var(--default-spacing);
+  flex-grow: 1;
+}
+
+body.modal-open {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+a:focus, a:hover {
+  text-decoration: none;
+}
+
+b, strong {
+  font-weight: 600;
+}
+
+dl, ol, ul {
+  margin-bottom: 1.25rem;
+}
+
+.noselect {
+  -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+}
+
+#modalDonation {
+  padding-right: 0 !important;
+}
+
+iframe {
+  width: 100%;
+  height: 380px;
+}
+
+li br + br {
+  display: none;
+}
+
+li p br + br {
+  display: initial;
+}
+
+p ~ dl {
+  margin-top: -1.25rem;
+}
+
+p + ul {
+  margin-top: -0.75rem;
+}
+
+dl {
+  padding-left: 2rem;
+
+  br:last-of-type {
+    display: none;
+  }
+}
+
+dt {
+  font-weight: initial;
+  font-style: italic;
+}
+
+dd {
+  margin-bottom: 1.25rem;
+}
+
+.footnotes {
+  margin-top: 5rem;
+
+  br {
+    display: none;
+  }
+}
+
+.alert {
+  border-radius: 0;
+}
+
+p + .alert {
+  margin-top: 2.5rem;
+}
+
+.alert p {
+  margin-bottom: 0;
+}
+
+a[title].abbr {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration: underline dotted;
+  cursor: help;
+  border-bottom: 0;
+  text-decoration-skip-ink: none;
+}
+
+@include media-breakpoint-down(xs) {
+  ol, ul, dl {
+    padding-left: 20px;
+  }
+}
+
+.poems hr:last-of-type {
+  display: none;
+}
