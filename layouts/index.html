@@ -12,7 +12,14 @@
       </div>
       <div class="box">
         <div>
-          {{ .Content }}
+          <div class="icons">
+            <span>💻</span>
+            <span>✒️</span>
+            <span>🤘</span>
+          </div>
+          <div class="content">
+            {{ .Content }}
+          </div>
         </div>
       </div>
       {{ partial "social" . }}

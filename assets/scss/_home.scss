@@ -1,4 +1,8 @@
 .home {
+  p {
+    margin-bottom: 1rem;
+  }
+
   .presentation {
     display: flex;
     flex-direction: column;
@@ -23,5 +27,19 @@
     margin-bottom: var(--default-spacing);
     display: flex;
     justify-content: center;
+
+    div {
+      display: flex;
+
+      div {
+        display: grid;
+        column-gap: 1em;
+
+        &.icons {
+          text-align: center;
+          margin-right: .5rem;
+        }
+      }
+    }
   }
 }
