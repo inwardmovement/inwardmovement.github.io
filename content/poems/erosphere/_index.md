@@ -7,7 +7,7 @@ cascade:
   description: "Poème"
 ---
 
-En cours d'écriture
+2014 - auj.
 
 {{% quote "Georges Bataille" %}}
 Au-delà de ma mort

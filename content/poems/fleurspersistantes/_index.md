@@ -7,7 +7,7 @@ cascade:
   description: "Poème"
 ---
 
-Écrits entre 2009 et 2011.
+2009 - 2011
 
 {{% quote "Paul Éluard" %}}
 Je suis devant ce paysage féminin

@@ -7,7 +7,7 @@ cascade:
   description: "Poème"
 ---
 
-Écrits entre 2011 et 2012.
+2011 - 2012
 
 {{% quote "Paul Éluard" %}}
 Il suffit d'avancer pour vivre

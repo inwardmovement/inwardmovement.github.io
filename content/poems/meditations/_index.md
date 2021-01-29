@@ -7,7 +7,7 @@ cascade:
   description: "Poème"
 ---
 
-Écrits entre 2013 et 2014.
+2013 - 2014
 
 {{% quote "Charles Juliet" %}}
 Un jour
