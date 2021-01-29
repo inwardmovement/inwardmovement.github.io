@@ -14,4 +14,3 @@
 {{ end }}
 {{ partial "styles" . }}
 <link href="{{ (resources.Get "/img/logo-circle.png" ).Permalink }}" rel="icon" type="image/x-icon" />
-<title>{{ if .IsHome }}{{ .Site.Title }} | {{ .Site.Params.description }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>

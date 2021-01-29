@@ -2,6 +2,7 @@
 <html lang="{{ if .Params.lang }}{{ .Params.lang }}{{ else }}en{{ end }}">
 <head>
   {{ partial "head" . }}
+  <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 </head>
 <body{{ if .IsHome }} style="background-color: var(--home-bg-color);"{{ end }}>
   <header class="shadow-sm">
