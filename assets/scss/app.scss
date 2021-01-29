@@ -232,6 +232,16 @@ svg.bi {
   }
 }
 
+.btn {
+  svg {
+    transition: transform ease-in-out .15s;
+  }
+
+  &[aria-expanded=true]
+  svg {
+    transform: rotate(-180deg);
+  }
+}
 /************************************************************
   FONTS
 ************************************************************/
