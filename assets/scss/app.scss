@@ -242,12 +242,12 @@ svg.bi {
 }
 
 .btn {
-  svg {
+  svg.bi {
     transition: transform ease-in-out .15s;
   }
 
   &[aria-expanded=true]
-  svg {
+  svg.bi.bi-chevron-down {
     transform: rotate(-180deg);
   }
 }
