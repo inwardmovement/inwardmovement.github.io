@@ -2,10 +2,12 @@
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
-    document.querySelector(".top-btn").style.display = "flex";
-  } else {
-    document.querySelector(".top-btn").style.display = "none";
+  if (document.querySelector(".top-btn")) {
+    if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
+      document.querySelector(".top-btn").style.display = "flex";
+    } else {
+      document.querySelector(".top-btn").style.display = "none";
+    }
   }
 }
 
