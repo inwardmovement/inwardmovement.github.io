@@ -1,8 +1,4 @@
-#nav-recueils {
-  .btn {
-    border-radius: 0;
-  }
-
+.nav-recueils {
   .nav-pills {
     justify-content: center;
     background-color: $breadcrumb-bg;
@@ -17,8 +13,30 @@
  }
 }
 
+.nav-recueils-mobile {
+  .btn-group {
+    width: 100%;
+
+    .btn {
+      border-radius: 0;
+    }
+
+    .dropdown-menu {
+      width: 100%;
+      border-radius: 0;
+      margin: 0;
+      padding: 0;
+      border-top: 0;
+      border-left: 0;
+      border-right: 0;
+      text-align: center;
+    }
+  }
+}
+
 @include media-breakpoint-up(md) {
-  #nav-recueils {
+  .nav-recueils,
+  .nav-recueils-mobile {
     .nav-pills {
       display: flex;
     }
@@ -26,7 +44,8 @@
 }
 
 @include media-breakpoint-down(sm) {
-  #nav-recueils {
+  .nav-recueils,
+  .nav-recueils-mobile {
     .nav-pills {
       .nav-item {
         width: 100%;

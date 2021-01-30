@@ -18,6 +18,10 @@ main.container {
   flex-grow: 1;
 }
 
+.dropdown-toggle::after {
+  display: none;
+}
+
 body.modal-open {
   padding-left: 0 !important;
   padding-right: 0 !important;

@@ -1,10 +1,24 @@
-<nav id="nav-recueils" aria-label="Navigation recueils">
-  <button class="btn btn-block btn-primary-alt btn-lg d-md-none text-center" type="button" data-toggle="collapse" data-target="#recueils" aria-controls="recueils" aria-expanded="false" aria-label="Ouvrir navigation recueils">Recueils {{ (resources.Get "icons/chevron-down.svg").Content | safeHTML }}</button>
-    <ul id="recueils" class="nav nav-pills collapse">
-      {{ $currentPage := . }}
-      {{ range .Site.Menus.recueils }}
-        {{ $isCurrent := or (eq .URL $currentPage.Permalink) (eq .Identifier $currentPage.Params.recueil) }}
-        <li class="nav-item"><a class="nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(active)</span>{{ end }}</a></li>
-      {{ end }}
-    </ul>
+<nav class="nav-recueils d-none d-md-block" aria-label="Navigation recueils">
+  {{ partial "nav-recueils-content" . }}
 </nav>
+
+<nav class="nav-recueils nav-recueils-mobile d-md-none" aria-label="Navigation recueils">
+  <div class="btn-group">
+    <button class="btn btn-primary-alt btn-lg dropdown-toggle d-md-none text-center shadow-sm" type="button" data-toggle="dropdown" data-display="static" aria-haspopup="true" aria-expanded="false" aria-label="Ouvrir navigation recueils">
+      Recueils {{ (resources.Get "icons/chevron-down.svg").Content | safeHTML }}
+    </button>
+    <div class="dropdown-menu shadow-sm">
+      {{ partial "nav-recueils-content" . }}
+    </div>
+  </div>
+</nav>
+
+{{ define "partials/nav-recueils-content" }}
+  <ul class="nav nav-pills">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.recueils }}
+    {{ $isCurrent := or (eq .URL $currentPage.Permalink) (eq .Identifier $currentPage.Params.recueil) }}
+    <li class="nav-item"><a class="nav-link{{ if $isCurrent }} active{{ end }}" href="{{ .URL }}">{{ .Name }}{{ if $isCurrent }} <span class="sr-only">(active)</span>{{ end }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}
