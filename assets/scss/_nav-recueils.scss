@@ -30,25 +30,11 @@
       border-left: 0;
       border-right: 0;
       text-align: center;
-    }
-  }
-}
 
-@include media-breakpoint-up(md) {
-  .nav-recueils,
-  .nav-recueils-mobile {
-    .nav-pills {
-      display: flex;
-    }
-  }
-}
-
-@include media-breakpoint-down(sm) {
-  .nav-recueils,
-  .nav-recueils-mobile {
-    .nav-pills {
-      .nav-item {
-        width: 100%;
+      .nav-pills {
+        .nav-item {
+          width: 100%;
+        }
       }
     }
   }
