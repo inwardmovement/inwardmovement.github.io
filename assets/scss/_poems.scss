@@ -1,0 +1,15 @@
+.poems {
+  display: flex;
+  flex-direction: column;
+}
+
+@include media-breakpoint-up(md) {
+  .poems {
+    flex-direction: row;
+
+    .sidebar {
+      order: -1;
+      min-width: 300px;
+    }
+  }
+}
