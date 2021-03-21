@@ -14,25 +14,22 @@
   align-items: stretch;
 
   .navbar-nav {
-    // padding-top: 0.25rem;
-
-    // à refactoriser
-    .nav-link:hover:not(.active) {
-      color: rgba(0, 0, 0, 0.5);
-    }
-
-    a {
+    .nav-link {
       transition: $btn-transition;
+      color: rgba(0, 0, 0, .55);
+
+      &:hover:not(.active) {
+        color: rgba(0, 0, 0, .55);
+      }
 
       &:hover,
       &:focus {
         background-color: $light;
-        color: rgba(0, 0, 0, 0.5);
+        color: rgba(0, 0, 0, .55);
       }
 
       &.active {
-        color: rgba(0, 0, 0, 0.7);
-        font-weight: 600;
+        color: rgba(0, 0, 0, .9);
         text-decoration: none;
         background-color: $light;
       }
