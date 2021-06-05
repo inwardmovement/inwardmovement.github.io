@@ -2,6 +2,8 @@
   var externalLinkIcon = {{ (resources.Get "icons/arrow-up-right.svg").Content | safeHTML | replaceRE "\n\\s*" "" }};
 </script>
 
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "ca3370cfb1374ca08b78349f578ca024"}'></script>
+
 {{ $jquery := resources.Get "js/jquery.js" }}
 {{ $popper := resources.Get "js/popper.js" }}
 {{ $bootstrap := resources.Get "js/bootstrap.js" }}
