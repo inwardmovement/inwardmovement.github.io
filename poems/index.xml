@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poèmes on Inward Movement</title>
+    <link>https://inwardmovement.github.io/poems/</link>
+    <description>Recent content in Poèmes on Inward Movement</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 29 Jun 2021 21:35:01 +0200</lastBuildDate><atom:link href="https://inwardmovement.github.io/poems/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
